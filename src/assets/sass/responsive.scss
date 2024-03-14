@@ -1,0 +1,933 @@
+@media screen and(max-width: 1000px){
+        .modal_item-small-width{
+                width: 98% !important;
+
+                .form-type-1 {
+                        .form__group {
+                                margin: 0 0 30px;
+                        }
+                        .form__inline {
+                                .form__group {
+                                        width: 100%;
+                                }
+                        }
+                }
+
+        }
+}
+
+@media screen and (max-width: 660px){
+        h1{
+                font-size: 39px !important;
+        }
+        h2{
+                font-size: 30px !important;
+        }
+        h3{
+                font-size:25px !important;
+        }
+        .toasted-container{
+               
+                &.bottom-right{
+                        bottom: 0 !important;
+                        left: 0 !important;
+                        right: 0 !important;
+                }
+                .toasted{
+                        padding: 20px !important;
+                        line-height: 24px !important;
+                        border-radius: 0 !important;
+                }
+                
+        }
+        .pagination{
+                margin: 30px 0;
+        }
+        .job_search_page{
+                .layout-public{
+                        .job_search_page{
+                                padding-top:0 !important;
+                                .job_search_header{
+                                        padding-top: 90px;
+                                        &.single_public_job,
+                                        &.single_public_company{
+                                                padding-top: 120px;
+                                                padding-left: 22px;
+                                                padding-right: 22px;
+
+                                                
+                                                
+
+                                               
+                                        }
+                                        .absolute_image{
+                                                position: absolute;
+                                                width: 100%;
+                                                top: 110px;
+                                                left: 0;
+                                                opacity: 1;
+                                                right: 0;
+                                                img{
+                                                        opacity: 0.4;
+                                                }
+                                        }
+                                        form{
+                                                .input_container{
+                                                        width:90%;
+                                                }
+                                        }
+                                        &.single_public_company{
+                                                .company_logo{
+                                                      .company_details{
+                                                        margin-left:0;
+                                                        margin-top:20px;
+                                                      }
+                                                }
+                                        }
+                                        
+
+                                      
+                                }//end of job search page header
+                                .job_search_content{
+                                        .job_search_filters{
+                                                display:none !important;
+                                                width: 100%;
+                                                margin-bottom: 30px;
+                                        }
+                                        .job_search_resulsts{
+                                                width:100%;
+                                        }
+                                }// end of job search content for search jobs page
+                                .single_job_top_details{
+                                                ul{
+                                                            text-align: center;
+                                                        li{
+                                                                margin-right: 22px;
+                                                                .hr_icon{
+                                                                        width: 40px;
+                                                                        height: 40px;
+                                                                        line-height: 49px;
+                                                                        margin-right: 10px;
+                                                                        border-radius: 4px;
+                                                                        background: none;
+                                                                        vertical-align: middle;
+                                                                        padding: 0;
+                                                                        margin: 0;
+                                                                }
+                                                                p{
+                                                                        display:none;
+                                                                }
+                                                        }
+                                                }
+                                }   
+                                .current_public_job_details_content{
+                                        width:100%;
+                                        padding-bottom: 0;
+                                }    
+                                .current_public_job_apply{
+                                        width:100%;
+                                        display:block;
+                                }
+                                
+                        }
+                }
+        }
+       
+    
+        .layout-public{
+                .hrbee-public-navigation-logos{
+                        img{
+                                width:90px !important;
+                        }
+                }
+                .page-content{
+                        padding-top:80px;
+
+                        //Styles for modules descriptions 
+                        // Module page header 
+                        .public_page_title{
+                                .title_content{
+                                        text-align:center;
+                                        .feature_icon{
+                                                width: 50px;
+                                                height: 50px;
+                                                text-align: center;
+                                                line-height: 50px;
+                                                border-radius: 11px;
+                                                svg{
+                                                        width:18px;
+                                                }
+                                        }
+                                        .title{
+                                                width:100%;
+                                                padding-left: 0;
+                                                padding-top: 20px;
+                                        }
+                                }
+                        }
+                        //End of module pages styling
+
+                        .pricing_calculator{
+                                .pricing_step{
+                                        h4{
+                                             
+                                        }
+                                        .hr_features_listings{
+                                                .icon{
+                                                        width: 100%;
+                                                        margin: 10px auto !important;
+                                                        display: block;
+                                                }
+                                                .feature_title{
+                                                        width: 100%;
+                                                        display: block;
+                                                }
+                                                .feature_price{
+                                                        display: block;
+                                                        width: 100%;
+                                                        text-align: left;
+                                                        p{
+                                                                text-align: left;
+                                                        }
+                                                }
+                                        }
+                                }
+                        }// end of pricing calculator page
+
+
+                }
+                .header_absolute_image_1 {
+                        left:initial;
+                        position: absolute;
+                        top: 0;
+                        opacity: 0.2;
+                        width: 80%;
+                        right: 0;
+                }
+                // Homepage Header image with features
+                .header_with_image_features {
+                        .header_container {
+                                padding-left: 20px;
+                                padding-right: 20px;
+                                padding-bottom: 50px;
+                                .header-col{
+                                        padding-top: 30px;
+                                        width: 100% !important;
+                                        display:block;
+                                        &.content{
+                                                h1{
+                                                      
+                                                }
+                                        }
+                                }
+                        }
+                }// Homepage header end
+                
+
+                .features {
+                        padding: 30px 0;
+                        .box{
+                                margin-bottom:20px;
+                                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1) !important;
+                        }
+                }// end of homepage features
+
+
+                // Public job listings
+                .job_search_content{
+                        padding-bottom: 20px;
+                }
+                .job_search_resulsts{
+                        margin-left:0;
+                }
+                .jobs_listings {
+                        position: relative;
+
+                        .job_item {
+                                .company_logo{
+                                        display: block !important;
+                                        margin: 17px auto !important;
+                                        width: 70px !important;
+                                }
+                                .job_desc{
+                                        display: block !important;
+                                        width: 100% !important;
+                                        text-align: center;
+                                        h5{
+                                                margin-bottom:10px !important;
+                                                span{
+                                                        &.total_applications,
+                                                        &.be_first{
+                                                                display: block;
+                                                                clear:both;
+                                                        }
+                                                }
+                                        }
+                                        ul{
+                                                margin-bottom: 10px;
+                                        }
+                                }
+                                .apply_to_job{
+                                        display: block !important;
+                                        width: 100% !important;
+                                        text-align: center;
+                                        box-sizing: border-box;
+                                }
+                        }
+                }// endo f job listings
+
+                footer {
+                        text-align: center;
+                        .grand {
+                                padding-top: 40px;
+                            }
+
+                        .footer_copyright{
+                                ul{
+                                        li{
+                                                margin-top:20px;
+                                                margin-bottom:20px;
+                                                display:block !important;
+                                                margin-right:0;
+                                        }
+                                }
+                                .developed_by {
+                                        text-align: center !important;
+                                        margin: 20px 0;
+                                }
+                        }
+
+                }
+
+        }// End of layout-public
+
+        .layout-authentication{
+                .hrbee-public-navication-buttons{
+                        display:block;
+                }// end of navigation
+                .hrbee-public-navigation-logos{
+                        img{
+                                width:90px !important;
+                        }
+                }
+                .page_content{
+                        width:100%;
+                        &.login_page{
+                                width:100%;
+                        }
+                        .auth-bottom-link{
+                                text-align:center;
+                        }
+                }
+        }
+
+
+        .layout-admin{
+
+                .admin_left{
+                        
+                        display: block;
+                        width: 100%;
+                        position: relative;
+                        height: 79px;
+                        background: #fff;
+
+                        .admin_sidebar{
+                                position: relative;
+                                background: none;
+                                height: initial;
+                                border:none;
+                                .logo{
+                                        margin-bottom: 0;
+                                }
+                                
+                                .navigation{
+                                        ul{
+                                                padding: 0;
+                                                width: 100%;
+                                                display: table; 
+                                        }
+                                        .bm-menu{
+                                                background:#fff !important;
+                                                box-shadow:3px 1px 18px 10px rgba(243, 240, 240, 0.3);
+                                                .bm-item-list{
+                                                        display: block !important;
+                                                        width:100%;
+                                                        margin: 0;
+                                                        position: relative;
+                                                        li{
+                                                                min-width: 200px;
+                                                                display: block !important;
+                                                                width:100% !important;
+                                                                a{
+                                                                        min-width: 200px;
+                                                                        color:$color--secondary;
+                                                                        display: block !important;
+                                                                        width:100% !important;
+                                                                        &.router-link-active{
+                                                                                &:before{
+                                                                                        content: "";
+                                                                                        position: absolute;
+                                                                                        left: -39px;
+                                                                                        height: 8px;
+                                                                                        width: 38px;
+                                                                                        background: #554def;
+                                                                                        border-radius: 50px;
+                                                                                        top: 16px;
+                                                                                }
+                                                                        }
+
+                                                                        
+                                                                }
+                                                                .navigation_submenu{
+                                                                        ul{
+                                                                                display:block;
+                                                                                width:100%;
+
+                                                                                li{
+                                                                                        width: 100%;
+                                                                                        display:block;
+                                                                                        a{
+                                                                                                display:block;
+                                                                                                width:100%;
+                                                                                                &.router-link-active{
+                                                                                                        &:before{
+                                                                                                                content: "";
+                                                                                                                position: absolute;
+                                                                                                                left: -90px;
+                                                                                                                height: 8px;
+                                                                                                                width: 38px;
+                                                                                                                background: #554def;
+                                                                                                                border-radius: 50px;
+                                                                                                                top: 6px;
+                                                                                                        }
+                                                                                                }     
+                                                                                        }
+                                                                                }
+                                                                        }               
+                                                                }//end of navigation_submenu
+                                                                &.upgrade_package{
+                                                                        margin-top: 20px;
+                                                                        max-width: 100px;
+                                                                        margin-left: 20px;
+                                                                        a{
+                                                                                min-width: 200px;
+                                                                                display: block;
+                                                                                text-align: center;
+                                                                        }
+                                                                }
+
+
+                                                        }
+                                                }
+                                        }
+                                        .bm-burger-button{
+                                                top: 25px;
+                                        }
+                                }
+                        }
+                }
+                .admin_right{
+                        width:100%;
+                        .admin_header{
+                                position: absolute;
+                                left: 0;
+                                top: 0;
+                                z-index: 2;
+                                border: none;
+                                display: inline-block;
+                                max-width: 220px;
+                                .hrbee_nofitications_container{
+                                        .dropdown-menu{
+                                                left: 0 !important;
+                                                top: 76px !important;
+
+                                                li{
+
+                                                        a{
+                                                                &.dropdown-item{
+                                                                        padding:11px 37px !important;
+
+                                                                       
+                                                                }
+
+                                                                
+                                                        }
+
+                                                        &.display_block{
+                                                                a{
+                                                                        &.dropdown-item{
+                                                                                display:block !important;
+
+                                                                                text-align: center;
+
+                                                                                p.no_notifications{
+                                                                                        display:block;
+                                                                                }
+                                                                                a.site_btn{
+                                                                                        display:block !important;
+                                                                                }
+                                                                        }
+                                                                }       
+                                                        }
+                                                }
+                                        }
+                                }
+                                .navbar{
+                                        background:none;
+                                        border:none;
+                                        padding:0;
+                                        display: inline-block;
+                                        width: 272px;        
+                                        top: 15px;
+                                        
+                                        .navbar-nav{
+                                                display:inline-block;
+                                                &.ml-auto{
+                                                        margin:0 !important; 
+                                                }
+                                               
+                                        }
+                                        .user_dropdown_info{
+                                                display:inline-block;
+                                                float:none;
+                                                .btn-lg{
+                                                        padding:0;
+                                                }
+                                        }
+                                }
+                                
+                        }// end of admin header
+                        .box{
+                                box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1) !important;
+                                &.widget{
+                                        &.fullwidth table {
+                                                width: 100%;
+                                                display: block;
+                                                overflow-x: scroll;
+                                                max-width: 100% !important;
+
+                                                .hide-mobile{
+                                                        display:none;
+                                                }
+                                        }
+                                }
+                        }
+                        .page_content{
+                                padding-left: 12px !important;
+                                padding-right: 12px !important;
+
+                                .page_title{
+                                        .hrbee-widget-icon{
+                                                .title{
+                                                        display: inline-block;
+                                                }
+                                        }
+                                        &.has-back-arrow{
+                                                h4{
+                                                        width: 100%;
+                                                        display: block;
+                                                }
+                                        }
+                                        .header_menu_right{
+                                                text-align: left;
+                                                display: block;
+                                                padding: 0;
+                                                width: 100%;
+                                                margin-top: 50px;
+
+                                                li{
+                                                        margin-right: 0;
+                                                        vertical-align: middle;
+                                                        display: block;
+                                                        text-align: center;
+                                                        margin: 0 auto;
+                                                        margin-bottom: 11px;
+                                                        a{
+                                                                display: block;
+                                                        }
+                                                }
+                                        }
+                                }// Pages page title
+                                &.jobseeker-profile-page{
+                                        .jobseeker_profile_header{
+                                                
+                                                .profile_col{
+                                                        display:block;
+                                                        width:100%;
+                                                        &:first-child{
+                                                                &:after{
+                                                                        display:none;
+                                                                }
+                                                               
+                                                        }
+                                                        &:nth-child(2){
+                                                                margin-top:20px;
+                                                                padding-left: 0;
+                                                                padding-right: 0;
+                                                                &:after{
+                                                                        display:none;
+                                                                }
+                                                        }
+                                                }
+                                                
+                                        }
+                                }
+
+                                .experience_listing,
+                                .education_listing{
+                                        .experience_item,
+                                        .education_item,
+                                        .training_item,
+                                        .language_item{
+                                                padding:0;
+                                                padding-bottom: 30px;
+                                                margin-top: 20px;
+                                                h4{
+                                                        line-height: 28px;
+                                                        span{
+                                                                display: block;
+                                                        }
+                                                }
+                                                p{
+                                                        width: 100%;
+                                                }
+                                                .experience_item_action,
+                                                .training_item_action {
+                                                        position: relative;
+                                                        top: 0;
+                                                        left: 0;
+                                                        ul{
+                                                                margin:0;padding:0;
+                                                        }
+                                                }
+                                        }
+                                }// End of Jobseeker profile tabs listings css
+                                
+                                .profile_edit_modals{
+                                        .modal_item{
+                                                width: 98%;
+
+                                                .form-type-1 {
+                                                        .form__group {
+                                                                margin: 0 0 30px;
+                                                        }
+                                                        .form__inline {
+                                                                .form__group {
+                                                                        width: 100%;
+                                                                }
+                                                        }
+                                                }
+
+                                        }
+                                }
+                                // End of Edit modals for jobseekers
+
+                                .resume_template{
+                                        text-align: center;
+                                        width: 100%;
+                                        margin-right: 0;
+                                        margin-bottom: 100px;
+                                        .resume_template_image{
+                                                img{
+                                                        min-height: 320px;
+                                                }
+                                        }
+                                }// End resume
+                                .account_settings_content{
+                                        .tabs{
+                                                .col-auto{
+                                                        width:100%;
+                                                        text-align:center;
+                                                        display:block;
+                                                }
+                                                ul{
+                                                        &.nav-tabs{
+                                                                margin-bottom:20px;   
+                                                                padding-bottom: 20px;
+                                                                
+                                                                .nav-link{
+                                                                        display:block;
+                                                                        &.active{
+                                                                                border: none !important;
+                                                                                color: #ffffff;
+                                                                                background: #5eb663;
+                                                                                border-radius: 3px;
+                                                                        }
+                                                                }
+                                                        }
+                                                        .nav-item{
+                                                              
+                                                        }
+
+                                                       
+
+                                                }
+                                        }
+                                }// end of accounts settings
+
+                                .company_feed{
+                                        margin-bottom: 30px;
+                                        .feed_header{
+
+                                        }
+                                }//Company feed ends
+                                .candidates_applied{
+                                        .candidate_item{
+                                                .candidate_information{
+                                                        .column{
+                                                                display: block;
+                                                                width: 100% !important;
+                                                                text-align: left !important;
+                                                                &.candidate_details{
+                                                                        padding:0;
+                                                                        margin:20px 0;
+
+                                                                        h5{
+                                                                                text-align:center;
+                                                                        }
+                                                                }
+                                                                &.candidate_actions{
+                                                                        ul{
+                                                                                padding:0;
+
+                                                                                li{
+                                                                                       
+                                                                                }
+                                                                        }
+                                                                }
+                                                                
+                                                        }
+                                                }//end of candidate information
+                                                .other_details{
+                                                        .column{
+                                                                display:block;
+                                                                width:100%;
+                                                                margin-bottom:10px;
+                                                                &:last-child{
+                                                                        margin-top:30px;
+                                                                        padding-left:0;
+                                                                }
+                                                        }
+                                                }
+                                                .other_profile_tabs_data{
+                                                        .resume_item{
+                                                                h5{
+                                                                        color: #343348;
+                                                                        line-height: 30px;
+                                                                        margin-bottom: 5px !important;
+                                                                }
+                                                                p.resume_item_absolute{
+                                                                        position:relative;
+                                                                        display:block;
+                                                                        right: initial;
+                                                                        left: initial;
+                                                                        top: initial;
+                                                                        text-align: left;
+                                                                        margin-bottom: 10px;
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }// Candiadtes applied profile
+
+                                .company_employee_listings{
+                                        .employee_item {
+                                                width: 94%;
+                                                margin: 0 auto;
+                                                margin-bottom: 20px;
+                                                .interview_header{
+                                                        display:block;
+                                                        width:100%;
+                                                        text-align: center;
+                                                        margin-bottom: 0;
+                                                        
+                                                        .column{
+                                                                &.candidate_details{
+                                                                        text-align: left;
+                                                                }
+                                                        }
+                                                       
+                                                }
+                                                .hide_responsive{
+                                                        display:none;
+                                                }
+                                                .employee_info_body{
+                                                        display:block;
+                                                        width:100%;
+                                                        ul{
+                                                                text-align:center;
+                                                                li{
+                                                                        text-align: center;
+                                                                        margin-bottom: 20px;
+                                                                        display: inline-block;
+                                                                        max-width: initial;
+                                                                        width: 44%;
+                                                                        margin-right: 20px;
+                                                                        &:nth-child(even){
+                                                                                margin-right:0;
+                                                                        }
+
+                                                                        .listing_menu_action{
+                                                                                position: absolute;
+                                                                                top: 20px !important;
+                                                                                right: 30px;
+
+                                                                                .dropdown{
+                                                                                       li{
+                                                                                                margin-bottom: 0 !important;
+                                                                                       } 
+                                                                                }
+                                                                        }
+
+                                                                        &.action-link{
+                                                                                position: relative;
+                                                                                width: 20px;
+                                                                                margin-right: 22px;
+                                                                        }
+                                                                }
+                                                        }
+                                                }
+                                                .public_holidays{
+                                                        .icon_with_text{
+                                                                i{
+                                                                        display:none;
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                                
+                                
+                                .cv_status{
+                                        text-align:center;
+                                        .status_image,
+                                        .status_text,
+                                        .status_button{
+                                                display:block;
+                                        }
+                                        .status_button{
+                                                text-align:center !important;
+                                                margin-top:30px;
+                                                width: 100%;
+                                                margin-bottom:30px;
+                                        }
+                                }
+                                .found_employees{
+                                        text-align:center;
+                                        .found_employees_in_salary_list{
+                                                .jobseeker_image,.jobseeker_data,.jobseeker_action{
+                                                        display:block;
+                                                }
+                                                .jobseeker_image{
+                                                        margin:0 auto;
+                                                        margin-bottom:20px;
+                                                        img{
+                                                                width: 50px;
+                                                                height: 50px;
+                                                        }
+                                                }
+                                                .jobseeker_action{
+                                                        text-align:center;
+                                                        padding:0;
+                                                        margin:20px 0 ;
+                                                }
+                                        }
+                                }
+                               
+                                .performance_widget{
+                                        width: 100%;
+                                        display:block;
+                                }
+                                .documents_container{
+                                       display:block;
+                                       .document_filters{
+                                               display:block;
+                                               width:100%;
+                                               margin-bottom:20px;
+                                       }
+                                       .document_files{
+                                               width:100%;
+                                               padding: 0;
+                                               .document_item{
+                                                        margin-right: 14px;
+                                               }
+                                       }
+                                }
+
+                                .profile_vocation_allowance{
+                                        .company_allowances{
+                                                .remaining_days{
+                                                        margin-bottom: 20px;
+                                                }
+                                               
+                                        }
+                                }
+
+                                .vue-calendar{
+                                        display:none;
+                                }
+                                .profile_month_salary_data{
+                                        .listing_menu_action{
+                                                display:none;
+                                        }
+                                }
+                        }// End of page_content
+
+                        .employee_profile_header{
+                                .employee_profile_header_content{
+
+                                        .profile_header{
+                                                display:block;
+                                                
+                                                .column{
+                                                        &.employee_image{
+                                                                display:block;
+                                                                width:100%;
+                                                                text-align: left;
+                                                                margin-bottom: 29px;
+                                                                .is_active_employee{
+                                                                        left: 97px;
+                                                                        right: initial;
+                                                                }
+                                                        }
+                                                        &.profile_info{
+                                                                width:100%;
+                                                                display:block;
+                                                        }
+                                                        &.actions{
+                                                                width: 100%;
+                                                                display: block;
+                                                                text-align: right;
+                                                                position: absolute;
+                                                                top: 150px;
+                                                                padding-right: 60px;
+                                                        }
+                                                }
+                                        }
+                                        .header_tabs{
+                                                li{
+                                                        margin-bottom: 20px;
+                                                        text-align: left;
+                                                        min-width: 130px;
+                                                        &.active_tab{
+                                                                border-bottom: 2px solid #0C8BFF;
+                                                                padding-bottom: 20px;
+                                                                margin-bottom: 20px;
+                                                                border: none;
+                                                                padding: initial;
+
+                                                                a{
+                                                                        color:#0C8BFF;
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+
+
+                }//end of admin_right
+        }//end admin layout
+
+}

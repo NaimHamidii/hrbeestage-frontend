@@ -1,0 +1,37 @@
+[
+  {
+    "en": "Refused application",
+    "sq": "Aplikimi refuzohet",
+    "value": "rejected_candidate"
+  },
+  {
+    "en": "Blacklisted candidate",
+    "sq": "Kandidat në listë të zezë",
+    "value": "blacklisted"
+  },
+  {
+    "en": "Invited to interview",
+    "sq": "Ftuar për intervistë",
+    "value": "invited_to_interview"
+  },
+  {
+    "en": "Interview accepted",
+    "sq": "Intervista u pranua",
+    "value": "accepted_interview"
+  },
+  {
+    "en": "Interview rejected",
+    "sq": "Intervista u refuzua",
+    "value": "rejected_interview"
+  },
+  {
+    "en": "Potential candidate",
+    "sq": "Kandidat potencial",
+    "value": "potential_candidate"
+  },
+  {
+    "en": "Hired candidates",
+    "sq": "Kandidatët i/e punësuar",
+    "value": "hired_candidate"
+  }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Active",
+        "sq": "Aktiv",
+        "value": "active"
+    },
+    {
+        "en": "Draft",
+        "sq": "Draft",
+        "value": "draft"
+    },
+    {
+        "en": "Canceled",
+        "sq": "Anuluar",
+        "value": "canceled"
+    }
+]

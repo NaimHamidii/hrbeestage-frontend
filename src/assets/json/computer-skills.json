@@ -1,0 +1,1990 @@
+[
+  {
+    "name": "Java",
+    "value": "language_Java"
+  },
+  {
+    "name": "C",
+    "value": "language_C"
+  },
+  {
+    "name": "Python",
+    "value": "language_Python"
+  },
+  {
+    "name": "C++",
+    "value": "language_C++"
+  },
+  {
+    "name": "Visual Basic .NET",
+    "value": "language_Visual_Basic_.NET"
+  },
+  {
+    "name": "JavaScript",
+    "value": "language_JavaScript"
+  },
+  {
+    "name": "C#",
+    "value": "language_C#"
+  },
+  {
+    "name": "PHP",
+    "value": "language_PHP"
+  },
+  {
+    "name": "SQL",
+    "value": "language_SQL"
+  },
+  {
+    "name": "Objective-C",
+    "value": "language_Objective-C"
+  },
+  {
+    "name": "MATLAB",
+    "value": "language_MATLAB"
+  },
+  {
+    "name": "R",
+    "value": "language_R"
+  },
+  {
+    "name": "Perl",
+    "value": "language_Perl"
+  },
+  {
+    "name": "Assembly language",
+    "value": "language_Assembly_language"
+  },
+  {
+    "name": "Swift",
+    "value": "language_Swift"
+  },
+  {
+    "name": "Go",
+    "value": "language_Go"
+  },
+  {
+    "name": "Delphi/Object Pascal",
+    "value": "language_Delphi/Object_Pascal"
+  },
+  {
+    "name": "Ruby",
+    "value": "language_Ruby"
+  },
+  {
+    "name": "PL/SQL",
+    "value": "language_PL/SQL"
+  },
+  {
+    "name": "Visual Basic",
+    "value": "language_Visual_Basic"
+  },
+  {
+    "name": "ASP.NET Dynamic Data",
+    "value": "framework_ASP.NET_Dynamic_Data"
+  },
+  {
+    "name": "Base One Foundation Component Library BFC",
+    "value": "framework_Base_One_Foundation_Component_Library_BFC"
+  },
+  {
+    "name": "Component-based Scalable Logical Architecture",
+    "value": "framework_Component-based_Scalable_Logical_Architecture"
+  },
+  {
+    "name": "MonoRail",
+    "value": "framework_MonoRail"
+  },
+  {
+    "name": "OpenRasta",
+    "value": "framework_OpenRasta"
+  },
+  {
+    "name": "CppCMS",
+    "value": "framework_CppCMS"
+  },
+  {
+    "name": "Poco",
+    "value": "framework_Poco"
+  },
+  {
+    "name": "Tntnet",
+    "value": "framework_Tntnet"
+  },
+  {
+    "name": "Wt",
+    "value": "framework_Wt"
+  },
+  {
+    "name": "CFWheels",
+    "value": "framework_CFWheels"
+  },
+  {
+    "name": "ColdBox Platform",
+    "value": "framework_ColdBox_Platform"
+  },
+  {
+    "name": "ColdSpring",
+    "value": "framework_ColdSpring"
+  },
+  {
+    "name": "Fusebox",
+    "value": "framework_Fusebox"
+  },
+  {
+    "name": "Model-Glue",
+    "value": "framework_Model-Glue"
+  },
+  {
+    "name": "Caveman2",
+    "value": "framework_Caveman2"
+  },
+  {
+    "name": "vibe.d",
+    "value": "framework_vibe.d"
+  },
+  {
+    "name": "Phoenix",
+    "value": "framework_Phoenix"
+  },
+  {
+    "name": "Snap",
+    "value": "framework_Snap"
+  },
+  {
+    "name": "Yesod",
+    "value": "framework_Yesod"
+  },
+  {
+    "name": "Bootstrap (front-end framework)",
+    "value": "framework_Bootstrap_(front-end_framework)"
+  },
+  {
+    "name": "Foundation_(framework)",
+    "value": "framework_Foundation_(framework)"
+  },
+  {
+    "name": "Apache Click",
+    "value": "framework_Apache_Click"
+  },
+  {
+    "name": "Apache OFBiz",
+    "value": "framework_Apache_OFBiz"
+  },
+  {
+    "name": "Apache Shale",
+    "value": "framework_Apache_Shale"
+  },
+  {
+    "name": "Apache Sling",
+    "value": "framework_Apache_Sling"
+  },
+  {
+    "name": "Apache Struts 2",
+    "value": "framework_Apache_Struts_2"
+  },
+  {
+    "name": "Apache Tapestry",
+    "value": "framework_Apache_Tapestry"
+  },
+  {
+    "name": "Apache Wicket",
+    "value": "framework_Apache_Wicket"
+  },
+  {
+    "name": "AppFuse",
+    "value": "framework_AppFuse"
+  },
+  {
+    "name": "Brutos Framework",
+    "value": "framework_Brutos_Framework"
+  },
+  {
+    "name": "Eclipse RAP",
+    "value": "framework_Eclipse_RAP"
+  },
+  {
+    "name": "FormEngine",
+    "value": "framework_FormEngine"
+  },
+  {
+    "name": "Grails",
+    "value": "framework_Grails"
+  },
+  {
+    "name": "Google Web Toolkit",
+    "value": "framework_Google_Web_Toolkit"
+  },
+  {
+    "name": "Hamlets",
+    "value": "framework_Hamlets"
+  },
+  {
+    "name": "ItsNat",
+    "value": "framework_ItsNat"
+  },
+  {
+    "name": "JavaServer Faces-Mojarra",
+    "value": "framework_JavaServer_Faces-Mojarra"
+  },
+  {
+    "name": "JBoss Seam",
+    "value": "framework_JBoss_Seam"
+  },
+  {
+    "name": "Jspx-bay",
+    "value": "framework_Jspx-bay"
+  },
+  {
+    "name": "JVx",
+    "value": "framework_JVx"
+  },
+  {
+    "name": "JWt",
+    "value": "framework_JWt"
+  },
+  {
+    "name": "Netty (software)",
+    "value": "framework_Netty_(software)"
+  },
+  {
+    "name": "OpenLaszlo",
+    "value": "framework_OpenLaszlo"
+  },
+  {
+    "name": "OpenXava",
+    "value": "framework_OpenXava"
+  },
+  {
+    "name": "Oracle ADF",
+    "value": "framework_Oracle_ADF"
+  },
+  {
+    "name": "Play",
+    "value": "framework_Play"
+  },
+  {
+    "name": "RIFE",
+    "value": "framework_RIFE"
+  },
+  {
+    "name": "Spark",
+    "value": "framework_Spark"
+  },
+  {
+    "name": "Spring",
+    "value": "framework_Spring"
+  },
+  {
+    "name": "Stripes",
+    "value": "framework_Stripes"
+  },
+  {
+    "name": "Vaadin",
+    "value": "framework_Vaadin"
+  },
+  {
+    "name": "VRaptor",
+    "value": "framework_VRaptor"
+  },
+  {
+    "name": "Wavemaker",
+    "value": "framework_Wavemaker"
+  },
+  {
+    "name": "WebObjects",
+    "value": "framework_WebObjects"
+  },
+  {
+    "name": "WebWork",
+    "value": "framework_WebWork"
+  },
+  {
+    "name": "ztemplates",
+    "value": "framework_ztemplates"
+  },
+  {
+    "name": "AngularJS",
+    "value": "framework_AngularJS"
+  },
+  {
+    "name": "Angular",
+    "value": "framework_Angular"
+  },
+  {
+    "name": "React.js",
+    "value": "framework_React.js"
+  },
+  {
+    "name": "Backbone.js",
+    "value": "framework_Backbone.js"
+  },
+  {
+    "name": "Ember.js",
+    "value": "framework_Ember.js"
+  },
+  {
+    "name": "Express.js",
+    "value": "framework_Express.js"
+  },
+  {
+    "name": "KnockoutJS",
+    "value": "framework_KnockoutJS"
+  },
+  {
+    "name": "Meteor",
+    "value": "framework_Meteor"
+  },
+  {
+    "name": "Node.js",
+    "value": "framework_Node.js"
+  },
+  {
+    "name": "OpenUI5",
+    "value": "framework_OpenUI5"
+  },
+  {
+    "name": "Polymer",
+    "value": "framework_Polymer"
+  },
+  {
+    "name": "Sails.js",
+    "value": "framework_Sails.js"
+  },
+  {
+    "name": "Vue.js",
+    "value": "framework_Vue.js"
+  },
+  {
+    "name": "Kepler",
+    "value": "framework_Kepler"
+  },
+  {
+    "name": "Lift",
+    "value": "framework_Lift"
+  },
+  {
+    "name": "Play",
+    "value": "framework_Play"
+  },
+  {
+    "name": "Scalatra",
+    "value": "framework_Scalatra"
+  },
+  {
+    "name": "Catalyst",
+    "value": "framework_Catalyst"
+  },
+  {
+    "name": "Dancer",
+    "value": "framework_Dancer"
+  },
+  {
+    "name": "Mason",
+    "value": "framework_Mason"
+  },
+  {
+    "name": "Maypole",
+    "value": "framework_Maypole"
+  },
+  {
+    "name": "Mojolicious",
+    "value": "framework_Mojolicious"
+  },
+  {
+    "name": "Agavi",
+    "value": "framework_Agavi"
+  },
+  {
+    "name": "CakePHP",
+    "value": "framework_CakePHP"
+  },
+  {
+    "name": "CodeIgniter",
+    "value": "framework_CodeIgniter"
+  },
+  {
+    "name": "Drupal",
+    "value": "framework_Drupal"
+  },
+  {
+    "name": "Fat-Free",
+    "value": "framework_Fat-Free"
+  },
+  {
+    "name": "FuelPHP",
+    "value": "framework_FuelPHP"
+  },
+  {
+    "name": "Gyroscope",
+    "value": "framework_Gyroscope"
+  },
+  {
+    "name": "Jamroom",
+    "value": "framework_Jamroom"
+  },
+  {
+    "name": "Kajona",
+    "value": "framework_Kajona"
+  },
+  {
+    "name": "Kohana",
+    "value": "framework_Kohana"
+  },
+  {
+    "name": "Laravel",
+    "value": "framework_Laravel"
+  },
+  {
+    "name": "Li3�(Lithium)",
+    "value": "framework_Li3�(Lithium)"
+  },
+  {
+    "name": "Nette Framework",
+    "value": "framework_Nette_Framework"
+  },
+  {
+    "name": "Phalcon",
+    "value": "framework_Phalcon"
+  },
+  {
+    "name": "Pop PHP",
+    "value": "framework_Pop_PHP"
+  },
+  {
+    "name": "PRADO",
+    "value": "framework_PRADO"
+  },
+  {
+    "name": "Silex",
+    "value": "framework_Silex"
+  },
+  {
+    "name": "SilverStripe",
+    "value": "framework_SilverStripe"
+  },
+  {
+    "name": "Smart.Framework",
+    "value": "framework_Smart.Framework"
+  },
+  {
+    "name": "Symfony",
+    "value": "framework_Symfony"
+  },
+  {
+    "name": "TwistPHP",
+    "value": "framework_TwistPHP"
+  },
+  {
+    "name": "TYPO3 Flow",
+    "value": "framework_TYPO3_Flow"
+  },
+  {
+    "name": "Yii",
+    "value": "framework_Yii"
+  },
+  {
+    "name": "Zend Framework",
+    "value": "framework_Zend_Framework"
+  },
+  {
+    "name": "Bottle",
+    "value": "framework_Bottle"
+  },
+  {
+    "name": "BlueBream",
+    "value": "framework_BlueBream"
+  },
+  {
+    "name": "CherryPy",
+    "value": "framework_CherryPy"
+  },
+  {
+    "name": "CubicWeb",
+    "value": "framework_CubicWeb"
+  },
+  {
+    "name": "Django",
+    "value": "framework_Django"
+  },
+  {
+    "name": "Flask",
+    "value": "framework_Flask"
+  },
+  {
+    "name": "Google App Engine",
+    "value": "framework_Google_App_Engine"
+  },
+  {
+    "name": "Grok",
+    "value": "framework_Grok"
+  },
+  {
+    "name": "Nagare",
+    "value": "framework_Nagare"
+  },
+  {
+    "name": "Pyjs",
+    "value": "framework_Pyjs"
+  },
+  {
+    "name": "Pylons",
+    "value": "framework_Pylons"
+  },
+  {
+    "name": "Pyramid",
+    "value": "framework_Pyramid"
+  },
+  {
+    "name": "TACTIC",
+    "value": "framework_TACTIC"
+  },
+  {
+    "name": "Tornado",
+    "value": "framework_Tornado"
+  },
+  {
+    "name": "TurboGears",
+    "value": "framework_TurboGears"
+  },
+  {
+    "name": "web2py",
+    "value": "framework_web2py"
+  },
+  {
+    "name": "Webware",
+    "value": "framework_Webware"
+  },
+  {
+    "name": "Zope 2",
+    "value": "framework_Zope_2"
+  },
+  {
+    "name": "Camping",
+    "value": "framework_Camping"
+  },
+  {
+    "name": "Merb",
+    "value": "framework_Merb"
+  },
+  {
+    "name": "Padrino",
+    "value": "framework_Padrino"
+  },
+  {
+    "name": "PureMVC",
+    "value": "framework_PureMVC"
+  },
+  {
+    "name": "Ruby on Rails",
+    "value": "framework_Ruby_on_Rails"
+  },
+  {
+    "name": "Sinatra",
+    "value": "framework_Sinatra"
+  },
+  {
+    "name": "AIDA/Web",
+    "value": "framework_AIDA/Web"
+  },
+  {
+    "name": "Application Express",
+    "value": "framework_Application_Express"
+  },
+  {
+    "name": "Flex",
+    "value": "framework_Flex"
+  },
+  {
+    "name": "Grails",
+    "value": "framework_Grails"
+  },
+  {
+    "name": "Morfik",
+    "value": "framework_Morfik"
+  },
+  {
+    "name": "Ocsigen",
+    "value": "framework_Ocsigen"
+  },
+  {
+    "name": "Opa",
+    "value": "framework_Opa"
+  },
+  {
+    "name": "OpenACS",
+    "value": "framework_OpenACS"
+  },
+  {
+    "name": "Seaside",
+    "value": "framework_Seaside"
+  },
+  {
+    "name": "WordPress",
+    "value": "framework_WordPress"
+  },
+  {
+    "name": "Roots.io",
+    "value": "framework_Roots.io"
+  },
+  {
+    "name": "Sage",
+    "value": "framework_Sage"
+  },
+  {
+    "name": "Corona SDK",
+    "value": "framework_Corona_SDK"
+  },
+  {
+    "name": "PhoneGap",
+    "value": "framework_PhoneGap"
+  },
+  {
+    "name": "Xamarin",
+    "value": "framework_Xamarin"
+  },
+  {
+    "name": "Sencha Touch 2",
+    "value": "framework_Sencha_Touch_2"
+  },
+  {
+    "name": "Appcelerator",
+    "value": "framework_Appcelerator"
+  },
+  {
+    "name": "B4X",
+    "value": "framework_B4X"
+  },
+  {
+    "name": "JQuery Mobile",
+    "value": "framework_JQuery_Mobile"
+  },
+  {
+    "name": "flutter.io",
+    "value": "framework_flutter.io"
+  },
+
+  {
+    "name": "Amazon Elastic Container Service-ECS",
+    "value": "containers_Amazon_Elastic_Container_Service-ECS"
+  },
+  {
+    "name": "Docker",
+    "value": "containers_Docker"
+  },
+  {
+    "name": "Google Kubernetes Engine-GKE",
+    "value": "containers_Google_Kubernetes_Engine-GKE"
+  },
+  {
+    "name": "Amazon Elastic Container Service for Kubernetes-EKS",
+    "value": "containers_Amazon_Elastic_Container_Service_for_Kubernetes-EKS"
+  },
+  {
+    "name": "AWS Fargate",
+    "value": "containers_AWS_Fargate"
+  },
+  {
+    "name": "OpenShift Container Platform",
+    "value": "containers_OpenShift_Container_Platform"
+  },
+  {
+    "name": "Azure Kubernetes Service (AKS)",
+    "value": "containers_Azure_Kubernetes_Service_(AKS)"
+  },
+  {
+    "name": "Kubernetes",
+    "value": "containers_Kubernetes"
+  },
+  {
+    "name": "Rancher",
+    "value": "containers_Rancher"
+  },
+  {
+    "name": "JHipster",
+    "value": "containers_JHipster"
+  },
+  {
+    "name": "Iron.io",
+    "value": "containers_Iron.io"
+  },
+  {
+    "name": "Azure Web App for Containers",
+    "value": "containers_Azure_Web_App_for_Containers"
+  },
+  {
+    "name": "Mesosphere DC/OS",
+    "value": "containers_Mesosphere_DC/OS"
+  },
+  {
+    "name": "Portainer",
+    "value": "containers_Portainer"
+  },
+  {
+    "name": "Oracle Wercker",
+    "value": "containers_Oracle_Wercker"
+  },
+  {
+    "name": "AppFormix",
+    "value": "containers_AppFormix"
+  },
+  {
+    "name": "Cloud 66 for Containers",
+    "value": "containers_Cloud_66_for_Containers"
+  },
+  {
+    "name": "DC/OS",
+    "value": "containers_DC/OS"
+  },
+  {
+    "name": "Kontena",
+    "value": "containers_Kontena"
+  },
+  {
+    "name": "Photon OS",
+    "value": "containers_Photon_OS"
+  },
+  {
+    "name": "Cloud Foundry",
+    "value": "containers_Cloud_Foundry"
+  },
+  {
+    "name": "ContainerShip Cloud",
+    "value": "containers_ContainerShip_Cloud"
+  },
+  {
+    "name": "IBM Cloud Kubernetes Service",
+    "value": "containers_IBM_Cloud_Kubernetes_Service"
+  },
+  {
+    "name": "Oracle Application Container Cloud",
+    "value": "containers_Oracle_Application_Container_Cloud"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Container Engine for Kubernetes",
+    "value": "containers_Oracle_Cloud_Infrastructure_Container_Engine_for_Kubernetes"
+  },
+  {
+    "name": "Alibaba Container Service",
+    "value": "containers_Alibaba_Container_Service"
+  },
+  {
+    "name": "Alibaba Container Service for Kubernetes",
+    "value": "containers_Alibaba_Container_Service_for_Kubernetes"
+  },
+  {
+    "name": "Azure Container Instances",
+    "value": "containers_Azure_Container_Instances"
+  },
+  {
+    "name": "BASICA",
+    "value": "microsoft_BASICA"
+  },
+  {
+    "name": "CLR Profiler",
+    "value": "microsoft_CLR_Profiler"
+  },
+  {
+    "name": "GitHub",
+    "value": "microsoft_GitHub"
+  },
+  {
+    "name": "GW-BASIC",
+    "value": "microsoft_GW-BASIC"
+  },
+  {
+    "name": "IronRuby",
+    "value": "microsoft_IronRuby"
+  },
+  {
+    "name": "IronPython",
+    "value": "microsoft_IronPython"
+  },
+  {
+    "name": "JScript",
+    "value": "microsoft_JScript"
+  },
+  {
+    "name": "Microsoft Liquid Motion",
+    "value": "microsoft_Microsoft_Liquid_Motion"
+  },
+  {
+    "name": "Microsoft BASIC",
+    "value": "microsoft_Microsoft_BASIC"
+  },
+  {
+    "name": "Altair BASIC",
+    "value": "microsoft_Altair_BASIC"
+  },
+  {
+    "name": "AmigaBASIC",
+    "value": "microsoft_AmigaBASIC"
+  },
+  {
+    "name": "Applesoft BASIC",
+    "value": "microsoft_Applesoft_BASIC"
+  },
+  {
+    "name": "Commodore BASIC",
+    "value": "microsoft_Commodore_BASIC"
+  },
+  {
+    "name": "Color BASIC",
+    "value": "microsoft_Color_BASIC"
+  },
+  {
+    "name": "MBASIC",
+    "value": "microsoft_MBASIC"
+  },
+  {
+    "name": "Spectravideo Extended BASIC",
+    "value": "microsoft_Spectravideo_Extended_BASIC"
+  },
+  {
+    "name": "TRS-80 Level II BASIC",
+    "value": "microsoft_TRS-80_Level_II_BASIC"
+  },
+  {
+    "name": "Microsoft Macro Assembler",
+    "value": "microsoft_Microsoft_Macro_Assembler"
+  },
+  {
+    "name": "Microsoft Small Basic",
+    "value": "microsoft_Microsoft_Small_Basic"
+  },
+  {
+    "name": "Microsoft Visual SourceSafe",
+    "value": "microsoft_Microsoft_Visual_SourceSafe"
+  },
+  {
+    "name": "Microsoft XNA",
+    "value": "microsoft_Microsoft_XNA"
+  },
+  {
+    "name": "Microsoft WebMatrix",
+    "value": "microsoft_Microsoft_WebMatrix"
+  },
+  {
+    "name": "MSX BASIC",
+    "value": "microsoft_MSX_BASIC"
+  },
+  {
+    "name": "NuGet",
+    "value": "microsoft_NuGet"
+  },
+  {
+    "name": "QBasic�and�QuickBASIC",
+    "value": "microsoft_QBasic�and�QuickBASIC"
+  },
+  {
+    "name": "Team Foundation Server",
+    "value": "microsoft_Team_Foundation_Server"
+  },
+  {
+    "name": "VBScript",
+    "value": "microsoft_VBScript"
+  },
+  {
+    "name": "Visual Studio",
+    "value": "microsoft_Visual_Studio"
+  },
+  {
+    "name": "Microsoft Visual Studio Express",
+    "value": "microsoft_Microsoft_Visual_Studio_Express"
+  },
+  {
+    "name": "Visual Basic",
+    "value": "microsoft_Visual_Basic"
+  },
+  {
+    "name": "Visual Basic .NET",
+    "value": "microsoft_Visual_Basic_.NET"
+  },
+  {
+    "name": "Visual Basic for Applications",
+    "value": "microsoft_Visual_Basic_for_Applications"
+  },
+  {
+    "name": "Visual C++",
+    "value": "microsoft_Visual_C++"
+  },
+  {
+    "name": "C++/CLI",
+    "value": "microsoft_C++/CLI"
+  },
+  {
+    "name": "Managed Extensions for C++",
+    "value": "microsoft_Managed_Extensions_for_C++"
+  },
+  {
+    "name": "Visual C#",
+    "value": "microsoft_Visual_C#"
+  },
+  {
+    "name": "Visual FoxPro",
+    "value": "microsoft_Visual_FoxPro"
+  },
+  {
+    "name": "Visual J++",
+    "value": "microsoft_Visual_J++"
+  },
+  {
+    "name": "Visual J#",
+    "value": "microsoft_Visual_J#"
+  },
+  {
+    "name": "Visual Studio Code",
+    "value": "microsoft_Visual_Studio_Code"
+  },
+  {
+    "name": "Visual Studio Lab Management",
+    "value": "microsoft_Visual_Studio_Lab_Management"
+  },
+  {
+    "name": "Visual Studio Team Services",
+    "value": "microsoft_Visual_Studio_Team_Services"
+  },
+  {
+    "name": "Visual Studio Tools for Office",
+    "value": "microsoft_Visual_Studio_Tools_for_Office"
+  },
+  {
+    "name": "Visual Studio Tools for Applications",
+    "value": "microsoft_Visual_Studio_Tools_for_Applications"
+  },
+  {
+    "name": "VSTS Profiler",
+    "value": "microsoft_VSTS_Profiler"
+  },
+  {
+    "name": "Windows API",
+    "value": "microsoft_Windows_API"
+  },
+  {
+    "name": "Windows SDK",
+    "value": "microsoft_Windows_SDK"
+  },
+  {
+    "name": "WordBASIC",
+    "value": "microsoft_WordBASIC"
+  },
+  {
+    "name": "Xbox Development Kit",
+    "value": "microsoft_Xbox_Development_Kit"
+  },
+  {
+    "name": "Direct3D",
+    "value": "microsoft_Direct3D"
+  },
+  {
+    "name": "Havok",
+    "value": "microsoft_Havok"
+  },
+  {
+    "name": "HoloStudio",
+    "value": "microsoft_HoloStudio"
+  },
+  {
+    "name": "Kinect for Windows SDK",
+    "value": "microsoft_Kinect_for_Windows_SDK"
+  },
+  {
+    "name": "Microsoft Softimage",
+    "value": "microsoft_Microsoft_Softimage"
+  },
+  {
+    "name": "Paint 3D",
+    "value": "microsoft_Paint_3D"
+  },
+  {
+    "name": "Simplygon",
+    "value": "microsoft_Simplygon"
+  },
+  {
+    "name": "trueSpace",
+    "value": "microsoft_trueSpace"
+  },
+  {
+    "name": "View 3D",
+    "value": "microsoft_View_3D"
+  },
+  {
+    "name": "AutoCollage 2008",
+    "value": "microsoft_AutoCollage_2008"
+  },
+  {
+    "name": "Microsoft Digital Image",
+    "value": "microsoft_Microsoft_Digital_Image"
+  },
+  {
+    "name": "Microsoft Expression Studio",
+    "value": "microsoft_Microsoft_Expression_Studio"
+  },
+  {
+    "name": "Microsoft Expression Web",
+    "value": "microsoft_Microsoft_Expression_Web"
+  },
+  {
+    "name": "Microsoft Expression Blend",
+    "value": "microsoft_Microsoft_Expression_Blend"
+  },
+  {
+    "name": "Microsoft Expression Encoder",
+    "value": "microsoft_Microsoft_Expression_Encoder"
+  },
+  {
+    "name": "Microsoft Expression Media",
+    "value": "microsoft_Microsoft_Expression_Media"
+  },
+  {
+    "name": "Microsoft Picture It!",
+    "value": "microsoft_Microsoft_Picture_It!"
+  },
+  {
+    "name": "Windows Live Movie Maker",
+    "value": "microsoft_Windows_Live_Movie_Maker"
+  },
+  {
+    "name": "Windows Media Encoder",
+    "value": "microsoft_Windows_Media_Encoder"
+  },
+  {
+    "name": "Windows Media Center",
+    "value": "microsoft_Windows_Media_Center"
+  },
+  {
+    "name": "Microsoft Research Image Composite Editor",
+    "value": "microsoft_Microsoft_Research_Image_Composite_Editor"
+  },
+  {
+    "name": "Photo Story",
+    "value": "microsoft_Photo_Story"
+  },
+  {
+    "name": "Photosynth",
+    "value": "microsoft_Photosynth"
+  },
+  {
+    "name": "Creative Writer",
+    "value": "microsoft_Creative_Writer"
+  },
+  {
+    "name": "Encarta",
+    "value": "microsoft_Encarta"
+  },
+  {
+    "name": "Microsoft Mathematics",
+    "value": "microsoft_Microsoft_Mathematics"
+  },
+  {
+    "name": "Microsoft Student",
+    "value": "microsoft_Microsoft_Student"
+  },
+  {
+    "name": "Skype",
+    "value": "microsoft_Skype"
+  },
+  {
+    "name": "Yammer",
+    "value": "microsoft_Yammer"
+  },
+  {
+    "name": "Microsoft Outlook",
+    "value": "microsoft_Microsoft_Outlook"
+  },
+  {
+    "name": "OneDrive",
+    "value": "microsoft_OneDrive"
+  },
+  {
+    "name": "Microsoft Access",
+    "value": "microsoft_Microsoft_Access"
+  },
+  {
+    "name": "Microsoft Entourage",
+    "value": "microsoft_Microsoft_Entourage"
+  },
+  {
+    "name": "Microsoft Excel",
+    "value": "microsoft_Microsoft_Excel"
+  },
+  {
+    "name": "Microsoft FrontPage",
+    "value": "microsoft_Microsoft_FrontPage"
+  },
+  {
+    "name": "Microsoft InfoPath",
+    "value": "microsoft_Microsoft_InfoPath"
+  },
+  {
+    "name": "Microsoft MapPoint",
+    "value": "microsoft_Microsoft_MapPoint"
+  },
+  {
+    "name": "Microsoft Money",
+    "value": "microsoft_Microsoft_Money"
+  },
+  {
+    "name": "Office Assistant",
+    "value": "microsoft_Office_Assistant"
+  },
+  {
+    "name": "Microsoft OneNote",
+    "value": "microsoft_Microsoft_OneNote"
+  },
+  {
+    "name": "Microsoft Power BI",
+    "value": "microsoft_Microsoft_Power_BI"
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "value": "microsoft_Microsoft_PowerPoint"
+  },
+  {
+    "name": "Microsoft Project",
+    "value": "microsoft_Microsoft_Project"
+  },
+  {
+    "name": "Microsoft Publisher",
+    "value": "microsoft_Microsoft_Publisher"
+  },
+  {
+    "name": "Microsoft Response Point",
+    "value": "microsoft_Microsoft_Response_Point"
+  },
+  {
+    "name": "Microsoft SharePoint Workspace",
+    "value": "microsoft_Microsoft_SharePoint_Workspace"
+  },
+  {
+    "name": "Microsoft Schedule+",
+    "value": "microsoft_Microsoft_Schedule+"
+  },
+  {
+    "name": "Microsoft Sway",
+    "value": "microsoft_Microsoft_Sway"
+  },
+  {
+    "name": "Microsoft Visio",
+    "value": "microsoft_Microsoft_Visio"
+  },
+  {
+    "name": "Microsoft Vizact",
+    "value": "microsoft_Microsoft_Vizact"
+  },
+  {
+    "name": "Microsoft Word",
+    "value": "microsoft_Microsoft_Word"
+  },
+  {
+    "name": "Microsoft Works",
+    "value": "microsoft_Microsoft_Works"
+  },
+  {
+    "name": "Microsoft Azure",
+    "value": "microsoft_Microsoft_Azure"
+  },
+  {
+    "name": "Microsoft BackOffice Server",
+    "value": "microsoft_Microsoft_BackOffice_Server"
+  },
+  {
+    "name": "Microsoft BizTalk Server",
+    "value": "microsoft_Microsoft_BizTalk_Server"
+  },
+  {
+    "name": "Microsoft Commerce Server",
+    "value": "microsoft_Microsoft_Commerce_Server"
+  },
+  {
+    "name": "Microsoft Content Management Server",
+    "value": "microsoft_Microsoft_Content_Management_Server"
+  },
+  {
+    "name": "Microsoft Exchange Server",
+    "value": "microsoft_Microsoft_Exchange_Server"
+  },
+  {
+    "name": "Microsoft Forefront",
+    "value": "microsoft_Microsoft_Forefront"
+  },
+  {
+    "name": "Exchange Online Protection",
+    "value": "microsoft_Exchange_Online_Protection"
+  },
+  {
+    "name": "Forefront Identity Manager",
+    "value": "microsoft_Forefront_Identity_Manager"
+  },
+  {
+    "name": "Microsoft Forefront Threat Management Gateway",
+    "value": "microsoft_Microsoft_Forefront_Threat_Management_Gateway"
+  },
+  {
+    "name": "Microsoft Forefront Unified Access Gateway",
+    "value": "microsoft_Microsoft_Forefront_Unified_Access_Gateway"
+  },
+  {
+    "name": "Microsoft Host Integration Server",
+    "value": "microsoft_Microsoft_Host_Integration_Server"
+  },
+  {
+    "name": "Microsoft Identity Integration Server",
+    "value": "microsoft_Microsoft_Identity_Integration_Server"
+  },
+  {
+    "name": "Microsoft Merchant Server",
+    "value": "microsoft_Microsoft_Merchant_Server"
+  },
+  {
+    "name": "Microsoft Site Server",
+    "value": "microsoft_Microsoft_Site_Server"
+  },
+  {
+    "name": "Microsoft SharePoint",
+    "value": "microsoft_Microsoft_SharePoint"
+  },
+  {
+    "name": "Microsoft Office PerformancePoint Server",
+    "value": "microsoft_Microsoft_Office_PerformancePoint_Server"
+  },
+  {
+    "name": "Microsoft Project Server",
+    "value": "microsoft_Microsoft_Project_Server"
+  },
+  {
+    "name": "Microsoft Office Project Portfolio Server",
+    "value": "microsoft_Microsoft_Office_Project_Portfolio_Server"
+  },
+  {
+    "name": "Microsoft Speech Server",
+    "value": "microsoft_Microsoft_Speech_Server"
+  },
+  {
+    "name": "Microsoft SQL Server",
+    "value": "microsoft_Microsoft_SQL_Server"
+  },
+  {
+    "name": "Microsoft System Center",
+    "value": "microsoft_Microsoft_System_Center"
+  },
+  {
+    "name": "System Center Advisor",
+    "value": "microsoft_System_Center_Advisor"
+  },
+  {
+    "name": "System Center Configuration Manager",
+    "value": "microsoft_System_Center_Configuration_Manager"
+  },
+  {
+    "name": "System Center Data Protection Manager",
+    "value": "microsoft_System_Center_Data_Protection_Manager"
+  },
+  {
+    "name": "System Center Essentials",
+    "value": "microsoft_System_Center_Essentials"
+  },
+  {
+    "name": "System Center Operations Manager",
+    "value": "microsoft_System_Center_Operations_Manager"
+  },
+  {
+    "name": "System Center Service Manager",
+    "value": "microsoft_System_Center_Service_Manager"
+  },
+  {
+    "name": "System Center Virtual Machine Manager",
+    "value": "microsoft_System_Center_Virtual_Machine_Manager"
+  },
+  {
+    "name": "Microsoft Virtual Server",
+    "value": "microsoft_Microsoft_Virtual_Server"
+  },
+  {
+    "name": "Search Server",
+    "value": "microsoft_Search_Server"
+  },
+  {
+    "name": "Skype for Business Server",
+    "value": "microsoft_Skype_for_Business_Server"
+  },
+
+  {
+    "name": "Adobe Acrobat",
+    "value": "Adobe_Acrobat"
+  },
+  {
+    "name": "Adobe Acrobat Connect",
+    "value": "Adobe_Acrobat_Connect"
+  },
+  {
+    "name": "Adobe After Effects",
+    "value": "Adobe_After_Effects"
+  },
+  {
+    "name": "Adobe Bridge",
+    "value": "Adobe_Bridge"
+  },
+  {
+    "name": "Adobe Contribute",
+    "value": "Adobe_Contribute"
+  },
+  {
+    "name": "Adobe Device Central",
+    "value": "Adobe_Device_Central"
+  },
+  {
+    "name": "Adobe Dreamweaver",
+    "value": "Adobe_Dreamweaver"
+  },
+  {
+    "name": "Adobe Dynamic Link",
+    "value": "Adobe_Dynamic_Link"
+  },
+  {
+    "name": "Adobe Encore",
+    "value": "Adobe_Encore"
+  },
+  {
+    "name": "Adobe Fireworks",
+    "value": "Adobe_Fireworks"
+  },
+  {
+    "name": "Adobe Flash",
+    "value": "Adobe_Flash"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "value": "Adobe_Illustrator"
+  },
+  {
+    "name": "Adobe InDesign",
+    "value": "Adobe_InDesign"
+  },
+  {
+    "name": "Adobe OnLocation",
+    "value": "Adobe_OnLocation"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "value": "Adobe_Photoshop"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "value": "Adobe_Premiere_Pro"
+  },
+  {
+    "name": "Adobe Soundbooth",
+    "value": "Adobe_Soundbooth"
+  },
+  {
+    "name": "Adobe Ultra",
+    "value": "Adobe_Ultra"
+  },
+  {
+    "name": "Adobe Version Cue",
+    "value": "Adobe_Version_Cue"
+  },
+  {
+    "name": "Adobe Acrobat Capture",
+    "value": "Adobe_Acrobat_Capture"
+  },
+  {
+    "name": "Adobe Acrobat Distiller",
+    "value": "Adobe_Acrobat_Distiller"
+  },
+  {
+    "name": "Adobe AIR",
+    "value": "Adobe_AIR"
+  },
+  {
+    "name": "Adobe Audition",
+    "value": "Adobe_Audition"
+  },
+  {
+    "name": "Adobe Central Output Server",
+    "value": "Adobe_Central_Output_Server"
+  },
+  {
+    "name": "Adobe ColdFusion",
+    "value": "Adobe_ColdFusion"
+  },
+  {
+    "name": "Adobe Digital Editions",
+    "value": "Adobe_Digital_Editions"
+  },
+  {
+    "name": "Adobe Director",
+    "value": "Adobe_Director"
+  },
+  {
+    "name": "Adobe DNG Converter",
+    "value": "Adobe_DNG_Converter"
+  },
+  {
+    "name": "Adobe Document Server",
+    "value": "Adobe_Document_Server"
+  },
+  {
+    "name": "Adobe Document Policy Server",
+    "value": "Adobe_Document_Policy_Server"
+  },
+  {
+    "name": "Adobe eBook Reader",
+    "value": "Adobe_eBook_Reader"
+  },
+  {
+    "name": "Adobe Flash Cast",
+    "value": "Adobe_Flash_Cast"
+  },
+  {
+    "name": "Adobe Flash Lite",
+    "value": "Adobe_Flash_Lite"
+  },
+  {
+    "name": "Adobe Flash Media Server",
+    "value": "Adobe_Flash_Media_Server"
+  },
+  {
+    "name": "Adobe Flash Player",
+    "value": "Adobe_Flash_Player"
+  },
+  {
+    "name": "Adobe Flex",
+    "value": "Adobe_Flex"
+  },
+  {
+    "name": "Adobe Font Folio",
+    "value": "Adobe_Font_Folio"
+  },
+  {
+    "name": "Adobe GoLive",
+    "value": "Adobe_GoLive"
+  },
+  {
+    "name": "Adobe Graphics Server",
+    "value": "Adobe_Graphics_Server"
+  },
+  {
+    "name": "Adobe InCopy",
+    "value": "Adobe_InCopy"
+  },
+  {
+    "name": "Adobe Kuler",
+    "value": "Adobe_Kuler"
+  },
+  {
+    "name": "Adobe LiveCycle",
+    "value": "Adobe_LiveCycle"
+  },
+  {
+    "name": "Adobe Media Player",
+    "value": "Adobe_Media_Player"
+  },
+  {
+    "name": "Adobe Output Designer",
+    "value": "Adobe_Output_Designer"
+  },
+  {
+    "name": "Adobe PageMaker",
+    "value": "Adobe_PageMaker"
+  },
+  {
+    "name": "Adobe PDF JobReady",
+    "value": "Adobe_PDF_JobReady"
+  },
+  {
+    "name": "Adobe Photoshop Album",
+    "value": "Adobe_Photoshop_Album"
+  },
+  {
+    "name": "Adobe Photoshop Elements",
+    "value": "Adobe_Photoshop_Elements"
+  },
+  {
+    "name": "Adobe Photoshop Express",
+    "value": "Adobe_Photoshop_Express"
+  },
+  {
+    "name": "Adobe Photoshop Lightroom",
+    "value": "Adobe_Photoshop_Lightroom"
+  },
+  {
+    "name": "Adobe Premiere Elements",
+    "value": "Adobe_Premiere_Elements"
+  },
+  {
+    "name": "Adobe Reader",
+    "value": "Adobe_Reader"
+  },
+  {
+    "name": "Adobe RoboHelp",
+    "value": "Adobe_RoboHelp"
+  },
+  {
+    "name": "Adobe Shockwave",
+    "value": "Adobe_Shockwave"
+  },
+  {
+    "name": "Adobe Source Libraries",
+    "value": "Adobe_Source_Libraries"
+  },
+  {
+    "name": "Adobe SVG Viewer",
+    "value": "Adobe_SVG_Viewer"
+  },
+  {
+    "name": "Adobe Technical Communication Suite",
+    "value": "Adobe_Technical_Communication_Suite"
+  },
+  {
+    "name": "Adobe Type",
+    "value": "Adobe_Type"
+  },
+  {
+    "name": "Adobe Web Output Pack",
+    "value": "Adobe_Web_Output_Pack"
+  },
+  {
+    "name": "Adobe Visual Communicator",
+    "value": "Adobe_Visual_Communicator"
+  },
+
+  {
+    "name": "Notepad++",
+    "value": "code_editor_Notepad++"
+  },
+  {
+    "name": "Sublime Text",
+    "value": "code_editor_Sublime_Text"
+  },
+  {
+    "name": "Atom",
+    "value": "code_editor_Atom"
+  },
+  {
+    "name": "Coda",
+    "value": "code_editor_Coda"
+  },
+  {
+    "name": "TextMate",
+    "value": "code_editor_TextMate"
+  },
+  {
+    "name": "Text Wrangler",
+    "value": "code_editor_Text_Wrangler"
+  },
+  {
+    "name": "jEdit",
+    "value": "code_editor_jEdit"
+  },
+  {
+    "name": "Araneae",
+    "value": "code_editor_Araneae"
+  },
+  {
+    "name": "UltraEdit",
+    "value": "code_editor_UltraEdit"
+  },
+  {
+    "name": "Visual Studio Code",
+    "value": "code_editor_Visual_Studio_Code"
+  },
+  {
+    "name": "CoffeeCup",
+    "value": "code_editor_CoffeeCup"
+  },
+  {
+    "name": "BlueFish",
+    "value": "code_editor_BlueFish"
+  },
+  {
+    "name": "Brackets",
+    "value": "code_editor_Brackets"
+  },
+  {
+    "name": "ATPad",
+    "value": "code_editor_ATPad"
+  },
+  {
+    "name": "Komodo Edit",
+    "value": "code_editor_Komodo_Edit"
+  },
+  {
+    "name": "KompoZer",
+    "value": "code_editor_KompoZer"
+  },
+  {
+    "name": "Eclipse",
+    "value": "code_editor_Eclipse"
+  },
+  {
+    "name": "Vim",
+    "value": "code_editor_Vim"
+  },
+  {
+    "name": "DrJava",
+    "value": "code_editor_DrJava"
+  },
+  {
+    "name": "DroidScript",
+    "value": "code_editor_DroidScript"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "value": "code_editor_IntelliJ_IDEA"
+  },
+  {
+    "name": "Clion",
+    "value": "code_editor_Clion"
+  },
+  {
+    "name": "PyDev",
+    "value": "code_editor_PyDev"
+  },
+  {
+    "name": "SlickEdit",
+    "value": "code_editor_SlickEdit"
+  },
+
+  {
+    "name": "Slack",
+    "value": "communication_software_Slack"
+  },
+  {
+    "name": "Fleep",
+    "value": "communication_software_Fleep"
+  },
+  {
+    "name": "Rocket Chat",
+    "value": "communication_software_Rocket_Chat"
+  },
+  {
+    "name": "Mattermost",
+    "value": "communication_software_Mattermost"
+  },
+  {
+    "name": "Ryver",
+    "value": "communication_software_Ryver"
+  },
+  {
+    "name": "CA Flowdock",
+    "value": "communication_software_CA_Flowdock"
+  },
+  {
+    "name": "Flock",
+    "value": "communication_software_Flock"
+  },
+  {
+    "name": "Skype for Business",
+    "value": "communication_software_Skype_for_Business"
+  },
+  {
+    "name": "Wire",
+    "value": "communication_software_Wire"
+  },
+  {
+    "name": "Google Hangouts",
+    "value": "communication_software_Google_Hangouts"
+  },
+  {
+    "name": "Cisco Webex Team",
+    "value": "communication_software_Cisco_Webex_Team"
+  },
+  {
+    "name": "Cisco Jabber",
+    "value": "communication_software_Cisco_Jabber"
+  },
+  {
+    "name": "Discord",
+    "value": "communication_software_Discord"
+  },
+
+  {
+    "name": "SketchUp",
+    "value": "3d_architecture_SketchUp"
+  },
+  {
+    "name": "Revit",
+    "value": "3d_architecture_Revit"
+  },
+  {
+    "name": "3D Studio Max",
+    "value": "3d_architecture_3D_Studio_Max"
+  },
+  {
+    "name": "Autocad",
+    "value": "3d_architecture_Autocad"
+  },
+  {
+    "name": "V-Ray",
+    "value": "3d_architecture_V-Ray"
+  },
+  {
+    "name": "ArchiCAD",
+    "value": "3d_architecture_ArchiCAD"
+  },
+  {
+    "name": "AutoCAD Architecture",
+    "value": "3d_architecture_AutoCAD_Architecture"
+  },
+  {
+    "name": "AutoCAD Civil 3D",
+    "value": "3d_architecture_AutoCAD_Civil_3D"
+  },
+  {
+    "name": "Rhino3D",
+    "value": "3d_architecture_Rhino3D"
+  },
+  {
+    "name": "CATIA",
+    "value": "3d_architecture_CATIA"
+  },
+  {
+    "name": "Solidworks",
+    "value": "3d_architecture_Solidworks"
+  },
+
+
+  {
+    "name": "FreshBooks",
+    "value": "accounting_software_FreshBooks"
+  },
+  {
+    "name": "Sage 50cloud",
+    "value": "accounting_software_Sage_50cloud"
+  },
+  {
+    "name": "NetSuite ERP",
+    "value": "accounting_software_NetSuite_ERP"
+  },
+  {
+    "name": "FreeAgent",
+    "value": "accounting_software_FreeAgent"
+  },
+  {
+    "name": "Zoho Books",
+    "value": "accounting_software_Zoho_Books"
+  },
+  {
+    "name": "Xero",
+    "value": "accounting_software_Xero"
+  },
+  {
+    "name": "Sage Intacct",
+    "value": "accounting_software_Sage_Intacct"
+  },
+  {
+    "name": "QuickBooks Enterprise",
+    "value": "accounting_software_QuickBooks_Enterprise"
+  },
+  {
+    "name": "Brightpearl",
+    "value": "accounting_software_Brightpearl"
+  },
+  {
+    "name": "Happay",
+    "value": "accounting_software_Happay"
+  },
+  {
+    "name": "FinancialForce Accounting",
+    "value": "accounting_software_FinancialForce_Accounting"
+  },
+  {
+    "name": "Tipalti",
+    "value": "accounting_software_Tipalti"
+  },
+  {
+    "name": "Microkeeper",
+    "value": "accounting_software_Microkeeper"
+  },
+  {
+    "name": "NEWOLDSTAMP",
+    "value": "accounting_software_NEWOLDSTAMP"
+  },
+  {
+    "name": "Nummuspay",
+    "value": "accounting_software_Nummuspay"
+  },
+  {
+    "name": "Windows",
+    "value": "os_windows"
+  },
+  {
+    "name": "MacOS X",
+    "value": "os_mac"
+  },
+  {
+    "name": "Linux",
+    "value": "os_linux"
+  },
+  {
+    "name": "Wrike",
+    "value": "project_management_Wrike"
+  },
+  {
+    "name": "Asana",
+    "value": "project_management_Asana"
+  },
+  {
+    "name": "Monday.com",
+    "value": "project_management_Monday.com"
+  },
+  {
+    "name": "Smartsheet",
+    "value": "project_management_Smartsheet"
+  },
+  {
+    "name": "JIRA",
+    "value": "project_management_JIRA"
+  },
+  {
+    "name": "Clarizen",
+    "value": "project_management_Clarizen"
+  },
+  {
+    "name": "Quire",
+    "value": "project_management_Quire"
+  },
+  {
+    "name": "Trello",
+    "value": "project_management_Trello"
+  },
+  {
+    "name": "Zoho Projects",
+    "value": "project_management_Zoho_Projects"
+  },
+  {
+    "name": "ProProfs Project",
+    "value": "project_management_ProProfs_Project"
+  },
+  {
+    "name": "Freshdesk",
+    "value": "helpdesk_Freshdesk"
+  },
+  {
+    "name": "Freshservice",
+    "value": "helpdesk_Freshservice"
+  },
+  {
+    "name": "Zoho Desk",
+    "value": "helpdesk_Zoho_Desk"
+  },
+  {
+    "name": "Salesforce essentials",
+    "value": "helpdesk_Salesforce_essentials"
+  },
+  {
+    "name": "Live Agent",
+    "value": "helpdesk_Live_Agent"
+  },
+  {
+    "name": "Wix answers",
+    "value": "helpdesk_Wix_answers"
+  },
+  {
+    "name": "Pardot",
+    "value": "marketing_software_Pardot"
+  },
+  {
+    "name": "Hubspot marketing",
+    "value": "marketing_software_Hubspot_marketing"
+  },
+  {
+    "name": "Sharpspring",
+    "value": "marketing_software_Sharpspring"
+  },
+  {
+    "name": "SendinBlue Email",
+    "value": "marketing_software_SendinBlue_Email"
+  },
+  {
+    "name": "Zoho Social",
+    "value": "marketing_software_Zoho_Social"
+  },
+  {
+    "name": "Wrike for Marketing",
+    "value": "marketing_software_Wrike_for_Marketing"
+  },
+  {
+    "name": "Wix",
+    "value": "b2b_Wix"
+  },
+  {
+    "name": "Shopify",
+    "value": "b2b_Shopify"
+  },
+  {
+    "name": "3dCart",
+    "value": "b2b_3dCart"
+  },
+  {
+    "name": "Yotpo",
+    "value": "b2b_Yotpo"
+  },
+  {
+    "name": "Site123",
+    "value": "b2b_Site123"
+  },
+  {
+    "name": "SellerPrime",
+    "value": "b2b_SellerPrime"
+  },
+  {
+    "name": "Payability",
+    "value": "b2b_Payability"
+  },
+  {
+    "name": "Bigcommerce",
+    "value": "b2b_Bigcommerce"
+  },
+  {
+    "name": "Vend",
+    "value": "b2b_Vend"
+  },
+  {
+    "name": "Jazva",
+    "value": "b2b_Jazva"
+  },
+  {
+    "name": "HubSpot CRM",
+    "value": "crm_HubSpot_CRM"
+  },
+  {
+    "name": "Salesforce CRM",
+    "value": "crm_Salesforce_CRM"
+  },
+  {
+    "name": "Freshsales",
+    "value": "crm_Freshsales"
+  },
+  {
+    "name": "Pipedrive",
+    "value": "crm_Pipedrive"
+  },
+  {
+    "name": "Zoho CRM",
+    "value": "crm_Zoho_CRM"
+  }
+
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

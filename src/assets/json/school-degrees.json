@@ -1,0 +1,44 @@
+[
+    {
+      "en": "Primary School (PS)",
+      "sq": "Shkollë fillore",
+      "value": "ps"
+    },
+    {
+      "en": "High School (HS) ",
+      "sq": "Shkollë e lartë",
+      "value": "hs"
+    },
+    {
+      "en": "Professional School (PRS)",
+      "sq": "Shkollë profesionale ",
+      "value": "prs"
+    },
+    {
+      "en": "Student (ST)",
+      "sq": "Student",
+      "value": "st"
+    },
+    {
+      "en": "Bachelor (BA) ",
+      "sq": "Baçellor (BA)",
+      "value": "ba"
+    },
+    {
+      "en": "Master (MA)",
+      "sq": "Master (MA)",
+      "value": "ma"
+    },
+    {
+      "en": "Doctor of Philosophy (PhD) ",
+      "sq": "Doktoraturë (PhD",
+      "value": "phd"
+    },
+    {
+      "en": "Other",
+      "sq": "Tjera",
+      "value": "other"
+    }
+    
+  ]
+  

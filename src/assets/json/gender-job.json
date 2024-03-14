@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Both",
+        "sq": "Të dyja",
+        "value": "both"
+    },
+    {
+        "en": "Male",
+        "sq": "Mashkull",
+        "value": "male"
+    },
+    {
+        "en": "Female",
+        "sq": "Femër",
+        "value": "female"
+    }
+]

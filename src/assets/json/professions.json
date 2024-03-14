@@ -1,0 +1,1158 @@
+[
+    {
+      "en": "Abstractor",
+      "sq": "",
+      "value": "abstractor"
+    },
+    {
+      "en": "Accounting technician",
+      "sq": "",
+      "value": "accounting_technician"
+    },
+    {
+      "en": "Actor/actress",
+      "sq": "",
+      "value": "actor_actress"
+    },
+    {
+      "en": "Actuary",
+      "sq": "",
+      "value": "actuary"
+    },
+    {
+      "en": "Acupuncturist",
+      "sq": "",
+      "value": "acupuncturist"
+    },
+    {
+      "en": "Advertising account manager",
+      "sq": "",
+      "value": "advertising_account_manager"
+    },
+    {
+      "en": "Advertising copywriter",
+      "sq": "",
+      "value": "advertising_copywriter"
+    },
+    {
+      "en": "Advice worker",
+      "sq": "",
+      "value": "advice_worker"
+    },
+    {
+      "en": "Aeronautical engineer",
+      "sq": "",
+      "value": "aeronautical_engineer"
+    },
+    {
+      "en": "Agricultural consultant/adviser",
+      "sq": "",
+      "value": "agricultural_consultant_adviser"
+    },
+    {
+      "en": "Aid worker/humanitarian worker",
+      "sq": "",
+      "value": "aid_worker_humanitarian_worker"
+    },
+    {
+      "en": "Air cabin crew",
+      "sq": "",
+      "value": "air_cabin_crew"
+    },
+    {
+      "en": "Air trafic controller",
+      "sq": "",
+      "value": "air_trafic_controller"
+    },
+    {
+      "en": "Airline pilot",
+      "sq": "",
+      "value": "airline_pilot"
+    },
+    {
+      "en": "Analytical chemist",
+      "sq": "",
+      "value": "analytical_chemist"
+    },
+    {
+      "en": "Animal breeder",
+      "sq": "",
+      "value": "animal_breeder"
+    },
+    {
+      "en": "Animator",
+      "sq": "",
+      "value": "animator"
+    },
+    {
+      "en": "Antiques dealer",
+      "sq": "",
+      "value": "antiques_dealer"
+    },
+    {
+      "en": "Arboriculturalist",
+      "sq": "",
+      "value": "arboriculturalist"
+    },
+    {
+      "en": "Archaeologist",
+      "sq": "",
+      "value": "archaeologist"
+    },
+    {
+      "en": "Architect",
+      "sq": "",
+      "value": "architect"
+    },
+    {
+      "en": "Archivist",
+      "sq": "",
+      "value": "archivist"
+    },
+    {
+      "en": "Aromatherapist",
+      "sq": "",
+      "value": "aromatherapist"
+    },
+    {
+      "en": "Art gallery manager",
+      "sq": "",
+      "value": "art_gallery_manager"
+    },
+    {
+      "en": "Arts administrator",
+      "sq": "",
+      "value": "arts_administrator"
+    },
+    {
+      "en": "Arts agent/promoter",
+      "sq": "",
+      "value": "arts_agent_promoter"
+    },
+    {
+      "en": "Arts therapist",
+      "sq": "",
+      "value": "arts_therapist"
+    },
+    {
+      "en": "Audiologist",
+      "sq": "",
+      "value": "audiologist"
+    },
+    {
+      "en": "Auditor",
+      "sq": "",
+      "value": "auditor"
+    },
+    {
+      "en": "Automotive engineer",
+      "sq": "",
+      "value": "automotive_engineer"
+    },
+    {
+      "en": "Banker, commercial/corporate lending",
+      "sq": "",
+      "value": "banker_commercial_corporate_lending"
+    },
+    {
+      "en": "Banker, investment, corporate finance",
+      "sq": "",
+      "value": "banker_investment_corporate_finance"
+    },
+    {
+      "en": "Barrister",
+      "sq": "",
+      "value": "barrister"
+    },
+    {
+      "en": "Betting shop manager",
+      "sq": "",
+      "value": "betting_shop_manager"
+    },
+    {
+      "en": "Bilingual secretary",
+      "sq": "",
+      "value": "bilingual_secretary"
+    },
+    {
+      "en": "Biochemical engineer",
+      "sq": "",
+      "value": "biochemical_engineer"
+    },
+    {
+      "en": "Biochemist",
+      "sq": "",
+      "value": "biochemist"
+    },
+    {
+      "en": "Biomedical engineer",
+      "sq": "",
+      "value": "biomedical_engineer"
+    },
+    {
+      "en": "Biomedical scientist",
+      "sq": "",
+      "value": "biomedical_scientist"
+    },
+    {
+      "en": "Biotechnologist",
+      "sq": "",
+      "value": "biotechnologist"
+    },
+    {
+      "en": "Bookseller",
+      "sq": "",
+      "value": "bookseller"
+    },
+    {
+      "en": "Broadcaster",
+      "sq": "",
+      "value": "broadcaster"
+    },
+    {
+      "en": "Building services engineer",
+      "sq": "",
+      "value": "building_services_engineer"
+    },
+    {
+      "en": "Building surveyor",
+      "sq": "",
+      "value": "building_surveyor"
+    },
+    {
+      "en": "Call centre manager",
+      "sq": "",
+      "value": "call_centre_manager"
+    },
+    {
+      "en": "Careers adviser",
+      "sq": "",
+      "value": "careers_adviser"
+    },
+    {
+      "en": "Cartographer",
+      "sq": "",
+      "value": "cartographer"
+    },
+    {
+      "en": "Catering manager",
+      "sq": "",
+      "value": "catering_manager"
+    },
+    {
+      "en": "Charity officer",
+      "sq": "",
+      "value": "charity_officer"
+    },
+    {
+      "en": "Chartered accountant",
+      "sq": "",
+      "value": "chartered_accountant"
+    },
+    {
+      "en": "Chartered Loss Adjuster",
+      "sq": "",
+      "value": "chartered_loss_adjuster"
+    },
+    {
+      "en": "Chemical development engineer",
+      "sq": "",
+      "value": "chemical_development_engineer"
+    },
+    {
+      "en": "Chiropractor",
+      "sq": "",
+      "value": "chiropractor"
+    },
+    {
+      "en": "Choreographer",
+      "sq": "",
+      "value": "choreographer"
+    },
+    {
+      "en": "Cinema manager",
+      "sq": "",
+      "value": "cinema_manager"
+    },
+    {
+      "en": "Civil engineer",
+      "sq": "",
+      "value": "civil_engineer"
+    },
+    {
+      "en": "Civil service administrator/manager",
+      "sq": "",
+      "value": "civil_service_administrator_manager"
+    },
+    {
+      "en": "Clerical assistant",
+      "sq": "",
+      "value": "clerical_assistant"
+    },
+    {
+      "en": "Clinical cytogeneticist",
+      "sq": "",
+      "value": "clinical_cytogeneticist"
+    },
+    {
+      "en": "Clinical researcher",
+      "sq": "",
+      "value": "clinical_researcher"
+    },
+    {
+      "en": "Clothing/textile technologist",
+      "sq": "",
+      "value": "clothing_textile_technologist"
+    },
+    {
+      "en": "Commissioning engineer",
+      "sq": "",
+      "value": "commissioning_engineer"
+    },
+    {
+      "en": "Commodity broker",
+      "sq": "",
+      "value": "commodity_broker"
+    },
+    {
+      "en": "Communications engineer",
+      "sq": "",
+      "value": "communications_engineer"
+    },
+    {
+      "en": "Community arts worker",
+      "sq": "",
+      "value": "community_arts_worker"
+    },
+    {
+      "en": "Community education officer",
+      "sq": "",
+      "value": "community_education_officer"
+    },
+    {
+      "en": "Community welfare officer",
+      "sq": "",
+      "value": "community_welfare_officer"
+    },
+    {
+      "en": "Community worker/community development worker",
+      "sq": "",
+      "value": "community_worker_community_development_worker"
+    },
+    {
+      "en": "Community/retail pharmacist",
+      "sq": "",
+      "value": "community_retail_pharmacist"
+    },
+    {
+      "en": "Company secretary",
+      "sq": "",
+      "value": "company_secretary"
+    },
+    {
+      "en": "Composer",
+      "sq": "",
+      "value": "composer"
+    },
+    {
+      "en": "Conference/event organiser",
+      "sq": "",
+      "value": "conference_event_organiser"
+    },
+    {
+      "en": "Conservator/restorer",
+      "sq": "",
+      "value": "conservator_restorer"
+    },
+    {
+      "en": "Consulting engineer",
+      "sq": "",
+      "value": "consulting_engineer"
+    },
+    {
+      "en": "Counsellor",
+      "sq": "",
+      "value": "counsellor"
+    },
+    {
+      "en": "Credit analyst",
+      "sq": "",
+      "value": "credit_analyst"
+    },
+    {
+      "en": "Curator",
+      "sq": "",
+      "value": "curator"
+    },
+    {
+      "en": "Customs officer",
+      "sq": "",
+      "value": "customs_officer"
+    },
+    {
+      "en": "Database administrator",
+      "sq": "",
+      "value": "database_administrator"
+    },
+    {
+      "en": "Defence forces",
+      "sq": "",
+      "value": "defence_forces"
+    },
+    {
+      "en": "Dentist",
+      "sq": "",
+      "value": "dentist"
+    },
+    {
+      "en": "Designer, industrial products",
+      "sq": "",
+      "value": "designer_industrial_products"
+    },
+    {
+      "en": "Designer/maker",
+      "sq": "",
+      "value": "designer_maker"
+    },
+    {
+      "en": "Dietician/nutritionist",
+      "sq": "",
+      "value": "dietician_nutritionist"
+    },
+    {
+      "en": "Diplomat",
+      "sq": "",
+      "value": "diplomat"
+    },
+    {
+      "en": "Doctor/GP",
+      "sq": "",
+      "value": "doctor_gp"
+    },
+    {
+      "en": "Economist",
+      "sq": "",
+      "value": "economist"
+    },
+    {
+      "en": "Editor",
+      "sq": "",
+      "value": "editor"
+    },
+    {
+      "en": "Electrical engineer",
+      "sq": "",
+      "value": "electrical_engineer"
+    },
+    {
+      "en": "Electronic engineer",
+      "sq": "",
+      "value": "electronic_engineer"
+    },
+    {
+      "en": "Emergency medical technician (paramedic)",
+      "sq": "",
+      "value": "emergency_medical_technician_(paramedic)"
+    },
+    {
+      "en": "Engineer, manufacturing and production",
+      "sq": "",
+      "value": "engineer_manufacturing_and_production"
+    },
+    {
+      "en": "Engineer, quality",
+      "sq": "",
+      "value": "engineer_quality"
+    },
+    {
+      "en": "Environmental health officer",
+      "sq": "",
+      "value": "environmental_health_officer"
+    },
+    {
+      "en": "Ergonomist",
+      "sq": "",
+      "value": "ergonomist"
+    },
+    {
+      "en": "Estate agent",
+      "sq": "",
+      "value": "estate_agent"
+    },
+    {
+      "en": "Exhibition organiser/event manager",
+      "sq": "",
+      "value": "exhibition_organiser_event_manager"
+    },
+    {
+      "en": "Farm manager",
+      "sq": "",
+      "value": "farm_manager"
+    },
+    {
+      "en": "Fashion designer",
+      "sq": "",
+      "value": "fashion_designer"
+    },
+    {
+      "en": "Field trials officer",
+      "sq": "",
+      "value": "field_trials_officer"
+    },
+    {
+      "en": "Film/TV producer",
+      "sq": "",
+      "value": "film_tv_producer"
+    },
+    {
+      "en": "Financial accountant",
+      "sq": "",
+      "value": "financial_accountant"
+    },
+    {
+      "en": "Financial regulator",
+      "sq": "",
+      "value": "financial_regulator"
+    },
+    {
+      "en": "Fine artist",
+      "sq": "",
+      "value": "fine_artist"
+    },
+    {
+      "en": "Firefighter",
+      "sq": "",
+      "value": "firefighter"
+    },
+    {
+      "en": "Fitness/leisure centre manager",
+      "sq": "",
+      "value": "fitness_leisure_centre_manager"
+    },
+    {
+      "en": "Forensic scientist",
+      "sq": "",
+      "value": "forensic_scientist"
+    },
+    {
+      "en": "Forestry management",
+      "sq": "",
+      "value": "forestry_management"
+    },
+    {
+      "en": "Fundraising manager (charity)",
+      "sq": "",
+      "value": "fundraising_manager_(charity)"
+    },
+    {
+      "en": "Furniture designer",
+      "sq": "",
+      "value": "furniture_designer"
+    },
+    {
+      "en": "Geologist, engineering",
+      "sq": "",
+      "value": "geologist_engineering"
+    },
+    {
+      "en": "Geophysicist, exploration",
+      "sq": "",
+      "value": "geophysicist_exploration"
+    },
+    {
+      "en": "Graphic designer",
+      "sq": "",
+      "value": "graphic_designer"
+    },
+    {
+      "en": "Guidance counsellor, second level",
+      "sq": "",
+      "value": "guidance_counsellor_second_level"
+    },
+    {
+      "en": "Health and safety inspector",
+      "sq": "",
+      "value": "health_and_safety_inspector"
+    },
+    {
+      "en": "Health education/promotion officer",
+      "sq": "",
+      "value": "health_education_promotion_officer"
+    },
+    {
+      "en": "Horticultural consultant",
+      "sq": "",
+      "value": "horticultural_consultant"
+    },
+    {
+      "en": "Hotel manager",
+      "sq": "",
+      "value": "hotel_manager"
+    },
+    {
+      "en": "Housing manager/officer",
+      "sq": "",
+      "value": "housing_manager_officer"
+    },
+    {
+      "en": "Human resources manager",
+      "sq": "",
+      "value": "human_resources_manager"
+    },
+    {
+      "en": "Illustrator",
+      "sq": "",
+      "value": "illustrator"
+    },
+    {
+      "en": "Immigration officer, passport control",
+      "sq": "",
+      "value": "immigration_officer_passport_control"
+    },
+    {
+      "en": "Information officer",
+      "sq": "",
+      "value": "information_officer"
+    },
+    {
+      "en": "Insurance broker, sales",
+      "sq": "",
+      "value": "insurance_broker_sales"
+    },
+    {
+      "en": "Interior designer",
+      "sq": "",
+      "value": "interior_designer"
+    },
+    {
+      "en": "Interpreter",
+      "sq": "",
+      "value": "interpreter"
+    },
+    {
+      "en": "Investment fund administrator",
+      "sq": "",
+      "value": "investment_fund_administrator"
+    },
+    {
+      "en": "Investment fund manager",
+      "sq": "",
+      "value": "investment_fund_manager"
+    },
+    {
+      "en": "IT project manager",
+      "sq": "",
+      "value": "it_project_manager"
+    },
+    {
+      "en": "Journalist",
+      "sq": "",
+      "value": "journalist"
+    },
+    {
+      "en": "Lecturer, third level",
+      "sq": "",
+      "value": "lecturer_third_level"
+    },
+    {
+      "en": "Legal executive",
+      "sq": "",
+      "value": "legal_executive"
+    },
+    {
+      "en": "Librarian",
+      "sq": "",
+      "value": "librarian"
+    },
+    {
+      "en": "Loss adjuster, chartered",
+      "sq": "",
+      "value": "loss_adjuster_chartered"
+    },
+    {
+      "en": "Make-up artist",
+      "sq": "",
+      "value": "make-up_artist"
+    },
+    {
+      "en": "Management accountant",
+      "sq": "",
+      "value": "management_accountant"
+    },
+    {
+      "en": "Management consultant",
+      "sq": "",
+      "value": "management_consultant"
+    },
+    {
+      "en": "Manager, health service",
+      "sq": "",
+      "value": "manager_health_service"
+    },
+    {
+      "en": "Market researcher",
+      "sq": "",
+      "value": "market_researcher"
+    },
+    {
+      "en": "Marketing executive",
+      "sq": "",
+      "value": "marketing_executive"
+    },
+    {
+      "en": "Mechanical engineer",
+      "sq": "",
+      "value": "mechanical_engineer"
+    },
+    {
+      "en": "Media buyer/planner",
+      "sq": "",
+      "value": "media_buyer_planner"
+    },
+    {
+      "en": "Medical laboratory scientist",
+      "sq": "",
+      "value": "medical_laboratory_scientist"
+    },
+    {
+      "en": "Meteorologist",
+      "sq": "",
+      "value": "meteorologist"
+    },
+    {
+      "en": "Microbiologist, clinical",
+      "sq": "",
+      "value": "microbiologist_clinical"
+    },
+    {
+      "en": "Midwife",
+      "sq": "",
+      "value": "midwife"
+    },
+    {
+      "en": "Multimedia designer",
+      "sq": "",
+      "value": "multimedia_designer"
+    },
+    {
+      "en": "Museum education officer",
+      "sq": "",
+      "value": "museum_education_officer"
+    },
+    {
+      "en": "Nature conservation officer",
+      "sq": "",
+      "value": "nature_conservation_officer"
+    },
+    {
+      "en": "Network engineer",
+      "sq": "",
+      "value": "network_engineer"
+    },
+    {
+      "en": "Nurse",
+      "sq": "",
+      "value": "nurse"
+    },
+    {
+      "en": "Occupational hygienist",
+      "sq": "",
+      "value": "occupational_hygienist"
+    },
+    {
+      "en": "Occupational psychologist",
+      "sq": "",
+      "value": "occupational_psychologist"
+    },
+    {
+      "en": "Occupational therapist",
+      "sq": "",
+      "value": "occupational_therapist"
+    },
+    {
+      "en": "Oceanographer",
+      "sq": "",
+      "value": "oceanographer"
+    },
+    {
+      "en": "Optometrist",
+      "sq": "",
+      "value": "optometrist"
+    },
+    {
+      "en": "Patent agent/examiner",
+      "sq": "",
+      "value": "patent_agent_examiner"
+    },
+    {
+      "en": "Personal assistant/secretary",
+      "sq": "",
+      "value": "personal_assistant_secretary"
+    },
+    {
+      "en": "Petroleum engineer",
+      "sq": "",
+      "value": "petroleum_engineer"
+    },
+    {
+      "en": "Pharmacist (hospital)",
+      "sq": "",
+      "value": "pharmacist_(hospital)"
+    },
+    {
+      "en": "Pharmacologist",
+      "sq": "",
+      "value": "pharmacologist"
+    },
+    {
+      "en": "Photographer",
+      "sq": "",
+      "value": "photographer"
+    },
+    {
+      "en": "Physicist",
+      "sq": "",
+      "value": "physicist"
+    },
+    {
+      "en": "Physiotherapist",
+      "sq": "",
+      "value": "physiotherapist"
+    },
+    {
+      "en": "Picture researcher/editor",
+      "sq": "",
+      "value": "picture_researcher_editor"
+    },
+    {
+      "en": "Police officer/An Garda S�och�na",
+      "sq": "",
+      "value": "police_officer_an_garda_s�och�na"
+    },
+    {
+      "en": "Political lobbyist",
+      "sq": "",
+      "value": "political_lobbyist"
+    },
+    {
+      "en": "Presenter, radio and television",
+      "sq": "",
+      "value": "presenter_radio_and_television"
+    },
+    {
+      "en": "Print production manager/assistant",
+      "sq": "",
+      "value": "print_production_manager_assistant"
+    },
+    {
+      "en": "Printmaker",
+      "sq": "",
+      "value": "printmaker"
+    },
+    {
+      "en": "Prison officer",
+      "sq": "",
+      "value": "prison_officer"
+    },
+    {
+      "en": "Probation and welfare officer",
+      "sq": "",
+      "value": "probation_and_welfare_officer"
+    },
+    {
+      "en": "Production manager/planner",
+      "sq": "",
+      "value": "production_manager_planner"
+    },
+    {
+      "en": "Programmer/software developer",
+      "sq": "",
+      "value": "programmer_software_developer"
+    },
+    {
+      "en": "Psychologist, clinical",
+      "sq": "",
+      "value": "psychologist_clinical"
+    },
+    {
+      "en": "Psychologist, educational",
+      "sq": "",
+      "value": "psychologist_educational"
+    },
+    {
+      "en": "Psychologist, sports",
+      "sq": "",
+      "value": "psychologist_sports"
+    },
+    {
+      "en": "Psychotherapist",
+      "sq": "",
+      "value": "psychotherapist"
+    },
+    {
+      "en": "Public relations officer",
+      "sq": "",
+      "value": "public_relations_officer"
+    },
+    {
+      "en": "Quality assurance manager",
+      "sq": "",
+      "value": "quality_assurance_manager"
+    },
+    {
+      "en": "Quantity surveyor",
+      "sq": "",
+      "value": "quantity_surveyor"
+    },
+    {
+      "en": "Radio production",
+      "sq": "",
+      "value": "radio_production"
+    },
+    {
+      "en": "Radiographer, diagnostic",
+      "sq": "",
+      "value": "radiographer_diagnostic"
+    },
+    {
+      "en": "Radiographer, therapeutic",
+      "sq": "",
+      "value": "radiographer_therapeutic"
+    },
+    {
+      "en": "Records manager",
+      "sq": "",
+      "value": "records_manager"
+    },
+    {
+      "en": "Recruitment consultant",
+      "sq": "",
+      "value": "recruitment_consultant"
+    },
+    {
+      "en": "Recycling/waste disposal officer",
+      "sq": "",
+      "value": "recycling_waste_disposal_officer"
+    },
+    {
+      "en": "Retail banker",
+      "sq": "",
+      "value": "retail_banker"
+    },
+    {
+      "en": "Retail buyer",
+      "sq": "",
+      "value": "retail_buyer"
+    },
+    {
+      "en": "Retail manager",
+      "sq": "",
+      "value": "retail_manager"
+    },
+    {
+      "en": "Retail merchandiser",
+      "sq": "",
+      "value": "retail_merchandiser"
+    },
+    {
+      "en": "Risk manager",
+      "sq": "",
+      "value": "risk_manager"
+    },
+    {
+      "en": "Sales executive",
+      "sq": "",
+      "value": "sales_executive"
+    },
+    {
+      "en": "Scientist, industrial R&D",
+      "sq": "",
+      "value": "scientist_industrial_r&d"
+    },
+    {
+      "en": "Scientist, quality control",
+      "sq": "",
+      "value": "scientist_quality_control"
+    },
+    {
+      "en": "Scientist, research",
+      "sq": "",
+      "value": "scientist_research"
+    },
+    {
+      "en": "Social researcher",
+      "sq": "",
+      "value": "social_researcher"
+    },
+    {
+      "en": "Social worker",
+      "sq": "",
+      "value": "social_worker"
+    },
+    {
+      "en": "Soil scientist",
+      "sq": "",
+      "value": "soil_scientist"
+    },
+    {
+      "en": "Solicitor",
+      "sq": "",
+      "value": "solicitor"
+    },
+    {
+      "en": "Speech and language therapist",
+      "sq": "",
+      "value": "speech_and_language_therapist"
+    },
+    {
+      "en": "Sports development officer",
+      "sq": "",
+      "value": "sports_development_officer"
+    },
+    {
+      "en": "Stage manager, theatre",
+      "sq": "",
+      "value": "stage_manager_theatre"
+    },
+    {
+      "en": "Statistician",
+      "sq": "",
+      "value": "statistician"
+    },
+    {
+      "en": "Stockbroker/portfolio manager",
+      "sq": "",
+      "value": "stockbroker_portfolio_manager"
+    },
+    {
+      "en": "Structural engineer",
+      "sq": "",
+      "value": "structural_engineer"
+    },
+    {
+      "en": "Systems analyst/business analyst",
+      "sq": "",
+      "value": "systems_analyst_business_analyst"
+    },
+    {
+      "en": "Tax adviser/consultant",
+      "sq": "",
+      "value": "tax_adviser_consultant"
+    },
+    {
+      "en": "Tax officer/inspector",
+      "sq": "",
+      "value": "tax_officer_inspector"
+    },
+    {
+      "en": "Teacher, adult education",
+      "sq": "",
+      "value": "teacher_adult_education"
+    },
+    {
+      "en": "Teacher, English as a Foreign Language",
+      "sq": "",
+      "value": "teacher_english_as_a_foreign_language"
+    },
+    {
+      "en": "Teacher, learning support",
+      "sq": "",
+      "value": "teacher_learning_support"
+    },
+    {
+      "en": "Teacher, primary level",
+      "sq": "",
+      "value": "teacher_primary_level"
+    },
+    {
+      "en": "Teacher, second level",
+      "sq": "",
+      "value": "teacher_second_level"
+    },
+    {
+      "en": "Teacher, special education",
+      "sq": "",
+      "value": "teacher_special_education"
+    },
+    {
+      "en": "Technical sales",
+      "sq": "",
+      "value": "technical_sales"
+    },
+    {
+      "en": "Technical sales engineer",
+      "sq": "",
+      "value": "technical_sales_engineer"
+    },
+    {
+      "en": "Technical support",
+      "sq": "",
+      "value": "technical_support"
+    },
+    {
+      "en": "Telecommunications engineer",
+      "sq": "",
+      "value": "telecommunications_engineer"
+    },
+    {
+      "en": "Theatre lighting technician",
+      "sq": "",
+      "value": "theatre_lighting_technician"
+    },
+    {
+      "en": "Tourism officer",
+      "sq": "",
+      "value": "tourism_officer"
+    },
+    {
+      "en": "Town planner",
+      "sq": "",
+      "value": "town_planner"
+    },
+    {
+      "en": "Toxicologist",
+      "sq": "",
+      "value": "toxicologist"
+    },
+    {
+      "en": "Training and development officer/manager",
+      "sq": "",
+      "value": "training_and_development_officer_manager"
+    },
+    {
+      "en": "Translator",
+      "sq": "",
+      "value": "translator"
+    },
+    {
+      "en": "Transport/logistics manager",
+      "sq": "",
+      "value": "transport_logistics_manager"
+    },
+    {
+      "en": "Travel agent",
+      "sq": "",
+      "value": "travel_agent"
+    },
+    {
+      "en": "Veterinary surgeon/nurse",
+      "sq": "",
+      "value": "veterinary_surgeon_nurse"
+    },
+    {
+      "en": "Web developer",
+      "sq": "",
+      "value": "web_developer"
+    },
+    {
+      "en": "Writer, radio/TV/film",
+      "sq": "",
+      "value": "writer_radio_tv_film"
+    },
+    {
+      "en": "Youth worker",
+      "sq": "",
+      "value": "youth_worker"
+    }
+   
+  ]

@@ -1,0 +1,49 @@
+[
+  {
+    "en": "Full time",
+    "sq": "Kohë e plotë",
+    "value": "full_time"
+  },
+  {
+    "en": "Part time",
+    "sq": "Me kohë të pjesshme",
+    "value": "part_time"
+  },
+  {
+    "en": "Remote",
+    "sq": "Distance",
+    "value": "remote"
+  },
+  {
+    "en": "Temporary",
+    "sq": "Përkohsishtë",
+    "value": "temporary"
+  },
+  {
+    "en": "Contracted",
+    "sq": "Kontraktuar",
+    "value": "contracted"
+  },
+  {
+    "en": "Internship",
+    "sq": "Praktikë",
+    "value": "internship"
+  },
+  {
+    "en": "Seasonal",
+    "sq": "Sezonale",
+    "value": "seasonal"
+  },
+  {
+    "en": "Volunteer",
+    "sq": "Vullnetar",
+    "value": "volunteer"
+  }
+  
+]
+
+
+
+
+
+        

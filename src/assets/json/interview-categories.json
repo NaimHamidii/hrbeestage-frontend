@@ -1,0 +1,17 @@
+[
+  {
+    "en": "Online interviews (Skype, viber etc.)",
+    "sq": "Thirrje telefonate",
+    "value": "online_interview"
+  },
+  {
+    "en": "In person interview",
+    "sq": "Intervistë individuale",
+    "value": "in_person_interview"
+  },
+  {
+    "en": "Phone call",
+    "sq": "Interviste ne telefon",
+    "value": "phone_call"
+  }
+]

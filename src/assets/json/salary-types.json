@@ -1,0 +1,13 @@
+[
+    {
+      "en": "Net Salary",
+      "sq": "Paga Neto",
+      "value": "salary_net"
+    },
+    {
+      "en": "Gross Salary",
+      "sq": "Paga Bruto",
+      "value": "salary_bruto"
+    }
+ ]
+  

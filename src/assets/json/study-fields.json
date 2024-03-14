@@ -1,0 +1,2962 @@
+[
+  {
+    "en": "Music",
+    "sq": "Music",
+    "value": "music"
+  },
+  {
+    "en": "Dance",
+    "sq": "Dance",
+    "value": "dance"
+  },
+  {
+    "en": "Theatre",
+    "sq": "Theatre",
+    "value": "theatre"
+  },
+  {
+    "en": "Film Studies",
+    "sq": "Film Studies",
+    "value": "film_studies"
+  },
+  {
+    "en": "Fine Arts",
+    "sq": "Fine Arts",
+    "value": "fine_arts"
+  },
+  {
+    "en": "Applied Arts",
+    "sq": "Applied Arts",
+    "value": "applied_arts"
+  },
+  {
+    "en": "Animation",
+    "sq": "Animation",
+    "value": "animation"
+  },
+  {
+    "en": "Calligraphy",
+    "sq": "Calligraphy",
+    "value": "calligraphy"
+  },
+  {
+    "en": "Decorative Arts",
+    "sq": "Decorative Arts",
+    "value": "decorative_arts"
+  },
+  {
+    "en": "Mixed Media",
+    "sq": "Mixed Media",
+    "value": "mixed_media"
+  },
+  {
+    "en": "Printmaking",
+    "sq": "Printmaking",
+    "value": "printmaking"
+  },
+  {
+    "en": "Studio Art",
+    "sq": "Studio Art",
+    "value": "studio_art"
+  },
+  {
+    "en": "Architecture",
+    "sq": "",
+    "value": "architecture"
+  },
+  {
+    "en": "Design",
+    "sq": "",
+    "value": "design"
+  },
+  {
+    "en": "History",
+    "sq": "",
+    "value": "history"
+  },
+  {
+    "en": "Languages And Literature",
+    "sq": "",
+    "value": "languages_and_literature"
+  },
+  {
+    "en": "Linguistics",
+    "sq": "",
+    "value": "linguistics"
+  },
+  {
+    "en": "Comparative Literature",
+    "sq": "",
+    "value": "comparative_literature"
+  },
+  {
+    "en": "Creative Writing",
+    "sq": "",
+    "value": "creative_writing"
+  },
+  {
+    "en": "English Literature",
+    "sq": "",
+    "value": "english_literature"
+  },
+  {
+    "en": "History Of Literature",
+    "sq": "",
+    "value": "history_of_literature"
+  },
+  {
+    "en": "Literary Theory",
+    "sq": "",
+    "value": "literary_theory"
+  },
+  {
+    "en": "Poetry",
+    "sq": "",
+    "value": "poetry"
+  },
+  {
+    "en": "World Literature",
+    "sq": "",
+    "value": "world_literature"
+  },
+  {
+    "en": "Philosophy",
+    "sq": "",
+    "value": "philosophy"
+  },
+  {
+    "en": "Aesthetics",
+    "sq": "",
+    "value": "aesthetics"
+  },
+  {
+    "en": "Philosophy",
+    "sq": "",
+    "value": "philosophy"
+  },
+  {
+    "en": "Epistemology",
+    "sq": "",
+    "value": "epistemology"
+  },
+  {
+    "en": "Ethics",
+    "sq": "",
+    "value": "ethics"
+  },
+  {
+    "en": "History Of Philosophy",
+    "sq": "",
+    "value": "history_of_philosophy"
+  },
+  {
+    "en": "Logic",
+    "sq": "",
+    "value": "logic"
+  },
+  {
+    "en": "Meta Philosophy",
+    "sq": "",
+    "value": "meta_philosophy"
+  },
+  {
+    "en": "Metaphysics",
+    "sq": "",
+    "value": "metaphysics"
+  },
+  {
+    "en": "Philosophical Movement",
+    "sq": "",
+    "value": "philosophical_movement"
+  },
+  {
+    "en": "Political Philosophy",
+    "sq": "",
+    "value": "political_philosophy"
+  },
+  {
+    "en": "Theology",
+    "sq": "",
+    "value": "theology_"
+  },
+  {
+    "en": "Biblical Studies",
+    "sq": "",
+    "value": "biblical_studies"
+  },
+  {
+    "en": "Religious Studies",
+    "sq": "",
+    "value": "religious_studies"
+  },
+  {
+    "en": "Aramaic",
+    "sq": "",
+    "value": "aramaic"
+  },
+  {
+    "en": "Buddhist Devotion",
+    "sq": "",
+    "value": "buddhist_devotion"
+  },
+  {
+    "en": "Christian Theology",
+    "sq": "",
+    "value": "christian_theology"
+  },
+  {
+    "en": "Hindu Theology",
+    "sq": "",
+    "value": "hindu_theology"
+  },
+  {
+    "en": "Jewish Theology",
+    "sq": "",
+    "value": "jewish_theology"
+  },
+  {
+    "en": "Muslim Theology",
+    "sq": "",
+    "value": "muslim_theology"
+  },
+  {
+    "en": "Social Sciences",
+    "sq": "",
+    "value": "social_sciences"
+  },
+  {
+    "en": "Biological Anthropology",
+    "sq": "",
+    "value": "biological_anthropology"
+  },
+  {
+    "en": "Linguistic Anthropology",
+    "sq": "",
+    "value": "linguistic_anthropology"
+  },
+  {
+    "en": "Cultural Anthropology",
+    "sq": "",
+    "value": "cultural_anthropology"
+  },
+  {
+    "en": "Social Anthropology",
+    "sq": "",
+    "value": "social_anthropology"
+  },
+  {
+    "en": "Archaeology",
+    "sq": "",
+    "value": "archaeology"
+  },
+  {
+    "en": "Agricultural Economics",
+    "sq": "",
+    "value": "agricultural_economics"
+  },
+  {
+    "en": "Anarchist Economics",
+    "sq": "",
+    "value": "anarchist_economics"
+  },
+  {
+    "en": "Applied Economics",
+    "sq": "",
+    "value": "applied_economics"
+  },
+  {
+    "en": "Behavioural Economics",
+    "sq": "",
+    "value": "behavioural_economics"
+  },
+  {
+    "en": "Bioeconomics",
+    "sq": "",
+    "value": "bioeconomics"
+  },
+  {
+    "en": "Complexity Economics",
+    "sq": "",
+    "value": "complexity_economics"
+  },
+  {
+    "en": "Computational Economics",
+    "sq": "",
+    "value": "computational_economics"
+  },
+  {
+    "en": "Consumer Economics",
+    "sq": "",
+    "value": "consumer_economics"
+  },
+  {
+    "en": "Development Economics",
+    "sq": "",
+    "value": "development_economics"
+  },
+  {
+    "en": "Ecological Economics",
+    "sq": "",
+    "value": "ecological_economics"
+  },
+  {
+    "en": "Econometrics",
+    "sq": "",
+    "value": "econometrics"
+  },
+  {
+    "en": "Economic Geography",
+    "sq": "",
+    "value": "economic_geography"
+  },
+  {
+    "en": "Economic History",
+    "sq": "",
+    "value": "economic_history"
+  },
+  {
+    "en": "Economic Sociology",
+    "sq": "",
+    "value": "economic_sociology"
+  },
+  {
+    "en": "Economic Systems",
+    "sq": "",
+    "value": "economic_systems"
+  },
+  {
+    "en": "Energy Economics",
+    "sq": "",
+    "value": "energy_economics"
+  },
+  {
+    "en": "Entrepreneurial Economics",
+    "sq": "",
+    "value": "entrepreneurial_economics"
+  },
+  {
+    "en": "Environmental Economics",
+    "sq": "",
+    "value": "environmental_economics"
+  },
+  {
+    "en": "Evolutionary Economics",
+    "sq": "",
+    "value": "evolutionary_economics"
+  },
+  {
+    "en": "Experimental Economics",
+    "sq": "",
+    "value": "experimental_economics"
+  },
+  {
+    "en": "Feminist Economics",
+    "sq": "",
+    "value": "feminist_economics"
+  },
+  {
+    "en": "Financial Econometrics",
+    "sq": "",
+    "value": "financial_econometrics"
+  },
+  {
+    "en": "Financial Economics",
+    "sq": "",
+    "value": "financial_economics"
+  },
+  {
+    "en": "Green Economics",
+    "sq": "",
+    "value": "green_economics"
+  },
+  {
+    "en": "Economic Growth",
+    "sq": "",
+    "value": "economic_growth"
+  },
+  {
+    "en": "Human Development Theory",
+    "sq": "",
+    "value": "human_development_theory"
+  },
+  {
+    "en": "Industrial Organization",
+    "sq": "",
+    "value": "industrial_organization"
+  },
+  {
+    "en": "Information Economics",
+    "sq": "",
+    "value": "information_economics"
+  },
+  {
+    "en": "Institutional Economics",
+    "sq": "",
+    "value": "institutional_economics"
+  },
+  {
+    "en": "International Economics",
+    "sq": "",
+    "value": "international_economics"
+  },
+  {
+    "en": "Islamic Economics",
+    "sq": "",
+    "value": "islamic_economics"
+  },
+  {
+    "en": "Labor Economics",
+    "sq": "",
+    "value": "labor_economics"
+  },
+  {
+    "en": "Law And Economics",
+    "sq": "",
+    "value": "law_and_economics"
+  },
+  {
+    "en": "Macroeconomics",
+    "sq": "",
+    "value": "macroeconomics"
+  },
+  {
+    "en": "Managerial Economics",
+    "sq": "",
+    "value": "managerial_economics"
+  },
+  {
+    "en": "Marxian Economics",
+    "sq": "",
+    "value": "marxian_economics"
+  },
+  {
+    "en": "Mathematical Economics",
+    "sq": "",
+    "value": "mathematical_economics"
+  },
+  {
+    "en": "Microeconomics",
+    "sq": "",
+    "value": "microeconomics"
+  },
+  {
+    "en": "Monetary Economics",
+    "sq": "",
+    "value": "monetary_economics"
+  },
+  {
+    "en": "Neuroeconomics",
+    "sq": "",
+    "value": "neuroeconomics"
+  },
+  {
+    "en": "Participatory Economics",
+    "sq": "",
+    "value": "participatory_economics"
+  },
+  {
+    "en": "Political Economy",
+    "sq": "",
+    "value": "political_economy"
+  },
+  {
+    "en": "Public Economics",
+    "sq": "",
+    "value": "public_economics"
+  },
+  {
+    "en": "Public Finance",
+    "sq": "",
+    "value": "public_finance"
+  },
+  {
+    "en": "Real Estate Economics",
+    "sq": "",
+    "value": "real_estate_economics"
+  },
+  {
+    "en": "Resource Economics",
+    "sq": "",
+    "value": "resource_economics"
+  },
+  {
+    "en": "Social Choice Theory",
+    "sq": "",
+    "value": "social_choice_theory"
+  },
+  {
+    "en": "Socialist Economics",
+    "sq": "",
+    "value": "socialist_economics"
+  },
+  {
+    "en": "Socioeconomics",
+    "sq": "",
+    "value": "socioeconomics"
+  },
+  {
+    "en": "Transport Economics",
+    "sq": "",
+    "value": "transport_economics"
+  },
+  {
+    "en": "Welfare Economics",
+    "sq": "",
+    "value": "welfare_economics"
+  },
+  {
+    "en": "Marketing",
+    "sq": "",
+    "value": "marketing"
+  },
+  {
+    "en": "Human Geography",
+    "sq": "",
+    "value": "human_geography"
+  },
+  {
+    "en": "Administrative Law",
+    "sq": "",
+    "value": "administrative_law"
+  },
+  {
+    "en": "Canon Law",
+    "sq": "",
+    "value": "canon_law"
+  },
+  {
+    "en": "Civil Law",
+    "sq": "",
+    "value": "civil_law"
+  },
+  {
+    "en": "Comparative Law",
+    "sq": "",
+    "value": "comparative_law"
+  },
+  {
+    "en": "Competition Law",
+    "sq": "",
+    "value": "competition_law"
+  },
+  {
+    "en": "Constitutional Law",
+    "sq": "",
+    "value": "constitutional_law"
+  },
+  {
+    "en": "Criminal Law",
+    "sq": "",
+    "value": "criminal_law"
+  },
+  {
+    "en": "Sharia|Islamic Law",
+    "sq": "",
+    "value": "sharia|islamic_law"
+  },
+  {
+    "en": "Jewish Law",
+    "sq": "",
+    "value": "jewish_law"
+  },
+  {
+    "en": "Jurisprudence",
+    "sq": "",
+    "value": "jurisprudence"
+  },
+  {
+    "en": "Legal Management",
+    "sq": "",
+    "value": "legal_management"
+  },
+  {
+    "en": "Procedural Law",
+    "sq": "",
+    "value": "procedural_law"
+  },
+  {
+    "en": "Substantive Law",
+    "sq": "",
+    "value": "substantive_law"
+  },
+  {
+    "en": "Politics Of Canada",
+    "sq": "",
+    "value": "politics_of_canada"
+  },
+  {
+    "en": "Civics",
+    "sq": "",
+    "value": "civics"
+  },
+  {
+    "en": "Comparative Politics",
+    "sq": "",
+    "value": "comparative_politics"
+  },
+  {
+    "en": "European Studies",
+    "sq": "",
+    "value": "european_studies"
+  },
+  {
+    "en": "Geopolitics",
+    "sq": "",
+    "value": "geopolitics"
+  },
+  {
+    "en": "International Relations",
+    "sq": "",
+    "value": "international_relations"
+  },
+  {
+    "en": "International Organizations",
+    "sq": "",
+    "value": "international_organizations"
+  },
+  {
+    "en": "Nationalism Studies",
+    "sq": "",
+    "value": "nationalism_studies"
+  },
+  {
+    "en": "Peace And Conflict Studies",
+    "sq": "",
+    "value": "peace_and_conflict_studies"
+  },
+  {
+    "en": "Policy Studies",
+    "sq": "",
+    "value": "policy_studies"
+  },
+  {
+    "en": "Theories Of Political Behavior",
+    "sq": "",
+    "value": "theories_of_political_behavior"
+  },
+  {
+    "en": "Political Culture",
+    "sq": "",
+    "value": "political_culture"
+  },
+  {
+    "en": "Political History",
+    "sq": "",
+    "value": "political_history"
+  },
+  {
+    "en": "Psephology",
+    "sq": "",
+    "value": "psephology"
+  },
+  {
+    "en": "Abnormal Psychology",
+    "sq": "",
+    "value": "abnormal_psychology"
+  },
+  {
+    "en": "Applied Psychology",
+    "sq": "",
+    "value": "applied_psychology"
+  },
+  {
+    "en": "Asian Psychology",
+    "sq": "",
+    "value": "asian_psychology"
+  },
+  {
+    "en": "Biological Psychology",
+    "sq": "",
+    "value": "biological_psychology"
+  },
+  {
+    "en": "Black Psychology",
+    "sq": "",
+    "value": "black_psychology"
+  },
+  {
+    "en": "Clinical Neuropsychology",
+    "sq": "",
+    "value": "clinical_neuropsychology"
+  },
+  {
+    "en": "Clinical Psychology",
+    "sq": "",
+    "value": "clinical_psychology"
+  },
+  {
+    "en": "Cognitive Psychology",
+    "sq": "",
+    "value": "cognitive_psychology"
+  },
+  {
+    "en": "Community Psychology",
+    "sq": "",
+    "value": "community_psychology"
+  },
+  {
+    "en": "Comparative Psychology",
+    "sq": "",
+    "value": "comparative_psychology"
+  },
+  {
+    "en": "Conservation Psychology",
+    "sq": "",
+    "value": "conservation_psychology"
+  },
+  {
+    "en": "Consumer Psychology",
+    "sq": "",
+    "value": "consumer_psychology"
+  },
+  {
+    "en": "Counseling Psychology",
+    "sq": "",
+    "value": "counseling_psychology"
+  },
+  {
+    "en": "Criminal Psychology",
+    "sq": "",
+    "value": "criminal_psychology"
+  },
+  {
+    "en": "Cultural Psychology",
+    "sq": "",
+    "value": "cultural_psychology"
+  },
+  {
+    "en": "Developmental Psychology",
+    "sq": "",
+    "value": "developmental_psychology"
+  },
+  {
+    "en": "Differential Psychology",
+    "sq": "",
+    "value": "differential_psychology"
+  },
+  {
+    "en": "Ecological Psychology",
+    "sq": "",
+    "value": "ecological_psychology"
+  },
+  {
+    "en": "Educational Psychology",
+    "sq": "",
+    "value": "educational_psychology"
+  },
+  {
+    "en": "Environmental Psychology",
+    "sq": "",
+    "value": "environmental_psychology"
+  },
+  {
+    "en": "Evolutionary Psychology",
+    "sq": "",
+    "value": "evolutionary_psychology"
+  },
+  {
+    "en": "Experimental Psychology",
+    "sq": "",
+    "value": "experimental_psychology"
+  },
+  {
+    "en": "Group Dynamics",
+    "sq": "",
+    "value": "group_dynamics"
+  },
+  {
+    "en": "Journal Of Family Psychology",
+    "sq": "",
+    "value": "journal_of_family_psychology"
+  },
+  {
+    "en": "Feminine Psychology",
+    "sq": "",
+    "value": "feminine_psychology"
+  },
+  {
+    "en": "Forensic Developmental Psychology",
+    "sq": "",
+    "value": "forensic_developmental_psychology"
+  },
+  {
+    "en": "Forensic Psychology",
+    "sq": "",
+    "value": "forensic_psychology"
+  },
+  {
+    "en": "Health Psychology",
+    "sq": "",
+    "value": "health_psychology"
+  },
+  {
+    "en": "Humanistic Psychology",
+    "sq": "",
+    "value": "humanistic_psychology"
+  },
+  {
+    "en": "Indigenous Psychology",
+    "sq": "",
+    "value": "indigenous_psychology"
+  },
+  {
+    "en": "Legal Psychology",
+    "sq": "",
+    "value": "legal_psychology"
+  },
+  {
+    "en": "Masculine Psychology",
+    "sq": "",
+    "value": "masculine_psychology"
+  },
+  {
+    "en": "Mathematical Psychology",
+    "sq": "",
+    "value": "mathematical_psychology"
+  },
+  {
+    "en": "Media Psychology",
+    "sq": "",
+    "value": "media_psychology"
+  },
+  {
+    "en": "Medical Psychology",
+    "sq": "",
+    "value": "medical_psychology"
+  },
+  {
+    "en": "Military Psychology",
+    "sq": "",
+    "value": "military_psychology"
+  },
+  {
+    "en": "Descriptive Ethics",
+    "sq": "",
+    "value": "descriptive_ethics"
+  },
+  {
+    "en": "Music Psychology",
+    "sq": "",
+    "value": "music_psychology"
+  },
+  {
+    "en": "Neuropsychology",
+    "sq": "",
+    "value": "neuropsychology"
+  },
+  {
+    "en": "Occupational Health Psychology",
+    "sq": "",
+    "value": "occupational_health_psychology"
+  },
+  {
+    "en": "Occupational Psychology",
+    "sq": "",
+    "value": "occupational_psychology"
+  },
+  {
+    "en": "Industrial And Organizational Psychology",
+    "sq": "",
+    "value": "industrial_and_organizational_psychology"
+  },
+  {
+    "en": "Parapsychology",
+    "sq": "",
+    "value": "parapsychology"
+  },
+  {
+    "en": "Pediatric Psychology",
+    "sq": "",
+    "value": "pediatric_psychology"
+  },
+  {
+    "en": "Pedology",
+    "sq": "",
+    "value": "pedology"
+  },
+  {
+    "en": "Personality Psychology",
+    "sq": "",
+    "value": "personality_psychology"
+  },
+  {
+    "en": "Phenomenology",
+    "sq": "",
+    "value": "phenomenology"
+  },
+  {
+    "en": "Political Psychology",
+    "sq": "",
+    "value": "political_psychology"
+  },
+  {
+    "en": "Positive Psychology",
+    "sq": "",
+    "value": "positive_psychology"
+  },
+  {
+    "en": "Psychoanalysis",
+    "sq": "",
+    "value": "psychoanalysis"
+  },
+  {
+    "en": "Psychobiology",
+    "sq": "",
+    "value": "psychobiology"
+  },
+  {
+    "en": "Psychology Of Religion",
+    "sq": "",
+    "value": "psychology_of_religion"
+  },
+  {
+    "en": "Psychometrics",
+    "sq": "",
+    "value": "psychometrics"
+  },
+  {
+    "en": "Psychopathology",
+    "sq": "",
+    "value": "psychopathology"
+  },
+  {
+    "en": "Psychophysics",
+    "sq": "",
+    "value": "psychophysics"
+  },
+  {
+    "en": "Quantitative Psychology",
+    "sq": "",
+    "value": "quantitative_psychology"
+  },
+  {
+    "en": "Rehabilitation Psychology Journal",
+    "sq": "",
+    "value": "rehabilitation_psychology_journal"
+  },
+  {
+    "en": "School Psychology",
+    "sq": "",
+    "value": "school_psychology"
+  },
+  {
+    "en": "Social Psychology",
+    "sq": "",
+    "value": "social_psychology"
+  },
+  {
+    "en": "Sport Psychology",
+    "sq": "",
+    "value": "sport_psychology"
+  },
+  {
+    "en": "Traffic Psychology",
+    "sq": "",
+    "value": "traffic_psychology"
+  },
+  {
+    "en": "Transpersonal Psychology",
+    "sq": "",
+    "value": "transpersonal_psychology"
+  },
+  {
+    "en": "Analytical Sociology",
+    "sq": "",
+    "value": "analytical_sociology"
+  },
+  {
+    "en": "Applied Sociology",
+    "sq": "",
+    "value": "applied_sociology"
+  },
+  {
+    "en": "Collective Behavior",
+    "sq": "",
+    "value": "collective_behavior"
+  },
+  {
+    "en": "Chinese Sociology",
+    "sq": "",
+    "value": "chinese_sociology"
+  },
+  {
+    "en": "Collective Behavior",
+    "sq": "",
+    "value": "collective_behavior"
+  },
+  {
+    "en": "Community Informatics",
+    "sq": "",
+    "value": "community_informatics"
+  },
+  {
+    "en": "Comparative Sociology",
+    "sq": "",
+    "value": "comparative_sociology"
+  },
+  {
+    "en": "Conflict Theories",
+    "sq": "",
+    "value": "conflict_theories"
+  },
+  {
+    "en": "Criminology",
+    "sq": "",
+    "value": "criminology"
+  },
+  {
+    "en": "Critical Management Studies",
+    "sq": "",
+    "value": "critical_management_studies"
+  },
+  {
+    "en": "Critical Sociology",
+    "sq": "",
+    "value": "critical_sociology"
+  },
+  {
+    "en": "Cultural Sociology",
+    "sq": "",
+    "value": "cultural_sociology"
+  },
+  {
+    "en": "Cultural Studies",
+    "sq": "",
+    "value": "cultural_studies"
+  },
+  {
+    "en": "Demography",
+    "sq": "",
+    "value": "demography"
+  },
+  {
+    "en": "Digital Sociology",
+    "sq": "",
+    "value": "digital_sociology"
+  },
+  {
+    "en": "Dramaturgical Sociology",
+    "sq": "",
+    "value": "dramaturgical_sociology"
+  },
+  {
+    "en": "Educational Sociology",
+    "sq": "",
+    "value": "educational_sociology"
+  },
+  {
+    "en": "Empirical Sociology",
+    "sq": "",
+    "value": "empirical_sociology"
+  },
+  {
+    "en": "Environmental Sociology",
+    "sq": "",
+    "value": "environmental_sociology"
+  },
+  {
+    "en": "Evolutionary Sociology",
+    "sq": "",
+    "value": "evolutionary_sociology"
+  },
+  {
+    "en": "Feminist Sociology",
+    "sq": "",
+    "value": "feminist_sociology"
+  },
+  {
+    "en": "Figurational Sociology",
+    "sq": "",
+    "value": "figurational_sociology"
+  },
+  {
+    "en": "Futures Studies",
+    "sq": "",
+    "value": "futures_studies"
+  },
+  {
+    "en": "Gender Studies",
+    "sq": "",
+    "value": "gender_studies"
+  },
+  {
+    "en": "Historical Sociology",
+    "sq": "",
+    "value": "historical_sociology"
+  },
+  {
+    "en": "Human Ecology",
+    "sq": "",
+    "value": "human_ecology"
+  },
+  {
+    "en": "Humanistic Sociology",
+    "sq": "",
+    "value": "humanistic_sociology"
+  },
+  {
+    "en": "Industrial Sociology",
+    "sq": "",
+    "value": "industrial_sociology"
+  },
+  {
+    "en": "Interactionism",
+    "sq": "",
+    "value": "interactionism"
+  },
+  {
+    "en": "Interpretive Sociology",
+    "sq": "",
+    "value": "interpretive_sociology"
+  },
+  {
+    "en": "Jealousy Sociology",
+    "sq": "",
+    "value": "jealousy_sociology"
+  },
+  {
+    "en": "Macrosociology",
+    "sq": "",
+    "value": "macrosociology"
+  },
+  {
+    "en": "Marxist Sociology",
+    "sq": "",
+    "value": "marxist_sociology"
+  },
+  {
+    "en": "Mathematical Sociology",
+    "sq": "",
+    "value": "mathematical_sociology"
+  },
+  {
+    "en": "Medical Sociology",
+    "sq": "",
+    "value": "medical_sociology"
+  },
+  {
+    "en": "Mesosociology",
+    "sq": "",
+    "value": "mesosociology"
+  },
+  {
+    "en": "Microsociology",
+    "sq": "",
+    "value": "microsociology"
+  },
+  {
+    "en": "Military Sociology",
+    "sq": "",
+    "value": "military_sociology"
+  },
+  {
+    "en": "Natural Resource Sociology",
+    "sq": "",
+    "value": "natural_resource_sociology"
+  },
+  {
+    "en": "Organizational Studies",
+    "sq": "",
+    "value": "organizational_studies"
+  },
+  {
+    "en": "Phenomenological Sociology",
+    "sq": "",
+    "value": "phenomenological_sociology"
+  },
+  {
+    "en": "Policy Sociology",
+    "sq": "",
+    "value": "policy_sociology"
+  },
+  {
+    "en": "Psychoanalytic Sociology",
+    "sq": "",
+    "value": "psychoanalytic_sociology"
+  },
+  {
+    "en": "Science Studies",
+    "sq": "",
+    "value": "science_studies"
+  },
+  {
+    "en": "Sexology",
+    "sq": "",
+    "value": "sexology"
+  },
+  {
+    "en": "Social Capital",
+    "sq": "",
+    "value": "social_capital"
+  },
+  {
+    "en": "Social Change",
+    "sq": "",
+    "value": "social_change"
+  },
+  {
+    "en": "Social Conflict Theory",
+    "sq": "",
+    "value": "social_conflict_theory"
+  },
+  {
+    "en": "Social Control",
+    "sq": "",
+    "value": "social_control"
+  },
+  {
+    "en": "Social Economy",
+    "sq": "",
+    "value": "social_economy"
+  },
+  {
+    "en": "Social Philosophy",
+    "sq": "",
+    "value": "social_philosophy"
+  },
+  {
+    "en": "Social Policy",
+    "sq": "",
+    "value": "social_policy"
+  },
+  {
+    "en": "Social Research",
+    "sq": "",
+    "value": "social_research"
+  },
+  {
+    "en": "Social Stratification",
+    "sq": "",
+    "value": "social_stratification"
+  },
+  {
+    "en": "Social Theory",
+    "sq": "",
+    "value": "social_theory"
+  },
+  {
+    "en": "Social Transformation",
+    "sq": "",
+    "value": "social_transformation"
+  },
+  {
+    "en": "Sociobiology",
+    "sq": "",
+    "value": "sociobiology"
+  },
+  {
+    "en": "Sociocybernetics",
+    "sq": "",
+    "value": "sociocybernetics"
+  },
+  {
+    "en": "Sociolinguistics",
+    "sq": "",
+    "value": "sociolinguistics"
+  },
+  {
+    "en": "Sociological Theory",
+    "sq": "",
+    "value": "sociological_theory"
+  },
+  {
+    "en": "Gerontology",
+    "sq": "",
+    "value": "gerontology"
+  },
+  {
+    "en": "Rural Sociology",
+    "sq": "",
+    "value": "rural_sociology"
+  },
+  {
+    "en": "Sociology Of Art",
+    "sq": "",
+    "value": "sociology_of_art"
+  },
+  {
+    "en": "Societal And Cultural Aspects Of Autism",
+    "sq": "",
+    "value": "societal_and_cultural_aspects_of_autism"
+  },
+  {
+    "en": "Sociology Of The Family",
+    "sq": "",
+    "value": "sociology_of_the_family"
+  },
+  {
+    "en": "Social Conflict",
+    "sq": "",
+    "value": "social_conflict"
+  },
+  {
+    "en": "Sociology Of Culture",
+    "sq": "",
+    "value": "sociology_of_culture"
+  },
+  {
+    "en": "Sociology Of The Internet",
+    "sq": "",
+    "value": "sociology_of_the_internet"
+  },
+  {
+    "en": "Development Theory",
+    "sq": "",
+    "value": "development_theory"
+  },
+  {
+    "en": "Deviance Sociology",
+    "sq": "",
+    "value": "deviance_sociology"
+  },
+  {
+    "en": "Sociology Of Disaster",
+    "sq": "",
+    "value": "sociology_of_disaster"
+  },
+  {
+    "en": "Sociology Of Education",
+    "sq": "",
+    "value": "sociology_of_education"
+  },
+  {
+    "en": "Sociology Of Emotions",
+    "sq": "",
+    "value": "sociology_of_emotions"
+  },
+  {
+    "en": "Sociology Of The Family",
+    "sq": "",
+    "value": "sociology_of_the_family"
+  },
+  {
+    "en": "Social Studies Of Finance",
+    "sq": "",
+    "value": "social_studies_of_finance"
+  },
+  {
+    "en": "Sociology Of Food",
+    "sq": "",
+    "value": "sociology_of_food"
+  },
+  {
+    "en": "Sociology Of Gender",
+    "sq": "",
+    "value": "sociology_of_gender"
+  },
+  {
+    "en": "Theory Of Generation",
+    "sq": "",
+    "value": "theory_of_generation"
+  },
+  {
+    "en": "World Systems Theory",
+    "sq": "",
+    "value": "world_systems_theory"
+  },
+  {
+    "en": "Political Sociology",
+    "sq": "",
+    "value": "political_sociology"
+  },
+  {
+    "en": "Sociology Of Health And Illness",
+    "sq": "",
+    "value": "sociology_of_health_and_illness"
+  },
+  {
+    "en": "Sociology Of Human Consciousness",
+    "sq": "",
+    "value": "sociology_of_human_consciousness"
+  },
+  {
+    "en": "Sociology Of Immigration",
+    "sq": "",
+    "value": "sociology_of_immigration"
+  },
+  {
+    "en": "Sociology Of Knowledge",
+    "sq": "",
+    "value": "sociology_of_knowledge"
+  },
+  {
+    "en": "Sociology Of Language",
+    "sq": "",
+    "value": "sociology_of_language"
+  },
+  {
+    "en": "Sociology Of Law",
+    "sq": "",
+    "value": "sociology_of_law"
+  },
+  {
+    "en": "Sociology Of Leisure",
+    "sq": "",
+    "value": "sociology_of_leisure"
+  },
+  {
+    "en": "Sociology Of Literature",
+    "sq": "",
+    "value": "sociology_of_literature"
+  },
+  {
+    "en": "Economic Sociology",
+    "sq": "",
+    "value": "economic_sociology"
+  },
+  {
+    "en": "Sociology Of The Family",
+    "sq": "",
+    "value": "sociology_of_the_family"
+  },
+  {
+    "en": "Sociology Of The Family",
+    "sq": "",
+    "value": "sociology_of_the_family"
+  },
+  {
+    "en": "Sociomusicology",
+    "sq": "",
+    "value": "sociomusicology"
+  },
+  {
+    "en": "Natural Resource Management",
+    "sq": "",
+    "value": "natural_resource_management"
+  },
+  {
+    "en": "Organizational Behavior",
+    "sq": "",
+    "value": "organizational_behavior"
+  },
+  {
+    "en": "Sociology Of Peace",
+    "sq": "",
+    "value": "sociology_of_peace"
+  },
+  {
+    "en": "Sociology Of Punishment",
+    "sq": "",
+    "value": "sociology_of_punishment"
+  },
+  {
+    "en": "Sociology Of Race And Ethnic Relations",
+    "sq": "",
+    "value": "sociology_of_race_and_ethnic_relations"
+  },
+  {
+    "en": "Sociology Of Religion",
+    "sq": "",
+    "value": "sociology_of_religion"
+  },
+  {
+    "en": "Risk|Sociology Of Risk",
+    "sq": "",
+    "value": "risk|sociology_of_risk"
+  },
+  {
+    "en": "Sociology Of Scientific Knowledge",
+    "sq": "",
+    "value": "sociology_of_scientific_knowledge"
+  },
+  {
+    "en": "Sociology Of Scientific Knowledge",
+    "sq": "",
+    "value": "sociology_of_scientific_knowledge"
+  },
+  {
+    "en": "Social Change",
+    "sq": "",
+    "value": "social_change"
+  },
+  {
+    "en": "Social Movement",
+    "sq": "",
+    "value": "social_movement"
+  },
+  {
+    "en": "Sociology Of Space",
+    "sq": "",
+    "value": "sociology_of_space"
+  },
+  {
+    "en": "Sociology Of Sport",
+    "sq": "",
+    "value": "sociology_of_sport"
+  },
+  {
+    "en": "Science, Technology And Society",
+    "sq": "",
+    "value": "science,_technology_and_society"
+  },
+  {
+    "en": "Sociology Of Terrorism",
+    "sq": "",
+    "value": "sociology_of_terrorism"
+  },
+  {
+    "en": "Sociology Of The Body",
+    "sq": "",
+    "value": "sociology_of_the_body"
+  },
+  {
+    "en": "Sociology Of The Family",
+    "sq": "",
+    "value": "sociology_of_the_family"
+  },
+  {
+    "en": "Sociology Of The History Of Science",
+    "sq": "",
+    "value": "sociology_of_the_history_of_science"
+  },
+  {
+    "en": "Sociology Of The Internet",
+    "sq": "",
+    "value": "sociology_of_the_internet"
+  },
+  {
+    "en": "Industrial Sociology",
+    "sq": "",
+    "value": "industrial_sociology"
+  },
+  {
+    "en": "Sociomusicology",
+    "sq": "",
+    "value": "sociomusicology"
+  },
+  {
+    "en": "Structural Sociology",
+    "sq": "",
+    "value": "structural_sociology"
+  },
+  {
+    "en": "Theoretical Sociology",
+    "sq": "",
+    "value": "theoretical_sociology"
+  },
+  {
+    "en": "Urban Sociology",
+    "sq": "",
+    "value": "urban_sociology"
+  },
+  {
+    "en": "Victimology",
+    "sq": "",
+    "value": "victimology"
+  },
+  {
+    "en": "Visual Sociology",
+    "sq": "",
+    "value": "visual_sociology"
+  },
+  {
+    "en": "Aerobiology",
+    "sq": "",
+    "value": "aerobiology"
+  },
+  {
+    "en": "Anatomy",
+    "sq": "",
+    "value": "anatomy"
+  },
+  {
+    "en": "Biochemistry",
+    "sq": "",
+    "value": "biochemistry"
+  },
+  {
+    "en": "Bioinformatics",
+    "sq": "",
+    "value": "bioinformatics"
+  },
+  {
+    "en": "Biophysics",
+    "sq": "",
+    "value": "biophysics"
+  },
+  {
+    "en": "Biotechnology",
+    "sq": "",
+    "value": "biotechnology"
+  },
+  {
+    "en": "Botany",
+    "sq": "",
+    "value": "botany"
+  },
+  {
+    "en": "Cell Biology",
+    "sq": "",
+    "value": "cell_biology"
+  },
+  {
+    "en": "Chronobiology",
+    "sq": "",
+    "value": "chronobiology"
+  },
+  {
+    "en": "Computational Biology",
+    "sq": "",
+    "value": "computational_biology"
+  },
+  {
+    "en": "Cryobiology",
+    "sq": "",
+    "value": "cryobiology"
+  },
+  {
+    "en": "Developmental Biology",
+    "sq": "",
+    "value": "developmental_biology"
+  },
+  {
+    "en": "Ecology",
+    "sq": "",
+    "value": "ecology"
+  },
+  {
+    "en": "Endocrinology",
+    "sq": "",
+    "value": "endocrinology"
+  },
+  {
+    "en": "Evolutionary Biology",
+    "sq": "",
+    "value": "evolutionary_biology"
+  },
+  {
+    "en": "Genetics",
+    "sq": "",
+    "value": "genetics"
+  },
+  {
+    "en": "Histology",
+    "sq": "",
+    "value": "histology"
+  },
+  {
+    "en": "Human Biology",
+    "sq": "",
+    "value": "human_biology"
+  },
+  {
+    "en": "Immunology",
+    "sq": "",
+    "value": "immunology"
+  },
+  {
+    "en": "Limnology",
+    "sq": "",
+    "value": "limnology"
+  },
+  {
+    "en": "Linnaean Taxonomy",
+    "sq": "",
+    "value": "linnaean_taxonomy"
+  },
+  {
+    "en": "Marine Biology",
+    "sq": "",
+    "value": "marine_biology"
+  },
+  {
+    "en": "Mathematical Biology",
+    "sq": "",
+    "value": "mathematical_biology"
+  },
+  {
+    "en": "Microbiology",
+    "sq": "",
+    "value": "microbiology"
+  },
+  {
+    "en": "Molecular Biology",
+    "sq": "",
+    "value": "molecular_biology"
+  },
+  {
+    "en": "Mycology",
+    "sq": "",
+    "value": "mycology"
+  },
+  {
+    "en": "Neuroscience",
+    "sq": "",
+    "value": "neuroscience"
+  },
+  {
+    "en": "Nutrition",
+    "sq": "",
+    "value": "nutrition"
+  },
+  {
+    "en": "Paleobiology",
+    "sq": "",
+    "value": "paleobiology"
+  },
+  {
+    "en": "Parasitology",
+    "sq": "",
+    "value": "parasitology"
+  },
+  {
+    "en": "Pathology",
+    "sq": "",
+    "value": "pathology"
+  },
+  {
+    "en": "Physiology",
+    "sq": "",
+    "value": "physiology"
+  },
+  {
+    "en": "Structural Biology",
+    "sq": "",
+    "value": "structural_biology"
+  },
+  {
+    "en": "Systematics",
+    "sq": "",
+    "value": "systematics"
+  },
+  {
+    "en": "Systems Biology",
+    "sq": "",
+    "value": "systems_biology"
+  },
+  {
+    "en": "Virology",
+    "sq": "",
+    "value": "virology"
+  },
+  {
+    "en": "Xenobiology",
+    "sq": "",
+    "value": "xenobiology"
+  },
+  {
+    "en": "Zoology",
+    "sq": "",
+    "value": "zoology"
+  },
+  {
+    "en": "Agrochemistry",
+    "sq": "",
+    "value": "agrochemistry"
+  },
+  {
+    "en": "Analytical Chemistry",
+    "sq": "",
+    "value": "analytical_chemistry"
+  },
+  {
+    "en": "Astrochemistry",
+    "sq": "",
+    "value": "astrochemistry"
+  },
+  {
+    "en": "Atmospheric Chemistry",
+    "sq": "",
+    "value": "atmospheric_chemistry"
+  },
+  {
+    "en": "Chemical Biology",
+    "sq": "",
+    "value": "chemical_biology"
+  },
+  {
+    "en": "Chemical Engineering",
+    "sq": "",
+    "value": "chemical_engineering"
+  },
+  {
+    "en": "Cheminformatics",
+    "sq": "",
+    "value": "cheminformatics"
+  },
+  {
+    "en": "Computational Chemistry",
+    "sq": "",
+    "value": "computational_chemistry"
+  },
+  {
+    "en": "Cosmochemistry",
+    "sq": "",
+    "value": "cosmochemistry"
+  },
+  {
+    "en": "Electrochemistry",
+    "sq": "",
+    "value": "electrochemistry"
+  },
+  {
+    "en": "Environmental Chemistry",
+    "sq": "",
+    "value": "environmental_chemistry"
+  },
+  {
+    "en": "Femtochemistry",
+    "sq": "",
+    "value": "femtochemistry"
+  },
+  {
+    "en": "Flavor",
+    "sq": "",
+    "value": "flavor"
+  },
+  {
+    "en": "Flow Chemistry",
+    "sq": "",
+    "value": "flow_chemistry"
+  },
+  {
+    "en": "Geochemistry",
+    "sq": "",
+    "value": "geochemistry"
+  },
+  {
+    "en": "Green Chemistry",
+    "sq": "",
+    "value": "green_chemistry"
+  },
+  {
+    "en": "Histochemistry",
+    "sq": "",
+    "value": "histochemistry"
+  },
+  {
+    "en": "Hydrogenation",
+    "sq": "",
+    "value": "hydrogenation"
+  },
+  {
+    "en": "Immunochemistry",
+    "sq": "",
+    "value": "immunochemistry"
+  },
+  {
+    "en": "Inorganic Chemistry",
+    "sq": "",
+    "value": "inorganic_chemistry"
+  },
+  {
+    "en": "Marine Chemistry",
+    "sq": "",
+    "value": "marine_chemistry"
+  },
+  {
+    "en": "Mathematical Chemistry",
+    "sq": "",
+    "value": "mathematical_chemistry"
+  },
+  {
+    "en": "Mechanochemistry",
+    "sq": "",
+    "value": "mechanochemistry"
+  },
+  {
+    "en": "Medicinal Chemistry",
+    "sq": "",
+    "value": "medicinal_chemistry"
+  },
+  {
+    "en": "Molecular Mechanics",
+    "sq": "",
+    "value": "molecular_mechanics"
+  },
+  {
+    "en": "Nanotechnology",
+    "sq": "",
+    "value": "nanotechnology"
+  },
+  {
+    "en": "Natural Product Chemistry",
+    "sq": "",
+    "value": "natural_product_chemistry"
+  },
+  {
+    "en": "Neurochemistry",
+    "sq": "",
+    "value": "neurochemistry"
+  },
+  {
+    "en": "Oenology",
+    "sq": "",
+    "value": "oenology"
+  },
+  {
+    "en": "Organic Chemistry",
+    "sq": "",
+    "value": "organic_chemistry"
+  },
+  {
+    "en": "Organometallic Chemistry",
+    "sq": "",
+    "value": "organometallic_chemistry"
+  },
+  {
+    "en": "Petrochemistry",
+    "sq": "",
+    "value": "petrochemistry"
+  },
+  {
+    "en": "Pharmacology",
+    "sq": "",
+    "value": "pharmacology"
+  },
+  {
+    "en": "Photochemistry",
+    "sq": "",
+    "value": "photochemistry_"
+  },
+  {
+    "en": "Physical Chemistry",
+    "sq": "",
+    "value": "physical_chemistry"
+  },
+  {
+    "en": "Physical Organic Chemistry",
+    "sq": "",
+    "value": "physical_organic_chemistry"
+  },
+  {
+    "en": "Phytochemistry",
+    "sq": "",
+    "value": "phytochemistry"
+  },
+  {
+    "en": "Polymer Chemistry",
+    "sq": "",
+    "value": "polymer_chemistry"
+  },
+  {
+    "en": "Quantum Chemistry",
+    "sq": "",
+    "value": "quantum_chemistry"
+  },
+  {
+    "en": "Radiochemistry",
+    "sq": "",
+    "value": "radiochemistry"
+  },
+  {
+    "en": "Solid State Chemistry",
+    "sq": "",
+    "value": "solid_state_chemistry"
+  },
+  {
+    "en": "Sonochemistry",
+    "sq": "",
+    "value": "sonochemistry"
+  },
+  {
+    "en": "Supramolecular Chemistry",
+    "sq": "",
+    "value": "supramolecular_chemistry"
+  },
+  {
+    "en": "Surface Chemistry",
+    "sq": "",
+    "value": "surface_chemistry"
+  },
+  {
+    "en": "Synthetic Chemistry",
+    "sq": "",
+    "value": "synthetic_chemistry"
+  },
+  {
+    "en": "Theoretical Chemistry",
+    "sq": "",
+    "value": "theoretical_chemistry"
+  },
+  {
+    "en": "Thermochemistry",
+    "sq": "",
+    "value": "thermochemistry"
+  },
+  {
+    "en": "Edaphology",
+    "sq": "",
+    "value": "edaphology"
+  },
+  {
+    "en": "Environmental Science",
+    "sq": "",
+    "value": "environmental_science"
+  },
+  {
+    "en": "Gemology",
+    "sq": "",
+    "value": "gemology"
+  },
+  {
+    "en": "Geodesy",
+    "sq": "",
+    "value": "geodesy"
+  },
+  {
+    "en": "Physical Geography",
+    "sq": "",
+    "value": "physical_geography"
+  },
+  {
+    "en": "Geophysics",
+    "sq": "",
+    "value": "geophysics"
+  },
+  {
+    "en": "Paleontology",
+    "sq": "",
+    "value": "paleontology"
+  },
+  {
+    "en": "Astrobiology",
+    "sq": "",
+    "value": "astrobiology"
+  },
+  {
+    "en": "Astronomy",
+    "sq": "",
+    "value": "astronomy"
+  },
+  {
+    "en": "Astrophysics",
+    "sq": "",
+    "value": "astrophysics"
+  },
+  {
+    "en": "Interstellar Medium",
+    "sq": "",
+    "value": "interstellar_medium"
+  },
+  {
+    "en": "Direct Numerical Simulation",
+    "sq": "",
+    "value": "direct_numerical_simulation"
+  },
+  {
+    "en": "Physical Cosmology",
+    "sq": "",
+    "value": "physical_cosmology"
+  },
+  {
+    "en": "Star|Stellar Astrophysics",
+    "sq": "",
+    "value": "star|stellar_astrophysics"
+  },
+  {
+    "en": "Planetary Science",
+    "sq": "",
+    "value": "planetary_science"
+  },
+  {
+    "en": "Physics",
+    "sq": "",
+    "value": "_physics_"
+  },
+  {
+    "en": "Acoustics",
+    "sq": "",
+    "value": "acoustics"
+  },
+  {
+    "en": "Applied Physics",
+    "sq": "",
+    "value": "applied_physics"
+  },
+  {
+    "en": "Atomic, Molecular",
+    "sq": "",
+    "value": "atomic,_molecular"
+  },
+  {
+    "en": "Computational Physics",
+    "sq": "",
+    "value": "computational_physics"
+  },
+  {
+    "en": "Condensed Matter Physics",
+    "sq": "",
+    "value": "condensed_matter_physics"
+  },
+  {
+    "en": "Cryogenics",
+    "sq": "",
+    "value": "cryogenics"
+  },
+  {
+    "en": "Electromagnetism",
+    "sq": "",
+    "value": "electromagnetism"
+  },
+  {
+    "en": "Elementary Particle Physics",
+    "sq": "",
+    "value": "elementary_particle_physics"
+  },
+  {
+    "en": "Experimental Physics",
+    "sq": "",
+    "value": "experimental_physics"
+  },
+  {
+    "en": "Fluid Dynamics",
+    "sq": "",
+    "value": "fluid_dynamics"
+  },
+  {
+    "en": "Mathematical Physics",
+    "sq": "",
+    "value": "mathematical_physics"
+  },
+  {
+    "en": "Mechanics",
+    "sq": "",
+    "value": "mechanics"
+  },
+  {
+    "en": "Medical Physics",
+    "sq": "",
+    "value": "medical_physics"
+  },
+  {
+    "en": "Molecular Physics",
+    "sq": "",
+    "value": "molecular_physics"
+  },
+  {
+    "en": "Newtons Laws Of Motion",
+    "sq": "",
+    "value": "newtons_laws_of_motion"
+  },
+  {
+    "en": "Nuclear Physics",
+    "sq": "",
+    "value": "nuclear_physics"
+  },
+  {
+    "en": "Optics",
+    "sq": "",
+    "value": "optics"
+  },
+  {
+    "en": "Plasma Physics",
+    "sq": "",
+    "value": "plasma_physics"
+  },
+  {
+    "en": "Quantum Physics",
+    "sq": "",
+    "value": "quantum_physics"
+  },
+  {
+    "en": "Solid Mechanics",
+    "sq": "",
+    "value": "solid_mechanics"
+  },
+  {
+    "en": "Solid State Physics",
+    "sq": "",
+    "value": "solid_state_physics"
+  },
+  {
+    "en": "Statistical Mechanics",
+    "sq": "",
+    "value": "statistical_mechanics"
+  },
+  {
+    "en": "Theoretical Physics",
+    "sq": "",
+    "value": "theoretical_physics"
+  },
+  {
+    "en": "Thermodynamics",
+    "sq": "",
+    "value": "thermodynamics"
+  },
+  {
+    "en": "Vehicle Dynamics",
+    "sq": "",
+    "value": "vehicle_dynamics"
+  },
+  {
+    "en": "Computer Science",
+    "sq": "",
+    "value": "computer_science"
+  },
+  {
+    "en": "Logic In Computer Science",
+    "sq": "",
+    "value": "logic_in_computer_science"
+  },
+  {
+    "en": "Algorithms",
+    "sq": "",
+    "value": "algorithms"
+  },
+  {
+    "en": "Artificial Intelligence",
+    "sq": "",
+    "value": "artificial_intelligence"
+  },
+  {
+    "en": "Data Structures",
+    "sq": "",
+    "value": "data_structures"
+  },
+  {
+    "en": "Computer Architecture",
+    "sq": "",
+    "value": "computer_architecture"
+  },
+  {
+    "en": "Computer Graphics",
+    "sq": "",
+    "value": "computer_graphics"
+  },
+  {
+    "en": "Computer Networking",
+    "sq": "",
+    "value": "computer_networking"
+  },
+  {
+    "en": "High Availability",
+    "sq": "",
+    "value": "high_availability"
+  },
+  {
+    "en": "Medicine",
+    "sq": "",
+    "value": "medicine"
+  },
+  {
+    "en": "Professions",
+    "sq": "",
+    "value": "professions"
+  },
+  {
+    "en": "Distributed Computing",
+    "sq": "",
+    "value": "distributed_computing"
+  },
+  {
+    "en": "Human Computer Interaction",
+    "sq": "",
+    "value": "human_computer_interaction"
+  },
+  {
+    "en": "Operating Systems",
+    "sq": "",
+    "value": "operating_systems"
+  },
+  {
+    "en": "Parallel Computing",
+    "sq": "",
+    "value": "parallel_computing"
+  },
+  {
+    "en": "Programming Languages",
+    "sq": "",
+    "value": "programming_languages"
+  },
+  {
+    "en": "Quantum Computing",
+    "sq": "",
+    "value": "quantum_computing"
+  },
+  {
+    "en": "Software Engineering",
+    "sq": "",
+    "value": "software_engineering"
+  },
+  {
+    "en": "Theory Of Computation",
+    "sq": "",
+    "value": "theory_of_computation"
+  },
+  {
+    "en": "Very Large Scale Integration",
+    "sq": "",
+    "value": "very_large_scale_integration"
+  },
+  {
+    "en": "Mathematics",
+    "sq": "",
+    "value": "mathematics"
+  },
+  {
+    "en": "Foundations Of Mathematics",
+    "sq": "",
+    "value": "foundations_of_mathematics"
+  },
+  {
+    "en": "Algebra",
+    "sq": "",
+    "value": "algebra"
+  },
+  {
+    "en": "Mathematical Analysis",
+    "sq": "",
+    "value": "mathematical_analysis"
+  },
+  {
+    "en": "Probability Theory",
+    "sq": "",
+    "value": "probability_theory"
+  },
+  {
+    "en": "Topology",
+    "sq": "",
+    "value": "topology"
+  },
+  {
+    "en": "Number Theory",
+    "sq": "",
+    "value": "number_theory"
+  },
+  {
+    "en": "Approximation Theory",
+    "sq": "",
+    "value": "approximation_theory"
+  },
+  {
+    "en": "Combinatorics",
+    "sq": "",
+    "value": "combinatorics"
+  },
+  {
+    "en": "Cryptography",
+    "sq": "",
+    "value": "cryptography"
+  },
+  {
+    "en": "Dynamical Systems",
+    "sq": "",
+    "value": "dynamical_systems"
+  },
+  {
+    "en": "Game Theory",
+    "sq": "",
+    "value": "game_theory"
+  },
+  {
+    "en": "Graph Theory",
+    "sq": "",
+    "value": "graph_theory"
+  },
+  {
+    "en": "Information Theory",
+    "sq": "",
+    "value": "information_theory"
+  },
+  {
+    "en": "Numerical Analysis",
+    "sq": "",
+    "value": "numerical_analysis"
+  },
+  {
+    "en": "Operations Research",
+    "sq": "",
+    "value": "operations_research"
+  },
+  {
+    "en": "Statistics",
+    "sq": "",
+    "value": "statistics"
+  },
+  {
+    "en": "Astrostatistics",
+    "sq": "",
+    "value": "astrostatistics"
+  },
+  {
+    "en": "Biostatistics",
+    "sq": "",
+    "value": "biostatistics"
+  },
+  {
+    "en": "Bioengineering",
+    "sq": "",
+    "value": "bioengineering"
+  },
+  {
+    "en": "Catalysis",
+    "sq": "",
+    "value": "catalysis"
+  },
+  {
+    "en": "Materials Engineering",
+    "sq": "",
+    "value": "materials_engineering"
+  },
+  {
+    "en": "Molecular Engineering",
+    "sq": "",
+    "value": "molecular_engineering"
+  },
+  {
+    "en": "Polymer Engineering",
+    "sq": "",
+    "value": "polymer_engineering"
+  },
+  {
+    "en": "Process Design",
+    "sq": "",
+    "value": "process_design"
+  },
+  {
+    "en": "Process Engineering",
+    "sq": "",
+    "value": "process_engineering"
+  },
+  {
+    "en": "Reaction Engineering",
+    "sq": "",
+    "value": "reaction_engineering"
+  },
+  {
+    "en": "Transport Phenomena",
+    "sq": "",
+    "value": "transport_phenomena"
+  },
+  {
+    "en": "Coastal Engineering",
+    "sq": "",
+    "value": "coastal_engineering"
+  },
+  {
+    "en": "Earthquake Engineering",
+    "sq": "",
+    "value": "earthquake_engineering"
+  },
+  {
+    "en": "Ecological Engineering",
+    "sq": "",
+    "value": "ecological_engineering"
+  },
+  {
+    "en": "Environmental Engineering",
+    "sq": "",
+    "value": "environmental_engineering"
+  },
+  {
+    "en": "Geotechnical Engineering",
+    "sq": "",
+    "value": "geotechnical_engineering"
+  },
+  {
+    "en": "Hydraulic Engineering",
+    "sq": "",
+    "value": "hydraulic_engineering_"
+  },
+  {
+    "en": "Mining Engineering",
+    "sq": "",
+    "value": "mining_engineering"
+  },
+  {
+    "en": "Transportation Engineering",
+    "sq": "",
+    "value": "transportation_engineering"
+  },
+  {
+    "en": "Structural Engineering",
+    "sq": "",
+    "value": "structural_engineering"
+  },
+  {
+    "en": "Structural Mechanics",
+    "sq": "",
+    "value": "structural_mechanics"
+  },
+  {
+    "en": "Surveying",
+    "sq": "",
+    "value": "surveying"
+  },
+  {
+    "en": "Instructional Design",
+    "sq": "",
+    "value": "instructional_design"
+  },
+  {
+    "en": "Human Performance Technology",
+    "sq": "",
+    "value": "human_performance_technology"
+  },
+  {
+    "en": "Knowledge Management",
+    "sq": "",
+    "value": "knowledge_management"
+  },
+  {
+    "en": "Computer Engineering",
+    "sq": "",
+    "value": "computer_engineering"
+  },
+  {
+    "en": "Computer Science",
+    "sq": "",
+    "value": "computer_science"
+  },
+  {
+    "en": "Control Engineering",
+    "sq": "",
+    "value": "control_engineering"
+  },
+  {
+    "en": "Electronic Engineering",
+    "sq": "",
+    "value": "electronic_engineering"
+  },
+  {
+    "en": "Engineering Physics",
+    "sq": "",
+    "value": "engineering_physics"
+  },
+  {
+    "en": "Mechatronics",
+    "sq": "",
+    "value": "mechatronics"
+  },
+  {
+    "en": "Power Engineering",
+    "sq": "",
+    "value": "power_engineering"
+  },
+  {
+    "en": "Robotics",
+    "sq": "",
+    "value": "robotics"
+  },
+  {
+    "en": "Semiconductors",
+    "sq": "",
+    "value": "semiconductors"
+  },
+  {
+    "en": "Telecommunications Engineering",
+    "sq": "",
+    "value": "telecommunications_engineering"
+  },
+  {
+    "en": "Biomaterials",
+    "sq": "",
+    "value": "biomaterials"
+  },
+  {
+    "en": "Ceramic Engineering",
+    "sq": "",
+    "value": "ceramic_engineering"
+  },
+  {
+    "en": "Crystallography",
+    "sq": "",
+    "value": "crystallography"
+  },
+  {
+    "en": "Nanomaterials",
+    "sq": "",
+    "value": "nanomaterials"
+  },
+  {
+    "en": "Photonics",
+    "sq": "",
+    "value": "photonics"
+  },
+  {
+    "en": "Metallurgy",
+    "sq": "",
+    "value": "metallurgy"
+  },
+  {
+    "en": "Polymer Science",
+    "sq": "",
+    "value": "polymer_science"
+  },
+  {
+    "en": "Aerospace Engineering",
+    "sq": "",
+    "value": "aerospace_engineering"
+  },
+  {
+    "en": "Acoustical Engineering",
+    "sq": "",
+    "value": "acoustical_engineering"
+  },
+  {
+    "en": "Automotive Engineering",
+    "sq": "",
+    "value": "automotive_engineering"
+  },
+  {
+    "en": "Biomedical Engineering",
+    "sq": "",
+    "value": "biomedical_engineering"
+  },
+  {
+    "en": "Continuum Mechanics",
+    "sq": "",
+    "value": "continuum_mechanics"
+  },
+  {
+    "en": "Fluid Mechanics",
+    "sq": "",
+    "value": "fluid_mechanics"
+  },
+  {
+    "en": "Heat Transfer",
+    "sq": "",
+    "value": "heat_transfer"
+  },
+  {
+    "en": "Industrial Engineering",
+    "sq": "",
+    "value": "industrial_engineering"
+  },
+  {
+    "en": "Manufacturing Engineering",
+    "sq": "",
+    "value": "manufacturing_engineering"
+  },
+  {
+    "en": "Marine Propulsion",
+    "sq": "",
+    "value": "marine_propulsion"
+  },
+  {
+    "en": "Mass Transfer",
+    "sq": "",
+    "value": "mass_transfer"
+  },
+  {
+    "en": "Nanoengineering",
+    "sq": "",
+    "value": "nanoengineering"
+  },
+  {
+    "en": "Offshore Construction",
+    "sq": "",
+    "value": "offshore_construction"
+  },
+  {
+    "en": "Optical Engineering",
+    "sq": "",
+    "value": "optical_engineering"
+  },
+  {
+    "en": "Robotics",
+    "sq": "",
+    "value": "robotics"
+  },
+  {
+    "en": "Vehicle Engineering",
+    "sq": "",
+    "value": "vehicle_engineering"
+  },
+  {
+    "en": "Chaos Theory",
+    "sq": "",
+    "value": "chaos_theory"
+  },
+  {
+    "en": "Complex System",
+    "sq": "",
+    "value": "complex_system"
+  },
+  {
+    "en": "Complex Systems",
+    "sq": "",
+    "value": "complex_systems"
+  },
+  {
+    "en": "Conceptual Systems",
+    "sq": "",
+    "value": "conceptual_systems"
+  },
+  {
+    "en": "Control Theory",
+    "sq": "",
+    "value": "control_theory"
+  },
+  {
+    "en": "Cybernetics",
+    "sq": "",
+    "value": "cybernetics"
+  },
+  {
+    "en": "Network Science",
+    "sq": "",
+    "value": "network_science"
+  },
+  {
+    "en": "System Dynamics",
+    "sq": "",
+    "value": "system_dynamics"
+  },
+  {
+    "en": "Systems Ecology",
+    "sq": "",
+    "value": "systems_ecology"
+  },
+  {
+    "en": "Systems Engineering",
+    "sq": "",
+    "value": "systems_engineering"
+  },
+  {
+    "en": "Systems Psychology",
+    "sq": "",
+    "value": "systems_psychology"
+  },
+  {
+    "en": "Systems Theory",
+    "sq": "",
+    "value": "systems_theory"
+  },
+  {
+    "en": "Systems Theory In Anthropology",
+    "sq": "",
+    "value": "systems_theory_in_anthropology"
+  },
+  {
+    "en": "Medicine And Health",
+    "sq": "",
+    "value": "medicine_and_health"
+  },
+  {
+    "en": "Alternative Medicine",
+    "sq": "",
+    "value": "alternative_medicine"
+  },
+  {
+    "en": "Clinical Laboratory Sciences",
+    "sq": "",
+    "value": "clinical_laboratory_sciences"
+  },
+  {
+    "en": "Clinical Physiology",
+    "sq": "",
+    "value": "clinical_physiology"
+  },
+  {
+    "en": "Dentistry",
+    "sq": "",
+    "value": "dentistry"
+  },
+  {
+    "en": "Dermatology",
+    "sq": "",
+    "value": "dermatology"
+  },
+  {
+    "en": "Emergency Medicine",
+    "sq": "",
+    "value": "emergency_medicine"
+  },
+  {
+    "en": "Geriatrics",
+    "sq": "",
+    "value": "geriatrics"
+  },
+  {
+    "en": "Gynaecology",
+    "sq": "",
+    "value": "gynaecology"
+  },
+  {
+    "en": "Health Informatics",
+    "sq": "",
+    "value": "health_informatics"
+  },
+  {
+    "en": "Hematology",
+    "sq": "",
+    "value": "hematology"
+  },
+  {
+    "en": "Infectious Disease",
+    "sq": "",
+    "value": "infectious_disease"
+  },
+  {
+    "en": "Intensive Care Medicine",
+    "sq": "",
+    "value": "intensive_care_medicine"
+  },
+  {
+    "en": "Internal Medicine",
+    "sq": "",
+    "value": "internal_medicine"
+  },
+  {
+    "en": "Medical Toxicology",
+    "sq": "",
+    "value": "medical_toxicology"
+  },
+  {
+    "en": "Music Therapy",
+    "sq": "",
+    "value": "music_therapy"
+  },
+  {
+    "en": "Nursing",
+    "sq": "",
+    "value": "nursing"
+  },
+  {
+    "en": "Dietetics",
+    "sq": "",
+    "value": "dietetics"
+  },
+  {
+    "en": "Obstetrics",
+    "sq": "",
+    "value": "obstetrics"
+  },
+  {
+    "en": "Occupational Hygiene",
+    "sq": "",
+    "value": "occupational_hygiene"
+  },
+  {
+    "en": "Occupational Therapy",
+    "sq": "",
+    "value": "occupational_therapy"
+  },
+  {
+    "en": "Occupational Toxicology",
+    "sq": "",
+    "value": "occupational_toxicology"
+  },
+  {
+    "en": "Ophthalmology",
+    "sq": "",
+    "value": "ophthalmology"
+  },
+  {
+    "en": "Optometry",
+    "sq": "",
+    "value": "optometry"
+  },
+  {
+    "en": "Otolaryngology",
+    "sq": "",
+    "value": "otolaryngology"
+  },
+  {
+    "en": "Pediatrics",
+    "sq": "",
+    "value": "pediatrics"
+  },
+  {
+    "en": "Pharmaceutical Sciences",
+    "sq": "",
+    "value": "pharmaceutical_sciences"
+  },
+  {
+    "en": "Physical Fitness",
+    "sq": "",
+    "value": "physical_fitness"
+  },
+  {
+    "en": "Physical Therapy",
+    "sq": "",
+    "value": "physical_therapy"
+  },
+  {
+    "en": "Physiotherapy",
+    "sq": "",
+    "value": "physiotherapy"
+  },
+  {
+    "en": "Podiatry",
+    "sq": "",
+    "value": "podiatry"
+  },
+  {
+    "en": "Preventive Healthcare",
+    "sq": "",
+    "value": "preventive_healthcare"
+  },
+  {
+    "en": "Primary Care",
+    "sq": "",
+    "value": "primary_care"
+  },
+  {
+    "en": "Psychiatry",
+    "sq": "",
+    "value": "psychiatry"
+  },
+  {
+    "en": "Psychology",
+    "sq": "",
+    "value": "psychology"
+  },
+  {
+    "en": "Public Health",
+    "sq": "",
+    "value": "public_health"
+  },
+  {
+    "en": "Radiology",
+    "sq": "",
+    "value": "radiology"
+  },
+  {
+    "en": "Recreational Therapy",
+    "sq": "",
+    "value": "recreational_therapy"
+  },
+  {
+    "en": "Physical Medicine And Rehabilitation",
+    "sq": "",
+    "value": "physical_medicine_and_rehabilitation"
+  },
+  {
+    "en": "Respiratory Therapy",
+    "sq": "",
+    "value": "respiratory_therapy"
+  },
+  {
+    "en": "Sleep Medicine",
+    "sq": "",
+    "value": "sleep_medicine"
+  },
+  {
+    "en": "Speech Language Pathology",
+    "sq": "",
+    "value": "speech_language_pathology"
+  },
+  {
+    "en": "Sports Medicine",
+    "sq": "",
+    "value": "sports_medicine"
+  },
+  {
+    "en": "Surgery",
+    "sq": "",
+    "value": "surgery"
+  },
+  {
+    "en": "Traditional Medicine",
+    "sq": "",
+    "value": "traditional_medicine"
+  },
+  {
+    "en": "Urology",
+    "sq": "",
+    "value": "urology"
+  },
+  {
+    "en": "Veterinary Medicine",
+    "sq": "",
+    "value": "veterinary_medicine"
+  },
+  {
+    "en": "Other",
+    "sq": "",
+    "value": "other"
+  }
+]

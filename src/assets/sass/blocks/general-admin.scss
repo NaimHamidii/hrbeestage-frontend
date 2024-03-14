@@ -1,0 +1,41 @@
+.page_title{
+    .hrbee-widget-icon {
+        margin-bottom: 20px;
+        margin-top: 0;
+    }
+    .header_menu_right{
+        li{
+            display:inline-block;
+            margin-right:15px;
+            vertical-align: middle;
+            
+            
+            &:last-child{
+                margin-right:0;
+            }
+        }
+    }
+    &.has-back-arrow{
+        .nav-icon{
+            display:inline-block;
+        }
+        h4{
+            line-height: 30px;
+        }
+    }
+    &.has-menu-right{
+        display:table;
+        width:100%;
+        h4,.header_menu_right{
+            display:table-cell;
+        }
+        h4{
+            width:30%;
+        }
+        .header_menu_right{
+            width:70%;
+            text-align: right;
+
+        }
+    }
+}

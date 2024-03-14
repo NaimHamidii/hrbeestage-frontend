@@ -1,0 +1,383 @@
+[
+    {
+      "country_iso": "Albania",
+      "country_name": "Albania",
+      "cities": [
+        {
+          "name": "Sarandë",
+          "value": "sarande"
+        },
+        {
+          "name": "Kukës",
+          "value": "kukes"
+        },
+        {
+          "name": "Korçë",
+          "value": "korce"
+        },
+        {
+          "name": "Gjirokastër",
+          "value": "gjirokaster"
+        },
+        {
+          "name": "Elbasan",
+          "value": "elbasan"
+        },
+        {
+          "name": "Burrel",
+          "value": "burrel"
+        },
+        {
+          "name": "Vlorë",
+          "value": "vlore"
+        },
+        {
+          "name": "Tirana",
+          "value": "tirana"
+        },
+        {
+          "name": "Shkodër",
+          "value": "shkoder"
+        },
+        {
+          "name": "Lushnjë",
+          "value": "lushnje"
+        },
+        {
+          "name": "Lezhë",
+          "value": "lezhe"
+        },
+        {
+          "name": "Laç",
+          "value": "lac"
+        },
+        {
+          "name": "Kuçovë",
+          "value": "kucove"
+        },
+        {
+          "name": "Krujë",
+          "value": "kruje"
+        },
+        {
+          "name": "Kavajë",
+          "value": "kavaje"
+        },
+        {
+          "name": "Fier",
+          "value": "fier"
+        },
+        {
+          "name": "Durrës",
+          "value": "durres"
+        },
+        {
+          "name": "Berat",
+          "value": "berat"
+        }
+      ]
+    },
+      
+    {
+        "country_iso": "Kosovë",
+        "country_name": "Kosovë",
+        "cities": [
+              {
+                "name": "Albaniku",
+                "value": "albaniku"
+              },
+              {
+                "name": "Artana",
+                "value": "artana"
+              },
+              {
+                "name": "Besiana",
+                "value": "besiana"
+              },
+              {
+                "name": "Burimi",
+                "value": "burimi"
+              },
+              {
+                "name": "Dardana",
+                "value": "dardana"
+              },
+              {
+                "name": "Deçani",
+                "value": "decani"
+              },
+              {
+                "name": "Drenasi",
+                "value": "drenasi"
+              },
+              {
+                "name": "Ferizaji",
+                "value": "ferizaji"
+              },
+              {
+                "name": "Fushë Kosova",
+                "value": "fushe_kosova"
+              },
+              {
+                "name": "Gjakova",
+                "value": "gjakova"
+              },
+              {
+                "name": "Gjilani",
+                "value": "gjilani"
+              },
+              {
+                "name": "Graçanica",
+                "value": "gracanica"
+              },
+              {
+                "name": "Hani i Elezit",
+                "value": "hani_elezit"
+              },
+              {
+                "name": "Juniku",
+                "value": "juniku"
+              },
+              {
+                "name": "Kastrioti",
+                "value": "kastrioti"
+              },
+              {
+                "name": "Kaçaniku",
+                "value": "kacaniku"
+              },
+              {
+                "name": "Klina",
+                "value": "klina"
+              },
+              {
+                "name": "Kllokoti",
+                "value": "kllokoti"
+              },
+              {
+                "name": "Lipjani",
+                "value": "lipjani"
+              },
+              {
+                "name": "Malisheva",
+                "value": "malisheva"
+              },
+              {
+                "name": "Mamusha",
+                "value": "mamusha"
+              },
+              {
+                "name": "Mitrovica",
+                "value": "mitrovica"
+              },
+              {
+                "name": "Mitrovica Veriore",
+                "value": "mitrovica_veriore"
+              },
+              {
+                "name": "Parteshi",
+                "value": "parteshi"
+              },
+              {
+                "name": "Peja",
+                "value": "peja"
+              },
+              {
+                "name": "Prishtina",
+                "value": "prishtina"
+              },
+              {
+                "name": "Prizreni",
+                "value": "prizreni"
+              },
+              {
+                "name": "Rahoveci",
+                "value": "rahoveci"
+              },
+              {
+                "name": "Ranillugu",
+                "value": "ranillugu"
+              },
+              {
+                "name": "Sharri",
+                "value": "sharri"
+              },
+              {
+                "name": "Shtimja",
+                "value": "shtimja"
+              },
+              {
+                "name": "Shtërpca",
+                "value": "shterpca"
+              },
+              {
+                "name": "Skënderaji",
+                "value": "skenderaji"
+              },
+              {
+                "name": "Theranda",
+                "value": "theranda"
+              },
+              {
+                "name": "Vitia",
+                "value": "vitia"
+              },
+              {
+                "name": "Vushtrria",
+                "value": "vushtrria"
+              },
+              {
+                "name": "Zubin Potok",
+                "value": "zubin_potok"
+              },
+              {
+                "name": "Zveçanë",
+                "value": "zvecani"
+              }
+        ]
+    },
+
+    {
+      "country_iso": "Maqedonia e Veriut",
+      "country_name": "Maqedonia e Veriut",
+      "cities": [
+        {
+          "name": "Berova",
+          "value": "berova"
+        },
+        {
+          "name": "Dellçeva",
+          "value": "dellceva"
+        },
+        {
+          "name": "Koçani",
+          "value": "kocani"
+        },
+        {
+          "name": "Kamenica",
+          "value": "kamenica"
+        },
+        {
+          "name": "Peçeva",
+          "value": "peceva"
+        },
+        {
+          "name": "Probishtipi",
+          "value": "probishtipi"
+        },
+        {
+          "name": "Shtipi",
+          "value": "shtipi"
+        },
+        {
+          "name": "Vinica",
+          "value": "vinica"
+        },
+        {
+          "name": "Kratova",
+          "value": "kratova"
+        },
+        {
+          "name": "Kriva Pallanka",
+          "value": "kriva_pallanka"
+        },
+        {
+          "name": "Kumanova",
+          "value": "kumanova"
+        },
+        {
+          "name": "Manastiri",
+          "value": "manastiri"
+        },
+        {
+          "name": "Demir Hisari",
+          "value": "demir_hisari"
+        },
+        {
+          "name": "Krusheva",
+          "value": "krusheva"
+        },
+        {
+          "name": "Prilepi",
+          "value": "prilepi"
+        },
+        {
+          "name": "Resnja",
+          "value": "resnja"
+        },
+        {
+          "name": "Gostivari",
+          "value": "gostivari"
+        },
+        {
+          "name": "Tetova",
+          "value": "tetova"
+        },
+        {
+          "name": "Shkupi",
+          "value": "shkupi"
+        },
+        {
+          "name": "Bogdanca",
+          "value": "bogdanca"
+        },
+        {
+          "name": "Gjevgjelia",
+          "value": "gjevgjelia"
+        },
+        {
+          "name": "Radovishti",
+          "value": "radovishti"
+        },
+        {
+          "name": "Strumica",
+          "value": "strumnica"
+        },
+        {
+          "name": "Vallandova",
+          "value": "vallandova"
+        },
+        {
+          "name": "Dibra",
+          "value": "dibra"
+        },
+        {
+          "name": "Kërçova",
+          "value": "kercova"
+        },
+        {
+          "name": "Brodi",
+          "value": "brodi"
+        },
+        {
+          "name": "Ohri",
+          "value": "ohri"
+        },
+        {
+          "name": "Struga",
+          "value": "struga"
+        },
+        {
+          "name": "Demir Kapia",
+          "value": "demir_kapia"
+        },
+        {
+          "name": "Kavadari",
+          "value": "kavadari"
+        },
+        {
+          "name": "Negotina",
+          "value": "negotina"
+        },
+        {
+          "name": "Sveti Nikolla",
+          "value": "sveti_nikolla"
+        },
+        {
+          "name": "Velesi",
+          "value": "velesi"
+        }
+      ]
+    }
+    
+  ]

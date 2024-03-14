@@ -1,0 +1,129 @@
+[
+    {
+      "en": "Accountant",
+      "sq": "Administratë",
+      "value": "administrate"
+    },
+    {
+      "en": "Agronomy",
+      "sq": "Agronomi",
+      "value": "agronomi"
+    },
+    
+    {
+      "en": "Architecture & Design",
+      "sq": "Arkitekturë & Dizajn",
+      "value": "arkitekture"
+    },
+    {
+      "en": "Architecture",
+      "sq": "Education",
+      "value": "arsim_edukim"
+    },
+    {
+      "en": "Banking & Finance",
+      "sq": "Banka & Financa",
+      "value": "banka_financa"
+    },
+    {
+      "en": "Call Center",
+      "sq": "Call Center",
+      "value": "call_center"
+    },
+    {
+      "en": "Hotel & Tourism",
+      "sq": "Hoteleri & Turizëm",
+      "value": "hoteleri_turizem"
+    },
+    {
+      "en": "Engineering",
+      "sq": "Inxhinieri",
+      "value": "inxhinieri"
+    },
+    {
+      "en": "Law",
+      "sq": "Juridik",
+      "value": "juridik"
+    },
+    {
+      "en": "Accounting",
+      "sq": "Kontabilitet",
+      "value": "kontabilitet"
+    },
+    {
+      "en": "Logistics",
+      "sq": "Logjistikë",
+      "value": "logjistike"
+    },
+    {
+      "en": "Marketing & Advertising",
+      "sq": "Marketing & Reklamim",
+      "value": "marketing_reklamim"
+    },
+    {
+      "en": "Media",
+      "sq": "Media",
+      "value": "media"
+    },
+    {
+      "en": "Management",
+      "sq": "Menaxhment",
+      "value": "menaxhment"
+    },
+    {
+      "en": "Construction",
+      "sq": "Ndërtimtari",
+      "value": "ndertimtari"
+    },
+    {
+      "en": "Productivity",
+      "sq": "Prodhimtari",
+      "value": "prodhimtari"
+    },
+    {
+      "en": "Health Services",
+      "sq": "Shërbime Shëndetësore",
+      "value": "sherbime_shendetsore"
+    },
+    {
+      "en": "Customer services",
+      "sq": "Shërbime te Klientëve",
+      "value": "sherbime_klienteve"
+    },
+    {
+      "en": "Sales",
+      "sq": "Shitje",
+      "value": "shitje"
+    },
+    {
+      "en": "Insurance",
+      "sq": "Sigurime",
+      "value": "sigurime"
+    },
+    {
+      "en": "Sport",
+      "sq": "Sport",
+      "value": "sport"
+    },
+    {
+      "en": "Information technology - IT",
+      "sq": "Teknologji Informative - IT",
+      "value": "teknologji_informative"
+    },
+    {
+      "en": "Telecommunication",
+      "sq": "Telekomunikacion",
+      "value": "telekomunikacion"
+    },
+    {
+      "en": "Other",
+      "sq": "Tjera",
+      "value": "tjera"
+    },
+    {
+      "en": "Training & Counseling",
+      "sq": "Trajnim & Konsulencë",
+      "value": "trajnim_konsulence"
+    }
+    
+  ]

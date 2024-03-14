@@ -1,0 +1,282 @@
+[
+  {
+    "en": "Account management",
+    "sq": "Menaxhimi i llogarive",
+    "value": "os_account_management"
+  },
+  {
+    "en": "Accounting",
+    "sq": "Kontabiliteti",
+    "value": "os_accounting"
+  },
+  {
+    "en": "Administration",
+    "sq": "Administratë",
+    "value": "os_administration"
+  },
+  {
+    "en": "Advertising",
+    "sq": "Reklamim",
+    "value": "os_advertising"
+  },
+  {
+    "en": "Advocacy",
+    "sq": "Advokimi",
+    "value": "os_advocacy"
+  },
+  {
+    "en": "Arbitration/Legal",
+    "sq": "Arbitrazhi / Ligjore",
+    "value": "os_arbitration"
+  },
+  {
+    "en": "Analysis & Evaluation",
+    "sq": "Analiza dhe Vlerësime",
+    "value": "os_analysis_evaluation"
+  },
+  {
+    "en": "Business management",
+    "sq": "Menaxhim biznesi",
+    "value": "os_business_management"
+  },
+  {
+    "en": "Community relations",
+    "sq": "Marrëdhëniet me komunitetin",
+    "value": "os_community_realations"
+  },
+  {
+    "en": "Career development",
+    "sq": "Zhvillimi i karrierës",
+    "value": "os_career_development"
+  },
+  {
+    "en": "Client services",
+    "sq": "Shërbimet e klientit",
+    "value": "os_client_services"
+  },
+  {
+    "en": "Clinical skills",
+    "sq": "Aftësi klinike",
+    "value": "os_clinical_skills"
+  },
+  {
+    "en": "Communications",
+    "sq": "Komunikim",
+    "value": "os_communications"
+  },
+  {
+    "en": "Conseuling",
+    "sq": "Këshillime",
+    "value": "os_conseuling"
+  },
+  {
+    "en": "Confidence",
+    "sq": "Konfidenciale",
+    "value": "os_confidence"
+  },
+  {
+    "en": "Curriculum development",
+    "sq": "Zhvillimi i kurrikulës",
+    "value": "os_curriculum_development"
+  },
+  {
+    "en": "Editing",
+    "sq": "Editim",
+    "value": "os_editing"
+  },
+  {
+    "en": "Employee relations",
+    "sq": "Marrëdhëniet e punonjësve",
+    "value": "os_employee_relations"
+  },
+  {
+    "en": "Engineering",
+    "sq": "Inxhinieri",
+    "value": "os_engineering"
+  },
+  {
+    "en": "Environmental",
+    "sq": "Mjedisore",
+    "value": "os_environmental"
+  },
+  {
+    "en": "Flexibility",
+    "sq": "Fleksibilitet",
+    "value": "os_flexibility"
+  },
+  {
+    "en": "Field research",
+    "sq": "Hulumtimi në terren",
+    "value": "os_field_research"
+  },
+  {
+    "en": "Film & video",
+    "sq": "Film & Video",
+    "value": "os_film_video"
+  },
+  {
+    "en": "Financial analysis",
+    "sq": "Analiza financiare",
+    "value": "os_financial_analysis"
+  },
+  {
+    "en": "Financial management",
+    "sq": "Menaxhimi Financiar",
+    "value": "os_financial_management"
+  },
+  {
+    "en": "Fundraising",
+    "sq": "Mbledhja e fondeve",
+    "value": "os_fundraising"
+  },
+  {
+    "en": "Graphic design",
+    "sq": "Dizajn grafik",
+    "value": "os_graphic_design"
+  },
+  {
+    "en": "Human resources",
+    "sq": "Burimet njerëzore",
+    "value": "os_human_resources"
+  },
+  {
+    "en": "International Business",
+    "sq": "Biznes ndërkombëtar",
+    "value": "os_international_business"
+  },
+  {
+    "en": "Laboratory skills",
+    "sq": "Aftësi laboratorike",
+    "value": "os_laboratory_skills"
+  },
+  {
+    "en": "Management",
+    "sq": "Menaxhimi",
+    "value": "os_management"
+  },
+  {
+    "en": "Marketing",
+    "sq": "Marketing",
+    "value": "os_marketing"
+  },
+  {
+    "en": "Office administration",
+    "sq": "Administrimi i Zyrës",
+    "value": "os_office_administration"
+  },
+  {
+    "en": "Outreach",
+    "sq": "Tejkalimi i pritjeve",
+    "value": "os_outreach"
+  },
+  {
+    "en": "Policy making",
+    "sq": "Hartimi i politikave",
+    "value": "os_policy_making"
+  },
+  {
+    "en": "Production",
+    "sq": "Prodhim",
+    "value": "os_production"
+  },
+  {
+    "en": "Public relations",
+    "sq": "Marrëdhëniet me publikun",
+    "value": "os_public_relations"
+  },
+  {
+    "en": "Publicity",
+    "sq": "Publicitet",
+    "value": "os_publicity"
+  },
+  {
+    "en": "Publishing",
+    "sq": "Botimet",
+    "value": "os_publishing"
+  },
+  {
+    "en": "Quality assurance",
+    "sq": "Sigurimi i cilësisë",
+    "value": "os_quality_assurance"
+  },
+  {
+    "en": "Quality control",
+    "sq": "Kontrolli i cilësisë",
+    "value": "os_quality_control"
+  },
+  {
+    "en": "Real estate",
+    "sq": "Pasuri të patundshme",
+    "value": "os_real_estate"
+  },
+  {
+    "en": "Retail",
+    "sq": "Shitje me pakicë",
+    "value": "os_retail"
+  },
+  {
+    "en": "Recruiting",
+    "sq": "Rekrutimi",
+    "value": "os_recruiting"
+  },
+  {
+    "en": "Research activities/investigation",
+    "sq": "Aktivitetet hulumtuese / hetimi",
+    "value": "os_research_activities_investigation"
+  },
+  {
+    "en": "Sales",
+    "sq": "Shitjet",
+    "value": "os_sales"
+  },
+  {
+    "en": "Strategic planning",
+    "sq": "Planifikim strategjik",
+    "value": "os_strategic_planning"
+  },
+  {
+    "en": "Supervision",
+    "sq": "Mbikëqyrje",
+    "value": "os_supervision"
+  },
+  {
+    "en": "System analysis",
+    "sq": "Analiz sistemesh",
+    "value": "os_system_analysis"
+  },
+  {
+    "en": "Teaching",
+    "sq": "Mësimdhënie",
+    "value": "os_teaching"
+  },
+  {
+    "en": "Technical skills",
+    "sq": "Aftësitë teknike",
+    "value": "os_techinical_skills"
+  },
+  {
+    "en": "Testing",
+    "sq": "Testim",
+    "value": "os_testing"
+  },
+  {
+    "en": "Training",
+    "sq": "Trajnim",
+    "value": "os_training"
+  },
+  {
+    "en": "Visual arts",
+    "sq": "Artet vizuale",
+    "value": "os_visual_arts"
+  },
+  {
+    "en": "Word Processing",
+    "sq": "Përpunim teksti",
+    "value": "os_word_processing"
+  },
+  {
+    "en": "Writing",
+    "sq": "Shkrim",
+    "value": "os_writing"
+  }
+]

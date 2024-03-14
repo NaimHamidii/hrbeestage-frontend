@@ -1,0 +1,810 @@
+
+@media(min-width: 300px) and (max-width: 350px){
+    .btnCancel{
+        width: 100px !important;
+        height: 30px !important;
+    }
+    .btnAdd{
+        width: 100px !important;
+        height: 30px !important;
+    }
+}
+@media(min-width: 300px) and (max-width: 767px){
+    .experienceCompanyImg{
+        margin-top: 10px !important;
+    }
+}
+.iconEditDelete{
+    width: 35px;
+    position: absolute !important;
+    top: 10px;
+    right: 0px;
+}
+.betaProfileDetailsmobile{
+    .profileboxmobile{
+        border-radius: 5px;
+        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1) !important;
+        background-color: #ffffff;
+    }
+    .iconEdit{
+        width: 30px;
+        position: absolute;
+        right: 20px;
+    }
+    .imageProfilemobile{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: auto;
+        width: 50%;
+        .textedit{
+            font-size: 10px;
+        }
+    }
+    .imgProfilemobile{
+        width: 100px;
+        height: 100px;  
+        border-radius: 50%;      
+    }
+    .imgProfilemobile:hover{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+    .hrProfileMobile{
+        margin-top: -10px !important;
+    }
+    .betaDetailsMobile{
+        margin-top: 20px;
+        p{
+            font-size: 9px;
+            color: #a7a9ac;
+        }
+        h4{
+            margin-top: -30px;
+            font-size: 13px;
+            color: #808080;
+        }
+        .p-m-t{
+            margin-top: -10px;
+        }
+    }
+}
+.betaProfileDetails{
+    .profilebox{
+        border-radius: 5px;
+        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1) !important;
+        background-color: #ffffff;
+        height: 420px;
+        max-height: 420px;
+        margin-bottom: 10px;
+    }
+    .iconEditDeleteIconHeader{
+        position: absolute;
+        top: 12px;
+        right: 20px;
+        width: 30px;
+    }
+    .imageProfile{
+        padding-top: 20px;
+        margin: auto;
+        width: 50%;
+        .textedit{
+            font-size: 10px;
+        }
+    }
+    .imgProfile{
+        width: 100px;
+        height: 100px;  
+        border-radius: 20%;      
+    }
+    .imgProfile:hover{
+        width: 100px;
+        height: 100px;
+        border-radius: 20%;
+    }
+    .betaDetails1{
+        p{
+            font-size: 9px;
+            color: #a7a9ac;
+        }
+        h4{
+            margin-top: -30px;
+            font-size: 13px;
+            color: #808080;
+        }
+        .p-m-t{
+            margin-top: -10px;
+        }
+    }
+    .betaDetails2{
+        p{
+            font-size: 9px;
+            color: #a7a9ac;
+        }
+        h4{
+            margin-top: -30px;
+            font-size: 13px;
+            color: #808080;
+        }
+        h6{
+            margin-top: -20px;
+            font-size: 12px;
+            text-transform: unset;
+            line-height: 1.5;
+            color: #808285;
+        }
+        .p-m-t{
+            margin-top: -10px;
+        }
+        .shortbiography{
+            height: 200px;
+        }
+        .rowMargin{
+            padding-top: 20px;
+        }
+        .hehetest{
+            height: 100px;
+        }
+    }
+}
+
+.profile_edit_modals {
+    position: fixed;
+    background:rgba(0, 0, 0, 0.17);
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: 0;
+    height: 100%;
+        overflow: auto;
+        z-index: 9;
+    .modal_item{
+
+        top: 62px;
+        width: 90%;
+        // 730px
+        height: auto;
+        box-shadow: 1px 1px 18px 8px rgba(0, 0, 0, 0.0509804);
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        z-index: 9;
+        min-height: 200px;
+        position: relative;
+        background: #fff;
+        margin-bottom: 60px;
+        padding-bottom: 0;
+        form{
+         padding: 30px;
+
+         .button_spinner {
+             position: absolute;
+             left: 0;
+             right: 0;
+             margin: 0 auto;
+             text-align: center;
+             width: 100px;
+
+             .sl-spinner {
+                 width: 100%;
+                 margin: 0 auto;
+             }
+
+         }
+
+        }
+        &.edit_profile_image{
+            width:450px;
+            
+            .user_profile_image{
+                margin-top:30px;
+                text-align: center;
+                position: relative;
+                margin-bottom:10px;
+                
+                img{
+                    width:100px;
+                    height:100px;
+                    border-radius: 50%;
+                    
+                }
+            }
+        }
+        .last-input {
+            padding-bottom: 60px;
+        }
+        .close_modal{
+            position: absolute;
+             right: 21px;
+            top: 11px;
+            cursor: pointer;
+            z-index: 9;
+        }
+        h5{
+            &.edit{
+                color:#554DEF;
+            }
+            &.add{
+             color:$color--success;
+             }
+        }
+        
+        
+        .modal_footer_buttons{
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            left: 0;
+            right: 0;
+            padding: 30px;
+            border-top: 1px solid #f1f1f1;
+            background:#F2F6FF;
+            ul{
+                list-style: none;
+                padding:0;
+                li{
+                    display:inline-block;
+                    button{
+                        font-size:12px;
+                        cursor: pointer;
+                    }
+                    &:first-child{
+                        float:left;
+                        button{
+                            border:none;
+                        }
+                    }
+                    &:nth-child(2){
+                        float:right;
+                        border-radius: 3px;
+                        button{
+                            text-transform: uppercase;
+                            &.update{
+                                        border: 2px solid #554DEF;
+                                        background: #554DEF !important;
+                                        color: #fff;
+                                        padding: 3px 22px;
+                                        letter-spacing: 1px;
+                                        border-radius: 3px;
+                                    
+                                
+                            }
+                            &.save{
+                             border: 2px solid $color--success;
+                             background: $color--success !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                           }
+                           &.refuzo{
+                             border: 2px solid $color--error;
+                             background: $color--error !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                         }
+                        
+                         &.interview{
+                             border: 2px solid #554DEF;
+                             background: #554DEF !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                         }
+                        
+
+                        }
+                    
+                    }
+                }
+            }
+        }
+    }
+
+    .modal_item-small-width{
+
+        top: 62px;
+        width: 40%;
+        // 730px
+        height: auto;
+        box-shadow: 1px 1px 18px 8px rgba(0, 0, 0, 0.0509804);
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        z-index: 9;
+        min-height: 270px;
+        position: relative;
+        background: #fff;
+        margin-bottom: 60px;
+        padding-bottom: 0;
+        form{
+         padding: 30px;
+
+         .button_spinner {
+             position: absolute;
+             left: 0;
+             right: 0;
+             margin: 0 auto;
+             text-align: center;
+             width: 100px;
+
+             .sl-spinner {
+                 width: 100%;
+                 margin: 0 auto;
+             }
+
+         }
+
+        }
+        &.edit_profile_image{
+            width:450px;
+            
+            .user_profile_image{
+                margin-top:30px;
+                text-align: center;
+                position: relative;
+                margin-bottom:10px;
+                
+                img{
+                    width:100px;
+                    height:100px;
+                    border-radius: 50%;
+                    
+                }
+            }
+        }
+        .last-input {
+            padding-bottom: 60px;
+        }
+        .close_modal{
+            position: absolute;
+             right: 21px;
+            top: 11px;
+            cursor: pointer;
+            z-index: 9;
+        }
+        h5{
+            &.edit{
+                color:#554DEF;
+            }
+            &.add{
+             color:$color--success;
+             }
+        }
+        
+        
+        .modal_footer_buttons{
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            left: 0;
+            right: 0;
+            padding: 30px;
+            border-top: 1px solid #f1f1f1;
+            background:#F2F6FF;
+            ul{
+                list-style: none;
+                padding:0;
+                li{
+                    display:inline-block;
+                    button{
+                        font-size:12px;
+                        cursor: pointer;
+                    }
+                    &:first-child{
+                        float:left;
+                        button{
+                            border:none;
+                        }
+                    }
+                    &:nth-child(2){
+                        float:right;
+                        border-radius: 3px;
+                        button{
+                            text-transform: uppercase;
+                            &.update{
+                                        border: 2px solid #554DEF;
+                                        background: #554DEF !important;
+                                        color: #fff;
+                                        padding: 3px 22px;
+                                        letter-spacing: 1px;
+                                        border-radius: 3px;
+                                    
+                                
+                            }
+                            &.save{
+                             border: 2px solid $color--success;
+                             background: $color--success !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                           }
+                           &.refuzo{
+                             border: 2px solid $color--error;
+                             background: $color--error !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                         }
+                        
+                         &.interview{
+                             border: 2px solid #554DEF;
+                             background: #554DEF !important;
+                             color: #fff;
+                             padding: 3px 22px;
+                             letter-spacing: 1px;
+                             border-radius: 3px;
+                         }
+                        
+
+                        }
+                    
+                    }
+                }
+            }
+        }
+    }
+   
+}
+
+.jobseeker-profile-page{
+
+            .vdp-datepicker.form__input input {
+                height: 100% !important;
+                width: 100% !important;
+                left: 0;
+                top: 0;
+            }
+            
+            
+
+        .nav-icon{
+            width:30px;
+            height:30px;
+            line-height: 28px;
+            cursor:pointer;
+            svg{
+                    width: 14px;
+            }
+        }
+        .croppa-container{
+        
+            canvas{
+                
+               
+            }
+           svg.icon-remove{
+               box-shadow: none !important;
+               filter:initial !important;
+           }
+       }
+      
+
+        .jobseeker_profile_header{
+            position: relative;
+            display:table;
+            width:100%;
+            min-height: 360px;
+            box-shadow: none;
+            .sl-spinner {
+                width: 100%;
+                text-align: center;
+                position: absolute;
+                left: 25px;
+                top: 20px;
+            }
+            h5{
+                div,p{
+                    display:inline-block;
+                }
+                .bg--profilet{
+                    background:none !important;
+                    svg{
+                        vertical-align: middle;
+                    }
+                }
+            }
+            .profile_col{
+                margin-top: 20px;
+                p{
+                    width: 100%;
+                }
+                .missing{
+                    opacity:0.4
+                }
+                &:first-child{
+                       
+                    text-align: center;
+
+                    .user_profile_image{
+                        position: relative;
+                        margin-bottom:10px;
+                        background-size:cover;
+                        width:100px;
+                        height:100px;
+                        margin:0 auto;
+                        margin-bottom:20px;
+                        overflow: hidden;
+                        &:hover{
+                            .edit_profile_image{
+                                visibility: visible;
+                            }
+                        }
+                        img{
+                            width:100px;
+                            height:100px;
+                            border:2px solid #f4f4f4;
+                            
+                        }
+                        .edit_profile_image {
+                            visibility: hidden;
+                            width: 100px;
+                            height: 100px;
+                            position: absolute;
+                            background: #0000006e;
+                            top: 0;
+                            left: 0;
+                            right: 0;
+                            margin: 0 auto;
+                            line-height: 101px;
+                            color: #fff;
+                            font-size: 12px;
+                        }
+                    }
+                    .vue-slide-bar-tooltip-wrap img {
+                        width: 11px !important;
+                        position: relative !important;
+                        height: 11px !important;
+                        border-radius: initial !important;
+                    }
+                    h5{
+                        margin-bottom:0px;
+                    }
+                    p{
+                        
+                        font-size:12px;
+
+                    }
+                    ul.social_networks{
+                        padding:0;
+                        list-style: none;
+                        li{
+                            display:inline-block;
+                            margin-right:10px;
+                            &:last-child{
+                                margin-right:0;
+                            }
+                        }
+                    }
+                    &:after{
+                        content:'';
+                        position: absolute;
+                        right:0;
+                        top:0;
+                        height:100%;
+                        width:2px;
+                        background:#ebedf2;
+                        border-radius:50%;
+                    }
+                }
+                &:nth-child(2){
+                    width:40%;
+                    padding-left:40px;
+                    padding-right:40px;
+                    .biography{
+                        margin-bottom:20px;
+                        font-size: 13px;
+                        font-family: "Poppins",'sans-serif';
+                        color: #525F7F;
+
+                        
+                    }
+                    ul.skills_listing{
+                       
+                        padding:0;margin:0;
+                        margin-bottom:20px;
+                        li{
+                            display: inline-block;
+                            padding:5px 10px;
+                            font-size:12px;
+                            margin-right:5px;
+                            margin-bottom:5px;
+                            border-radius: 3px;
+                            
+                        }
+                    }
+                    &:after{
+                        content:'';
+                        position: absolute;
+                        right:0;
+                        top:0;
+                        height:100%;
+                        width:2px;
+                        background:#ebedf2;
+                        border-radius:50%;
+                    }
+                }
+                &:nth-child(3){
+                    width:20%;
+                    text-align: center;
+                   
+                }
+            }
+        }
+
+        .profile_tabs{
+            margin:30px 0;
+            
+            .nav-tabs{
+                
+                margin-bottom:30px;
+                border:none;
+                .nav-item{
+                    background:none;
+                    border:none;
+                    .nav-link{
+                        font-size: 14px;
+                        font-weight: normal;
+                        font-stretch: normal;
+                        font-style: normal;
+                        line-height: 1.2;
+                        letter-spacing: normal;
+                        text-align: center;
+                        color: #a7a9ac;
+                        background: none;
+                        border: none !important;
+                        &.active{
+                            font-weight: bold !important;
+                            color: #58595b !important;    
+                            background: none;
+                            border: none;                        
+                        }
+                    }
+                }
+            }
+            .tab-content{
+                .box{
+                    padding:0;
+                    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1) !important;
+                }
+                h5{
+                    font-size:15px;
+                }
+            }
+
+           
+        }
+
+        .profile_edit_modals{
+            .croppa-container{
+                border-radius: 50%;
+                overflow: hidden;
+            }
+            .profile_image_manipulation{
+                width: 84%;
+                margin:0 auto;
+                img{
+                    width:20px !important;
+                    height:10px !important;
+                    border-radius: initial !important;
+                }
+                h6{
+                    display: inline-block;
+                    float: left;
+                    margin:0;
+                }
+                .vue-slide-bar-component {
+                    padding: 0 !important;
+                    display: inline-block;
+                    width: 73%;
+                    vertical-align: middle;
+                }
+            }
+            .form-type-1{
+                .form__input{
+                    min-width: initial;
+                }
+                .form__inline{
+                    .form__group{
+                        width: 48.5%;
+                    }
+                }
+            }
+        }
+
+}
+
+
+.vdp-datepicker__calendar{
+    span.cell.day.today {
+        background: #f1f1f1;
+        border-radius: 6px;
+    }
+}
+
+.socialMediaList{
+    li{
+        display: inline;
+        padding: 5px;
+    }
+    span{
+        font-size: 15px;
+        font-weight: bold;
+        color: #4d4d4d;
+    }
+}
+
+
+// JOBSEEKER PROFILE RESPONSIVE
+
+.scroll {  
+    margin: 4px, 4px;  
+    padding: 4px; 
+    width: auto; 
+    overflow: auto;  
+    white-space: nowrap;  
+} 
+#smprofiletabs{
+    display: none;
+}
+@media(min-width: 300px) and(max-width: 500px){
+    #mdprofiletabs{
+        display: none !important;
+    }
+    #smprofiletabs{
+        display: block !important;
+    }
+    .iconEditDeleteMobile{
+        position: absolute !important;
+        width: 30px !important;
+        right: 30px !important;
+    }
+    .actions{
+        margin-bottom: -10px !important;
+        margin-top: 0px !important;
+    }
+    .actionsExperience{
+        margin-bottom: -45px !important;
+        margin-top: 0px !important;
+    }
+    .titleoftabs{
+        font-size: 20px !important;
+        font-weight: bold !important;
+        text-align: center !important;
+        color: #58595b !important;
+    }
+    .betaDetailstabs{
+        h6{
+            margin-top: 0px !important;
+            font-size: 10px !important; 
+            font-weight: normal !important;
+            font-stretch: normal !important;
+            font-style: normal !important;
+            letter-spacing: normal !important;
+            text-align: center !important;
+            color: #808285 !important;
+            text-transform: unset !important;
+        }
+        h4{
+            margin-top: -20px !important;
+            font-size: 13px !important;
+            font-weight: normal !important;
+            color: #808285 !important;
+        }
+        h3{
+            margin-top: -10px !important;
+            margin-bottom: 15px !important;
+            font-size: 15px !important;
+            font-weight: 800 !important;
+            color: #4d4d4d !important;
+        }
+        .p-m-t{
+            margin-top: -10px !important;
+        }
+    }
+}
