@@ -27,7 +27,7 @@ export default {
             },
             data() {
                 const local = 'http://127.0.0.1:8000/'
-                const production = 'https://api.hr-bee.com/'
+                const production = 'https://api.stage-hrbee.com/'
                 return {
                     content_loading: false,
 

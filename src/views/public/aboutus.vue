@@ -111,7 +111,7 @@
                     <div class="clientsWrapper">
                         <div v-for="(client, index) in this.clients" :key="client.id">
                             <div className="text-center">
-                                <img :src="'https://api.hr-bee.com/images-files/' + client.logo_url" alt="" />
+                                <img :src="'https://api.stage-hrbee.com/images-files/' + client.logo_url" alt="" />
                             </div>
                         </div>
                     </div>
@@ -347,7 +347,7 @@
                 <div class="clientsWrapper">
                     <div v-for="(client, index) in this.clients" :key="client.id">
                         <div className="text-center">
-                            <img :src="'https://api.hr-bee.com/images-files/' + client.logo_url" alt="" />
+                            <img :src="'https://api.stage-hrbee.com/images-files/' + client.logo_url" alt="" />
                         </div>
                     </div>
                 </div>

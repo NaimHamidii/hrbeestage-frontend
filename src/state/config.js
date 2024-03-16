@@ -20,7 +20,7 @@ var site_axios = axios.create({
 })
 
 const local = 'http://127.0.0.1:8000/'
-const production = 'https://api.hr-bee.com/'
+const production = 'https://api.stage-hrbee.com/'
 // SERVER
 // var api_endpoint = 'https://api.hr-bee.com/';
 

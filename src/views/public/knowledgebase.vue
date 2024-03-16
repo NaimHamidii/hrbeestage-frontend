@@ -22,10 +22,10 @@
        </div>
        <div v-if="jobseekerKnowledge">
            <div class="computers-wrapper">
-                <a href="https://api.hr-bee.com/desktop/windows/hr-setup.zip">
+                <a href="https://api.stage-hrbee.com/desktop/windows/hr-setup.zip">
                     <img src="/assets/windows.png" />
                 </a>
-                <a href="https://api.hr-bee.com/desktop/macos/hr-setup.zip">
+                <a href="https://api.stage-hrbee.com/desktop/macos/hr-setup.zip">
                     <img src="/assets/macos.png" />
                 </a>
             </div>

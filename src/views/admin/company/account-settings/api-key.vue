@@ -18,22 +18,22 @@
                     <div class="form-type-1">
                         <div class="form__group">
                             <label for="auth_url" class="form__label bold">{{ $t('account_settings.apiGetEmployees') }}</label>
-                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.hr-bee.com/api/employees?apiKey=${company_api.api_key}`)" class="endpoint-api-key">
-                                https://api.hr-bee.com/api/employees?apiKey={{ company_api.api_key }}
+                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.stage-hrbee.com/api/employees?apiKey=${company_api.api_key}`)" class="endpoint-api-key">
+                                https://api.stage-hrbee.com/api/employees?apiKey={{ company_api.api_key }}
                             </p>
                         </div>
 
                         <div class="form__group">
                             <label for="auth_url" class="form__label bold">{{ $t('account_settings.apiGetVacations') }}</label>
-                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.hr-bee.com/api/vacations?year=2024&apiKey=${company_api.api_key}`)" class="endpoint-api-key">
-                                https://api.hr-bee.com/api/vacations?year=2024&apiKey={{ company_api.api_key }}
+                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.stage-hrbee.com/api/vacations?year=2024&apiKey=${company_api.api_key}`)" class="endpoint-api-key">
+                                https://api.stage-hrbee.com/api/vacations?year=2024&apiKey={{ company_api.api_key }}
                             </p>
                         </div>
 
                         <div class="form__group">
                             <label for="auth_url" class="form__label bold">{{ $t('account_settings.apiGetPerformances') }}</label>
-                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.hr-bee.com/api/performances?month=1&year=2024&apiKey=${company_api.api_key}`)" class="endpoint-api-key">
-                                https://api.hr-bee.com/api/performances?month=1&year=2024&apiKey={{ company_api.api_key }}
+                            <p  v-b-tooltip.hover title="Click to copy this URL!" @click="copyUrl(`https://api.stage-hrbee.com/api/performances?month=1&year=2024&apiKey=${company_api.api_key}`)" class="endpoint-api-key">
+                                https://api.stage-hbee.com/api/performances?month=1&year=2024&apiKey={{ company_api.api_key }}
                             </p>
                         </div>
                     </div>
